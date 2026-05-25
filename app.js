@@ -42,11 +42,26 @@
     };
   });
 
+  // ── Handle map (handle string → author object, for @mention lookup) ──
+  const handleMap = {};
+  Object.values(authors).forEach(a => { if (a.handle) handleMap[a.handle] = a; });
+
   // ── Render main posts ──────────────────────────────────────────────
   const posts = [...doc.querySelectorAll('thread > posts > post')];
   container.innerHTML = '';
   posts.forEach((postEl, i) => {
     container.appendChild(buildPost(postEl, /* isLast */ i === posts.length - 1));
+  });
+
+  // ── @mention hover (delegated) ─────────────────────────────────────
+  container.addEventListener('mouseover', e => {
+    if (e.target.classList.contains('mention')) {
+      const author = handleMap[e.target.dataset.handle];
+      if (author) showTooltip(e, author);
+    }
+  });
+  container.addEventListener('mouseout', e => {
+    if (e.target.classList.contains('mention')) tooltip.setAttribute('hidden', '');
   });
 
   // ── Builders ───────────────────────────────────────────────────────
@@ -118,7 +133,7 @@
   function buildRepostRow(repostEl, depth) {
     const author      = getAuthor(repostEl.getAttribute('author'));
     const timestamp   = repostEl.getAttribute('timestamp') || '';
-    const content     = qs(repostEl, 'content');
+    const contentHtml = getContentHtml(repostEl);
     const likeEls     = getLikeEls(repostEl);
     const repliesNode = repostEl.querySelector(':scope > replies');
     const childItems  = repliesNode ? [...repliesNode.children] : [];
@@ -137,7 +152,11 @@
                el('span', 'repost-verb', ` reposted · ${timestamp}`));
     body.appendChild(hdr);
 
-    if (content) body.appendChild(el('div', 'post-content repost-comment', content));
+    if (contentHtml) {
+      const cd = el('div', 'post-content repost-comment');
+      cd.innerHTML = contentHtml;
+      body.appendChild(cd);
+    }
 
     if (likeEls.length) {
       const likerNames = likeEls.map(l => getAuthor(l.getAttribute('author')).name);
@@ -171,12 +190,20 @@
     const child = xmlEl.querySelector(':scope > content');
     if (!child) return '';
     return [...child.childNodes].map(n => {
-      if (n.nodeType === Node.TEXT_NODE) return escHtml(n.textContent);
-      if (n.nodeName === 'em')           return `<em>${escHtml(n.textContent)}</em>`;
-      if (n.nodeName === 'strong')       return `<strong>${escHtml(n.textContent)}</strong>`;
+      if (n.nodeType === Node.TEXT_NODE) return mentionHtml(escHtml(n.textContent));
+      if (n.nodeName === 'em')           return `<em>${mentionHtml(escHtml(n.textContent))}</em>`;
+      if (n.nodeName === 'strong')       return `<strong>${mentionHtml(escHtml(n.textContent))}</strong>`;
       if (n.nodeName === 'br')           return '<br>';
-      return escHtml(n.textContent);
+      return mentionHtml(escHtml(n.textContent));
     }).join('');
+  }
+
+  // Wrap @handle tokens in styled spans for known cast members.
+  function mentionHtml(s) {
+    return s.replace(/@([\w-]+)/g, (match, handle) => {
+      if (!handleMap[handle]) return match;
+      return `<span class="mention" data-handle="${handle}">${match}</span>`;
+    });
   }
 
   // Builds a quote-tweet box for a <quote> element.

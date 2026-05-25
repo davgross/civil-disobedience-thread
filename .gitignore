@@ -9,3 +9,7 @@ rtcg.html
 
 # Claude working files
 .claude/
+
+# Editor swap files
+*.swp
+*.swo

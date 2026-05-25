@@ -162,7 +162,7 @@
     <author id="biblebot">
       <name>BibleBot</name>
       <handle>biblebot</handle>
-      <initials>✝</initials>
+      <initials>🕇</initials>
       <color>#5a3a1a</color>
       <years></years>
       <bio>Automated scriptural reference. I link to Bible passages. biblegateway.com</bio>
@@ -426,6 +426,105 @@
       <avatar>avatars/TrumanJNelson.jpg</avatar>
     </author>
 
+    <author id="JSMill">
+      <name>John Stuart Mill</name>
+      <handle>jsmill</handle>
+      <initials>JSM</initials>
+      <color>#4a5c7a</color>
+      <years>1806–1873</years>
+      <bio>Philosopher, political economist, MP. Championed liberty and the harm principle. Reviewed Tocqueville, corresponded with Carlyle, and outlived almost everyone worth arguing with. London.</bio>
+      <avatar>avatars/JSMill.jpg</avatar>
+    </author>
+
+    <author id="deTocqueville">
+      <name>Alexis de Tocqueville</name>
+      <handle>detocqueville</handle>
+      <initials>AdT</initials>
+      <color>#5a3a5a</color>
+      <years>1805–1859</years>
+      <bio>French aristocrat, historian, political thinker. Traveled America in 1831, saw a democratic future arriving, and tried to understand it before it arrived. Paris.</bio>
+      <avatar>avatars/deTocqueville.jpg</avatar>
+    </author>
+
+    <author id="SCOTUS">
+      <name>U.S. Supreme Court</name>
+      <handle>scotus</handle>
+      <initials>SC</initials>
+      <color>#3a3a2a</color>
+      <years>est. 1789</years>
+      <bio>The highest court in the land. Has found, over the years, that the Constitution means many things. Washington, D.C.</bio>
+    </author>
+
+    <author id="aestheticpeabody">
+      <name>Elizabeth Palmer Peabody</name>
+      <handle>aestheticpeabody</handle>
+      <initials>EPP</initials>
+      <color>#8a6a7a</color>
+      <years>1804–1894</years>
+      <bio>Publisher of Aesthetic Papers, where "Resistance to Civil Government" first appeared in print. Educator, reformer, and nexus of the Transcendentalist circle. Boston.</bio>
+      <avatar>avatars/aestheticpeabody.jpg</avatar>
+    </author>
+
+    <author id="benjamintucker">
+      <name>Benjamin Tucker</name>
+      <handle>benjamintucker</handle>
+      <initials>BT</initials>
+      <color>#5a3a2a</color>
+      <years>1854–1939</years>
+      <bio>Individualist anarchist, editor of Liberty. Translated Proudhon and Bakunin, republished Thoreau. Believed the state is the enemy of liberty in all its forms. Boston → Paris.</bio>
+      <avatar>avatars/benjamintucker.jpg</avatar>
+    </author>
+
+    <author id="sagitta">
+      <name>John Henry Mackay</name>
+      <handle>sagitta</handle>
+      <initials>JHM</initials>
+      <color>#4a3a5a</color>
+      <years>1864–1933</years>
+      <bio>Scottish-born, German-raised individualist anarchist, writing as Sagitta. Novelist, poet, Stirner devotee. Helped republish Thoreau in Europe. Berlin.</bio>
+      <avatar>avatars/sagitta.jpg</avatar>
+    </author>
+
+    <author id="twparsons">
+      <name>T.W. Parsons</name>
+      <handle>twparsons</handle>
+      <initials>TWP</initials>
+      <color>#5a5a4a</color>
+      <years>1819–1892</years>
+      <bio>Boston dentist and poet. Translated Dante's Inferno. Encountered Thoreau in the Transcendentalist orbit and remained, upon reflection, unpersuaded. Boston.</bio>
+      <avatar>avatars/twparsons.jpg</avatar>
+    </author>
+
+    <author id="WalterHarding">
+      <name>Walter Harding</name>
+      <handle>walterharding</handle>
+      <initials>WH</initials>
+      <color>#3a5a6a</color>
+      <years>1917–1996</years>
+      <bio>The foremost Thoreau scholar of the twentieth century. Founded the Thoreau Society, wrote the definitive biography. Spent a career ensuring Thoreau was read carefully. Geneseo, NY.</bio>
+      <avatar>avatars/WalterHarding.jpg</avatar>
+    </author>
+
+    <author id="linyutang">
+      <name>Lin Yutang</name>
+      <handle>linyutang</handle>
+      <initials>林語堂</initials>
+      <color>#7a5a3a</color>
+      <years>1895–1976</years>
+      <bio>Chinese-American writer, philosopher, inventor. "The Importance of Living." Found in Thoreau a kindred spirit who understood idleness as a moral act. New York → Taipei.</bio>
+      <avatar>avatars/linyutang.jpg</avatar>
+    </author>
+
+    <author id="rudolfrocker">
+      <name>Rudolf Rocker</name>
+      <handle>rudolfrocker</handle>
+      <initials>RR</initials>
+      <color>#4a3a4a</color>
+      <years>1873–1958</years>
+      <bio>German anarcho-syndicalist. Organized Jewish workers in London, fled Hitler, ended up in New York. Believed culture, not the state, was civilization. New York.</bio>
+      <avatar>avatars/rudolfrocker.jpg</avatar>
+    </author>
+
   </authors>
 
   <!-- ================================================================
@@ -440,45 +539,59 @@
       <content>Resistance to Civil Government, a thread:</content>
       <likes>
         <like author="alcott"/>
+        <like author="aestheticpeabody"/>
         <like author="tolstoy"/>
+        <like author="benjamintucker"/>
+        <like author="sagitta"/>
         <like author="redemma"/>
         <like author="gandhi"/>
+        <like author="WalterHarding"/>
         <like author="MartinBuber"/>
         <like author="king"/>
       </likes>
       <replies>
-        <repost id="rp1-1" author="alcott" timestamp="1848">
+        <repost id="rp1-1" author="aestheticpeabody" timestamp="1849" />
+        <repost id="rp1-2" author="TheNewEnglander" timestamp="1849">
+          <content>Of the odd things in my feed today, the queerest is a thread on Resistance to Civil Government by @hdthoreau, a man who refuses to pay all taxes and has been imprisoned in consequence, we know not how many times; but he writes straight on what thinks, and it is no slight matter to be able to know by actual inspection that such a man as this lives and breathes in New England.</content>
+        </repost>
+        <repost id="rp1-3" author="tolstoy" timestamp="1899">
+          <content>Fifty years ago a little-known, but very remarkable American author, @hdthoreau, not only wrote a beautiful article on the duty of a man not to obey the government, but also in practice showed an example of this disobedience.</content>
+        </repost>
+        <repost id="rp1-4" author="gandhi" timestamp="1907">
+          <content>@hdthoreau is a great writer, philosopher, poet, and withal a most practical man, that is, he teaches nothing he is not prepared to practice in himself. He is one of the greatest and most moral men America has produced. He went to gaol for the sake of his principles and suffering humanity. His essay has, therefore, been sanctified by suffering. Moreover, it is written for all time. Its incisive logic is unanswerable.</content>
+        </repost>
+        <repost id="rp1-5" author="sagitta" timestamp="1908">
+          <content>@benjamintucker I will republish @hdthoreau’s “Duty” in the spring.</content>
+        </repost>
+        <repost id="rp1-6" author="MartinBuber" timestamp="1962">
+          <content lang="de">Es sind nun nazhezu sechzig Jahre her, dass ich Thoreaus Traktat über den “bürgerlichen Ungehorsam” kennen lernte. Ich las ihn mit dem starken Gefühl: Das ist etwas, was mich unmittelbar angeht.</content>
+        </repost>
+        <repost id="rp1-4" author="king" timestamp="1963">
+          <content>During my student days I read @hdthoreau’s essay “On Civil Disobedience" for the first time. Here, in this courageous New Englander’s refusal to pay his taxes and his choice of jail rather than support a war that would spread slavery’s territory into Mexico, I made my first contact with the theory of nonviolent resistance. Fascinated by the idea of refusing to cooperate with an evil system, I was so deeply moved that I reread the work several times.</content>
+        </repost>
+        <reply id="rp1-1" author="alcott" timestamp="1848">
           <!-- Source: The Journals of Bronson Alcott -->
-          <content>Heard Thoreau’s lecture before the Lyceum on the relation of the individual to the state—an admirable statement of the rights of individual to self-government, and an attentive audience. His allusions to the Mexican War, to Mr. Hoar’s expulsion from Carolina, his own imprisonment in Concord Jail for refusal to pay his tax, Mr. Hoar’s payment of mine when taken to prison for a similar refusal, were all pertinent, well considered, and reasoned. I took great pleasure in this deed of Thoreau’s.</content>
+          <content>Heard @hdthoreau’s lecture before the Lyceum on the relation of the individual to the state—an admirable statement of the rights of individual to self-government, and an attentive audience. His allusions to the Mexican War, to Mr. Hoar’s expulsion from Carolina, his own imprisonment in Concord Jail for refusal to pay his tax, Mr. Hoar’s payment of mine when taken to prison for a similar refusal, were all pertinent, well considered, and reasoned. I took great pleasure in this deed of Thoreau’s.</content>
           <replies>
             <reply id="r-rp1-1" author="amalcott" timestamp="1848">
               <content>He may truly be called the “Diogenes" of the 19th century—so humble—true and wise—His Hut being literally a Tub with a roof—but so comfortable—rural and classic.</content>
             </reply>
           </replies>
           <like author="thoreau"/>
-        </repost>
-        <repost id="rp1-2" author="tolstoy" timestamp="1899">
-          <content>Fifty years ago a little-known, but very remarkable American author, Thoreau, not only wrote a beautiful article on the duty of a man not to obey the government, but also in practice showed an example of this disobedience.</content>
-        </repost>
-        <repost id="rp1-2" author="gandhi" timestamp="1907">
-          <content>Thoreau is a great writer, philosopher, poet, and withal a most practical man, that is, he teaches nothing he is not prepared to practice in himself. He is one of the greatest and most moral men America has produced. He went to gaol for the sake of his principles and suffering humanity. His essay has, therefore, been sanctified by suffering. Moreover, it is written for all time. Its incisive logic is unanswerable.</content>
-        </repost>
-        <repost id="rp1-3" author="MartinBuber" timestamp="1962">
-          <content lang="de">Es sind nun nazhezu sechzig Jahre her, dass ich Thoreaus Traktat über den “bürgerlichen Ungehorsam” kennen lernte. Ich las ihn mit dem starken Gefühl: Das ist etwas, was mich unmittelbar angeht.</content>
-        </repost>
-        <repost id="rp1-4" author="king" timestamp="1963">
-          <content>During my student days I read Henry David Thoreau’s essay “On Civil Disobedience" for the first time. Here, in this courageous New Englander’s refusal to pay his taxes and his choice of jail rather than support a war that would spread slavery’s territory into Mexico, I made my first contact with the theory of nonviolent resistance. Fascinated by the idea of refusing to cooperate with an evil system, I was so deeply moved that I reread the work several times.</content>
-        </repost>
-        <reply id="r1-1" author="TheNewEnglander" timestamp="1849">
-          <content>It is no slight matter to be able to know by actual inspection that such a man as this lives and breathes in New England.</content>
+        </reply>
+        <reply id="r1-1" author="twparsons" timestamp="1849">
+          <content>From this, I doubt if there is much in @hdthoreau.</content>
         </reply>
         <reply id="r1-2" author="redemma" timestamp="1917">
-          <content>I honor that great American Henry D. Thoreau, and we are following him and his doctrines. We believe the time will come when the highest conscience of humanity will be shown in civil disobedience to unrighteous requirements of the powerful few.</content>
+          <content>I honor that great American @hdthoreau, and we are following him and his doctrines. We believe the time will come when the highest conscience of humanity will be shown in civil disobedience to unrighteous requirements of the powerful few.</content>
         </reply>
-        <reply id="r1-3" author="TheodoreBaird" timestamp="1962">
+        <reply id="r1-3" author="WalterHarding" timestamp="1946">
+          <content>“Civil Disobedience” has suffered an unofficial ban since its first appearance in print. In New York City only ten years ago a complete issue of a small-circulation newspaper was seized and destroyed by the police as seditious because it reprinted the essay.</content>
+        </reply>
+        <reply id="r1-4" author="TheodoreBaird" timestamp="1962">
           <content>There are those for whom this essay on “Civil Disobedience” serves as the classic document for signing a separate peace treaty and resigning from society. Every now and then someone deciding he will no longer pay his income tax sends a copy of this essay to the nearest Collector of Internal Revenue as an intelligible explanation.</content>
         </reply>
-        <reply id="r1-4" author="TrumanJNelson" timestamp="1962">
+        <reply id="r1-5" author="TrumanJNelson" timestamp="1962">
           <content>I could never understand how writing as full of revolutionary incitements as “Civil Disobedience” can be fed like pap to students without, until recently, causing any noticeable upheavals. It clearly teaches the overthrow of the government. It is subversive under all the present definitions of that very elastic impugnment.</content>
         </reply>
       </replies>
@@ -488,17 +601,22 @@
       <content>I heartily accept the motto,—"That government is best which governs least"; and I should like to see it acted up to more rapidly and systematically. Carried out, it finally amounts to this, which also I believe,—"That government is best which governs not at all"; and when men are prepared for it, that will be the kind of government which they will have.</content>
       <likes>
         <like author="redemma" />
+        <like author="gandhi" />
+        <like author="rudolfrocker" />
       </likes>
       <replies>
         <reply id="rp1" author="redemma" timestamp="1901">
-          <content>Americans who insist on believing that anarchy was foreign revolutoin are finding out that it is universal philosophy, and that their own Emerson and Thoreau said more sensible anarchical things than any of our professed Anarchists.</content>
+          <content>Americans who insist on believing that anarchy was foreign revolutoin are finding out that it is universal philosophy, and that their own @emerson and @hdthoreau said more sensible anarchical things than any of our professed Anarchists.</content>
         </reply>
       </replies>
     </post>
 
     <post id="p2" author="thoreau" timestamp="1849">
       <content>Government is at best but an expedient; but most governments are usually, and all governments are sometimes, inexpedient. The objections which have been brought against a standing army, and they are many and weighty, and deserve to prevail, may also at last be brought against a standing government. The standing army is only an arm of the standing government.</content>
-      <likes/>
+      <likes>
+        <like author="gandhi" />
+        <like author="rudolfrocker" />
+      </likes>
       <replies/>
     </post>
 
@@ -562,7 +680,9 @@
 
     <post id="p10" author="thoreau" timestamp="1849">
       <content>After all, the practical reason why, when the power is once in the hands of the people, a majority are permitted, and for a long period continue, to rule, is not because they are most likely to be in the right, nor because this seems fairest to the minority, but because they are physically the strongest.</content>
-      <likes/>
+      <likes>
+        <like author="gandhi" />
+      </likes>
       <replies>
         <reply id="r10-1" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Majority_rule" title="Majority rule" description="Decision rule that selects alternatives which have a majority" thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Jos%C3%A9_Clemente_Orozco_-_The_Demagogue_-_Google_Art_Project.jpg/250px-Jos%C3%A9_Clemente_Orozco_-_The_Demagogue_-_Google_Art_Project.jpg" />
@@ -573,6 +693,7 @@
     <post id="p11" author="thoreau" timestamp="1849">
       <content>But a government in which the majority rule in all cases cannot be based on justice, even as far as men understand it. Can there not be a government in which majorities do not virtually decide right and wrong, but conscience?—in which majorities decide only those questions to which the rule of expediency is applicable?</content>
       <likes>
+        <like author="gandhi" />
         <like author="WillardUphaus" />
       </likes>
       <replies/>
@@ -581,7 +702,9 @@
     <post id="p12" author="thoreau" timestamp="1849">
       <content>Must the citizen ever for a moment, or in the least degree, resign his conscience to the legislator? Why has every man a conscience, then? I think that we should be men first, and subjects afterward.</content>
       <likes>
+        <like author="gandhi" />
         <like author="WillardUphaus" />
+        <like author="WalterHarding"/>
       </likes>
       <replies>
         <reply id="r12-1" author="thoreau" timestamp="1849">
@@ -600,7 +723,9 @@
       <content>It is not desirable to cultivate a respect for the law, so much as for the right. The only obligation which I have a right to assume, is to do at any time what I think right.</content>
       <likes>
         <like author="tusitala" />
+        <like author="gandhi" />
         <like author="WillardUphaus" />
+        <like author="WalterHarding"/>
       </likes>
       <replies>
         <reply id="r13-1" author="arendt" timestamp="1970">
@@ -613,6 +738,7 @@
       <content>It is truly enough said that a corporation has no conscience; but a corporation of conscientious men is a corporation <em>with</em> a conscience. Law never made men a whit more just; and, by means of their respect for it, even the well-disposed are daily made the agents of injustice.</content>
       <likes>
         <like author="redemma" />
+        <like author="WalterHarding"/>
       </likes>
       <replies/>
     </post>
@@ -652,6 +778,7 @@
     <post id="p18" author="thoreau" timestamp="1849">
       <content>The mass of men serve the State thus, not as men mainly, but as machines, with their bodies. They are the standing army, and the militia, jailers, constables, posse comitatus, etc. In most cases there is no free exercise whatever of the judgement or of the moral sense; but they put themselves on a level with wood and earth and stones; and wooden men can perhaps be manufactured that will serve the purpose as well.</content>
       <likes>
+        <like author="rudolfrocker" />
         <like author="WillardUphaus" />
       </likes>
       <replies>
@@ -663,19 +790,25 @@
 
     <post id="p19" author="thoreau" timestamp="1849">
       <content>Such command no more respect than men of straw or a lump of dirt. They have the same sort of worth only as horses and dogs. Yet such as these even are commonly esteemed good citizens.</content>
-      <likes/>
+      <likes>
+        <like author="rudolfrocker" />
+      </likes>
       <replies/>
     </post>
 
     <post id="p20" author="thoreau" timestamp="1849">
       <content>Others, as most legislators, politicians, lawyers, ministers, and office-holders, serve the State chiefly with their heads; and, as they rarely make any moral distinctions, they are as likely to serve the devil, without intending it, as God.</content>
-      <likes/>
+      <likes>
+        <like author="rudolfrocker" />
+      </likes>
       <replies/>
     </post>
 
     <post id="p21" author="thoreau" timestamp="1849">
       <content>A very few, as heroes, patriots, martyrs, reformers in the great sense, and <em>men</em>, serve the State with their consciences also, and so necessarily resist it for the most part; and they are commonly treated by it as enemies.</content>
-      <likes/>
+      <likes>
+        <like author="rudolfrocker" />
+      </likes>
       <replies/>
     </post>
 
@@ -684,7 +817,9 @@
       <content>I am too high-born to be propertied,<br />To be a secondary at control,<br />Or useful serving-man and instrument<br />To any sovereign state throughout the world.</content>
       </quote>
       <content>A wise man will only be useful as a man, and will not submit to be “clay," and “stop a hole to keep the wind away," but leave that office to his dust at least:—</content>
-      <likes/>
+      <likes>
+        <like author="rudolfrocker" />
+      </likes>
       <replies>
         <reply id="r22-1" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Hamlet" title="Hamlet" description="“Imperial Cæsar, dead and turn’d to clay, Might stop a hole to keep the wind away.”" thumb="https://upload.wikimedia.org/wikipedia/commons/6/6a/Edwin_Booth_Hamlet_1870.jpg" />
@@ -751,7 +886,7 @@
           <content>Negroes are not and cannot be citizens in the meaning of the federal Constitution</content>
         </reply>
         <reply id="r28-2" author="TrumanJNelson" timestamp="1962">
-          <content>What would happen if Thoreau said this today at a Vietnam teach-in?</content>
+          <content>What would happen if @hdthoreau said this today at a Vietnam teach-in?</content>
         </reply>
       </replies>
     </post>
@@ -805,7 +940,9 @@
 
     <post id="p34" author="thoreau" timestamp="1849">
       <content>Practically speaking, the opponents to a reform in Massachusetts are not a hundred thousand politicians at the South, but a hundred thousand merchants and farmers here, who are more interested in commerce and agriculture than they are in humanity, and are not prepared to do justice to the slave and to Mexico, <em>cost what it may</em>.</content>
-      <likes/>
+      <likes>
+        <like author="rudolfrocker" />
+      </likes>
       <replies>
         <reply id="r34-1" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Southern_United_States" title="Southern United States" description="Historically, the South was defined as all states south of the 18th-century Mason–Dixon line, the Ohio River, and the 36°30′ parallel." thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Map_of_USA_South.svg/330px-Map_of_USA_South.svg.png" />
@@ -821,7 +958,9 @@
 
     <post id="p36" author="thoreau" timestamp="1849">
       <content>There are thousands who are <em>in opinion</em> opposed to slavery and to the war, who yet in effect do nothing to put an end to them; who, esteeming themselves children of Washington and Franklin, sit down with their hands in their pockets, and say that they know not what to do, and do nothing; who even postpone the question of freedom to the question of free-trade, and quietly read the prices-current along with the latest advices from Mexico, after dinner, and, it may be, fall asleep over them both.</content>
-      <likes/>
+      <likes>
+        <like author="rudolfrocker" />
+      </likes>
       <replies>
         <reply id="r36-1" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States" title="Founding Fathers of the United States" description="Late-eighteenth-century American revolutionary leaders including George Washington and Benjamin Franklin" thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/330px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg" />
@@ -831,13 +970,17 @@
 
     <post id="p37" author="thoreau" timestamp="1849">
       <content>What is the price-current of an honest man and patriot to-day? They hesitate, and they regret, and sometimes they petition; but they do nothing in earnest and with effect. They will wait, well disposed, for others to remedy the evil, that they may no longer have it to regret.</content>
-      <likes/>
+      <likes>
+        <like author="rudolfrocker" />
+      </likes>
       <replies/>
     </post>
 
     <post id="p38" author="thoreau" timestamp="1849">
       <content>At most, they give only a cheap vote, and a feeble countenance and God-speed, to the right, as it goes by them. There are nine hundred and ninety-nine patrons of virtue to one virtuous man; but it is easier to deal with the real possessor of a thing than with the temporary guardian of it.</content>
-      <likes/>
+      <likes>
+        <like author="rudolfrocker" />
+      </likes>
       <replies/>
     </post>
 
@@ -845,6 +988,7 @@
       <content>All voting is a sort of gaming, like chequers or backgammon, with a slight moral tinge to it, a playing with right and wrong, with moral questions; and betting naturally accompanies it. The character of the voters is not staked. I cast my vote, perchance, as I think right; but I am not vitally concerned that that right should prevail. I am willing to leave it to the majority.</content>
       <likes>
         <like author="redemma" />
+        <like author="rudolfrocker" />
       </likes>
       <replies>
         <reply id="r39-1" author="thoreau" timestamp="1850">
@@ -858,13 +1002,16 @@
       <likes>
         <like author="tusitala" />
         <like author="redemma" />
+        <like author="rudolfrocker" />
       </likes>
       <replies/>
     </post>
 
     <post id="p41" author="thoreau" timestamp="1849">
       <content>When the majority shall at length vote for the abolition of slavery, it will be because they are indifferent to slavery, or because there is but little slavery left to be abolished by their vote. <em>They</em> will then be the only slaves. Only <em>his</em> vote can hasten the abolition of slavery who asserts his own freedom by his vote.</content>
-      <likes/>
+      <likes>
+        <like author="rudolfrocker" />
+      </likes>
       <replies/>
     </post>
 
@@ -892,7 +1039,7 @@
       <likes/>
       <replies>
         <reply id="r44-1" author="larosenwa" timestamp="2000">
-          <content>Like Emerson, Thoreau imagines resistance in relation to maleness; both of them depict the pressures of democracy on the individual as threats to manhood. It is no accident that Thoreau’s essay has influenced so few women.</content>
+          <content>Like @emerson, @hdthoreau imagines resistance in relation to maleness; both of them depict the pressures of democracy on the individual as threats to manhood. It is no accident that Thoreau’s essay has influenced so few women.</content>
         </reply>
       </replies>
     </post>
@@ -915,7 +1062,7 @@
       <likes/>
       <replies/>
         <reply id="r46-1" author="king" timestamp="1958">
-          <content>Noncooperation with evil is as much a moral obligation as is cooperation with good. No other person has been more eloquent and passionate in getting this idea across than Thoreau. As a result of his writings and personal witness, we are the heirs of a legacy of creative protest. The teachings of Thoreau came alive in our civil rights movement; indeed, they are more alive than ever before. Whether expressed in a sit-in at lunch counters, a freedom ride into Mississippi, a peaceful protest in Albany, Georgia, a bus boycott in Montgomery, Alabama, these are outgrowths of Thoreau’s insistence that evil must be resisted and that no moral man can patiently adjust to injustice.</content>
+          <content>Noncooperation with evil is as much a moral obligation as is cooperation with good. No other person has been more eloquent and passionate in getting this idea across than @hdthoreau. As a result of his writings and personal witness, we are the heirs of a legacy of creative protest. The teachings of Thoreau came alive in our civil rights movement; indeed, they are more alive than ever before. Whether expressed in a sit-in at lunch counters, a freedom ride into Mississippi, a peaceful protest in Albany, Georgia, a bus boycott in Montgomery, Alabama, these are outgrowths of Thoreau’s insistence that evil must be resisted and that no moral man can patiently adjust to injustice.</content>
         </reply>
     </post>
 
@@ -965,13 +1112,16 @@
 
     <post id="p54" author="thoreau" timestamp="1849">
       <content>How can a man be satisfied to entertain an opinion merely, and enjoy <em>it</em>? Is there any enjoyment in it, if his opinion is that he is aggrieved? If you are cheated out of a single dollar by your neighbor, you do not rest satisfied with knowing that you are cheated, or with saying that you are cheated, or even with petitioning him to pay you your due; but you take effectual steps at once to obtain the full amount, and see that you are never cheated again.</content>
-      <likes/>
+      <likes>
+        <like author="rudolfrocker" />
+      </likes>
       <replies/>
     </post>
 
     <post id="p55" author="thoreau" timestamp="1849">
       <content>Action from principle,—the perception and the performance of right,—changes things and relations; it is essentially revolutionary, and does not consist wholly with any thing which was. It not only divides states and churches, it divides families; aye, it divides the <em>individual</em>, separating the diabolical in him from the divine.</content>
       <likes>
+        <like author="rudolfrocker" />
         <like author="WillardUphaus" />
         <like author="PaulLauter" />
       </likes>
@@ -980,19 +1130,26 @@
 
     <post id="p56" author="thoreau" timestamp="1849">
       <content>Unjust laws exist: shall we be content to obey them, or shall we endeavor to amend them, and obey them until we have succeeded, or shall we transgress them at once?</content>
-      <likes/>
+      <likes>
+        <like author="rudolfrocker" />
+        <like author="linyutang" />
+      </likes>
       <replies/>
     </post>
 
     <post id="p57" author="thoreau" timestamp="1849">
       <content>Men generally, under such a government as this, think that they ought to wait until they have persuaded the majority to alter them. They think that, if they should resist, the remedy would be worse than the evil. But it is the fault of the government itself that the remedy <em>is</em> worse than the evil. <em>It</em> makes it worse.</content>
-      <likes/>
+      <likes>
+        <like author="rudolfrocker" />
+      </likes>
       <replies/>
     </post>
 
     <post id="p58" author="thoreau" timestamp="1849">
       <content>Why is it not more apt to anticipate and provide for reform? Why does it not cherish its wise minority? Why does it cry and resist before it is hurt? Why does it not encourage its citizens to be on the alert to point out its faults, and <em>do</em> better than it would have them? Why does it always crucify Christ and excommunicate Copernicus and Luther, and pronounce Washington and Franklin rebels?</content>
-      <likes/>
+      <likes>
+        <like author="rudolfrocker" />
+      </likes>
       <replies>
         <reply id="r58-1" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Nicolaus_Copernicus" title="Nicolaus Copernicus" description="Renaissance polymath who pioneered a heliocentric model of the solar system" thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Nikolaus_Kopernikus_MOT.jpg/250px-Nikolaus_Kopernikus_MOT.jpg" />
@@ -1014,9 +1171,13 @@
       <likes>
         <like author="gandhi" />
         <like author="william_stuart_nelson" />
+        <like author="linyutang" />
       </likes>
       <replies>
-        <reply id="r60-1" author="arendt" timestamp="1970">
+        <reply id="r60-1" author="WalterHarding" timestamp="1946">
+          <content>Civil disobedience is a sort of non-violent sabotage wherein the conscientious citizen drags his heels on the wagon of a government hell-bent for destruction. That it is effective out of all proportion to its weight may be ascribed to the fact that it places the burden of action upon the opponent.</content>
+        </reply>
+        <reply id="r60-2" author="arendt" timestamp="1970">
           <content>You’re right: individual conscience requires nothing more. Conscience is unpolitical.</content>
         </reply>
       </replies>
@@ -1024,13 +1185,15 @@
 
     <post id="p61" author="thoreau" timestamp="1849">
       <content>What I have to do is to see, at any rate, that I do not lend myself to the wrong which I condemn.</content>
-      <likes/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
       <replies>
         <reply id="r61-1" author="thoreau" timestamp="1849">
           <content>While the law holds fast the thief and murderer, it lets itself go loose. When I have not paid the tax which the state demanded for that protection which I did not want, itself has robbed me; when I have asserted the liberty it presumed to declare, itself has imprisoned me. Poor creature! if it knows no better I will not blame it. If it cannot live but by these means, I can. I do not wish, it happens, to be associated with Massachusetts, either in holding slaves or in conquering Mexico. I am a little better than herself in these respects.</content>
         </reply>
         <reply id="r61-2" author="king" timestamp="1958">
-          <content>I remember how, as a college student, I had been moved when I first read this work. I became convinced that what we were preparing to do in Montgomery was related to what Thoreau had expressed. We were simply saying to the white community, “We can no longer lend our cooperation to an evil system.”</content>
+          <content>I remember how, as a college student, I had been moved when I first read this work. I became convinced that what we were preparing to do in Montgomery was related to what @hdthoreau had expressed. We were simply saying to the white community, “We can no longer lend our cooperation to an evil system.”</content>
         </reply>
       </replies>
     </post>
@@ -1063,6 +1226,7 @@
         <like author="tusitala" />
         <like author="hennacy" />
         <like author="WillardUphaus" />
+        <like author="linyutang" />
       </likes>
       <replies>
         <reply id="r65-1" author="emerson" timestamp="1846">
@@ -1079,6 +1243,7 @@
       <content>I think that it is enough if they have God on their side, without waiting for that other one. Moreover, any man more right than his neighbors constitutes a majority of one already.</content>
       <likes>
         <like author="WillardUphaus" />
+        <like author="linyutang" />
       </likes>
       <replies>
         <reply id="r66-1" author="emerson" timestamp="1849">
@@ -1089,7 +1254,9 @@
 
     <post id="p67" author="thoreau" timestamp="1849">
       <content>I meet this American government, or its representative the State government, directly, and face to face, once a year, no more, in the person of its tax-gatherer; this is the only mode in which a man situated as I am necessarily meets it; and it then says distinctly, Recognize me; and the simplest, the most effectual, and, in the present posture of affairs, the indispensablest mode of treating with it on this head, of expressing your little satisfaction with and love for it, is to deny it then.</content>
-      <likes/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
       <replies>
         <reply id="r67-1" author="PaulLauter" timestamp="1962">
           <content>The importance of the symbolic act is less what it accomplishes in the actual doing than its power to confront individuals with a concrete problem which cannot easily be shunted aside as can well-meaning sentiments. It embroils the “neighbor” in a conflict which can be resolved by no easy logic, but only in the actions of his own life.</content>
@@ -1102,7 +1269,9 @@
 
     <post id="p68" author="thoreau" timestamp="1849">
       <content>My civil neighbor, the tax-gatherer, is the very man I have to deal with,—for it is, after all, with men and not with parchment that I quarrel,—and he has voluntarily chosen to be an agent of the government. How shall he ever know well what he is and does as an officer of the government, or as a man, until he is obliged to consider whether he shall treat me, his neighbor, for whom he has respect, as a neighbor and well-disposed man, or as a maniac and disturber of the peace, and see if he can get over this obstruction to his neighborliness without a ruder and more impetuous thought or speech corresponding with his action.</content>
-      <likes/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
       <replies>
         <reply id="r68-1" author="emerson" timestamp="1846">
           <content>Refusing payment of the state tax does not reach the evil so nearly as many other methods within your reach. The state tax does not pay the Mexican War. Your coat, your sugar, your Latin &amp; French &amp; German book, your watch does. Yet these you do not stick at buying.</content>
@@ -1120,24 +1289,27 @@
       <likes>
         <like author="tusitala" />
         <like author="hennacy" />
+        <like author="linyutang" />
         <like author="WillardUphaus" />
       </likes>
       <replies>
         <reply id="r69-1" author="tusitala" timestamp="1880">
-          <content>We may compute the worth of Thoreau’s one night’s imprisonment as outweighing half a hundred voters at some subsequent election; and if Thoreau possessed as great a power of persuasion as (let us say) Falstaff, if he had counted a party however small, if his example had been followed by a hundred or by thirty of his fellows, I cannot but believe it would have greatly precipitated the era of freedom and justice.</content>
+          <content>We may compute the worth of @hdthoreau’s one night’s imprisonment as outweighing half a hundred voters at some subsequent election; and if Thoreau possessed as great a power of persuasion as (let us say) Falstaff, if he had counted a party however small, if his example had been followed by a hundred or by thirty of his fellows, I cannot but believe it would have greatly precipitated the era of freedom and justice.</content>
         </reply>
         <reply id="r69-2" author="gandhi" timestamp="1907">
-          <content>Historians say that the chief cause of the abolition of slavery in America was Thoreau’s imprisonment and the posting by him of this thread after his release. Men like Thoreau brought about the abolition of slavery by their personal examples.</content>
+          <content>Historians say that the chief cause of the abolition of slavery in America was @hdthoreau’s imprisonment and the posting by him of this thread after his release. Men like Thoreau brought about the abolition of slavery by their personal examples.</content>
         </reply>
-        <reply id="r69-3" author="larosenwa" timestamp="1991">
-          <content>It is simply not true now, if it ever was, that “one honest man… locked up in the county jail… would be the abolition of slavery [or state violence] in America." Against Thoreau’s serene evening in the Concord jail, and his certainty that his truth would prevail, I have had to set the fretting, unsettling experience of resisting repeatedly, being levied repeatedly, and not bringing about the millennium.</content>
+        <reply id="r69-4" author="larosenwa" timestamp="1991">
+          <content>It is simply not true now, if it ever was, that “one honest man… locked up in the county jail… would be the abolition of slavery [or state violence] in America." Against @hdthoreau’s serene evening in the Concord jail, and his certainty that his truth would prevail, I have had to set the fretting, unsettling experience of resisting repeatedly, being levied repeatedly, and not bringing about the millennium.</content>
         </reply>
       </replies>
     </post>
 
     <post id="p70" author="thoreau" timestamp="1849">
       <content>But we love better to talk about it: that we say is our mission. Reform keeps many scores of newspapers in its service, but not one man. If my esteemed neighbor, the State’s ambassador, who will devote his days to the settlement of the question of human rights in the Council Chamber, instead of being threatened with the prisons of Carolina, were to sit down the prisoner of Massachusetts, that State which is so anxious to foist the sin of slavery upon her sister,—though at present she can discover only an act of inhospitality to be the ground of a quarrel with her,—the Legislature would not wholly waive the subject the following winter.</content>
-      <likes/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
       <replies>
         <reply id="r70-1" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Samuel_Hoar" title="Samuel Hoar" description="a leading member of the Massachusetts Whig Party, a leading and founding member of the Massachusetts Free Soil Party" thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Samuel_Hoar_%28Massachusetts_Congressman%29.jpg/250px-Samuel_Hoar_%28Massachusetts_Congressman%29.jpg" />
@@ -1152,6 +1324,8 @@
         <like author="gandhi" />
         <like author="william_stuart_nelson" />
         <like author="hennacy" />
+        <like author="WalterHarding"/>
+        <like author="linyutang" />
       </likes>
       <replies>
         <reply id="r71-1" author="tusitala" timestamp="1880">
@@ -1177,8 +1351,13 @@
       <content>If any think that their influence would be lost there, and their voices no longer afflict the ear of the State, that they would not be as an enemy within its walls, they do not know by how much truth is stronger than error, nor how much more eloquently and effectively he can combat injustice who has experienced a little in his own person.</content>
       <likes>
         <like author="gandhi" />
+        <like author="WalterHarding"/>
       </likes>
-      <replies/>
+      <replies>
+        <reply id="r73-1" author="WalterHarding" timestamp="1946">
+          <content>The potency of civil disobedience is accentuated by the opponent’s fear of creating a martyrdom. An honest citizen martyred can do more to topple the throne of tyranny than ten thousand armed legions. Ten good men in prison can create a revolution, or one @gandhi shake an empire to its foundations!</content>
+        </reply>
+      </replies>
     </post>
 
     <post id="p74" author="thoreau" timestamp="1849">
@@ -1187,14 +1366,22 @@
         <like author="gandhi" />
         <like author="hennacy" />
         <like author="WillardUphaus" />
+        <like author="WalterHarding"/>
+        <like author="linyutang" />
       </likes>
-      <replies/>
+      <replies>
+        <reply id="r74-1" author="arendt" timestamp="1970">
+          <content>Organized minorities stand against assumed inarticulate, though hardly “silent,” majorities, which have changed in mood and opinion to an astounding degree under the pressure of the minorities.</content>
+        </reply>
+      </replies>
     </post>
 
     <post id="p75" author="thoreau" timestamp="1849">
       <content>If a thousand men were not to pay their tax-bills this year, that would not be a violent and bloody measure, as it would be to pay them, and enable the State to commit violence and shed innocent blood. This is, in fact, the definition of a peaceable revolution, if any such is possible.</content>
       <likes>
         <like author="gandhi" />
+        <like author="WalterHarding"/>
+        <like author="linyutang" />
       </likes>
       <replies>
         <reply id="r75-1" author="wikibot" timestamp="">
@@ -1205,13 +1392,17 @@
 
     <post id="p76" author="thoreau" timestamp="1849">
       <content>If the tax-gatherer, or any other public officer, asks me, as one has done, “But what shall I do?" my answer is, “If you really wish to do anything, resign your office." When the subject has refused allegiance, and the officer has resigned his office, then the revolution is accomplished.</content>
-      <likes/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
       <replies/>
     </post>
 
     <post id="p77" author="thoreau" timestamp="1849">
       <content>But even suppose blood should flow. Is there not a sort of blood shed when the conscience is wounded? Through this wound a man’s real manhood and immortality flow out, and he bleeds to an everlasting death. I see this blood flowing now.</content>
-      <likes/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
       <replies/>
     </post>
 
@@ -1248,7 +1439,7 @@
       <likes/>
       <replies>
         <reply id="r82-1" author="JamesMacKaye" timestamp="1930">
-          <content>We cannot all be Thoreaus with no family to support, and no debt to others except to give them useful insight and joyful inspiration by word and example.</content>
+          <content>We cannot all be @hdthoreau with no family to support, and no debt to others except to give them useful insight and joyful inspiration by word and example.</content>
         </reply>
       </replies>
     </post>
@@ -1308,7 +1499,9 @@
 
     <post id="p90" author="thoreau" timestamp="1849">
       <content>I have paid no poll-tax for six years. I was put into a jail once on this account, for one night; and, as I stood considering the walls of solid stone, two or three feet thick, the door of wood and iron, a foot thick, and the iron grating which strained the light, I could not help being struck with the foolishness of that institution which treated me as if I were mere flesh and blood and bones, to be locked up.</content>
-      <likes/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
       <replies>
         <reply id="r90-1" author="thoreau" timestamp="1854">
           <content>I was seized and put into jail, because I did not pay a tax to, or recognize the authority of, the state which buys and sells men, women, and children, like cattle at the door of its senate-house. I had gone down the woods for other purposes. But, wherever a man goes, men will pursue and paw him with their dirty institutions, and, if they can, constrain him to belong to their desperate odd-fellow society. It is true, I might have resisted forcibly with more or less effect, might have run ‘amok’ against society; but I preferred that society should run ‘amok’ against me, it being the desperate party.</content>
@@ -1317,7 +1510,7 @@
           <content>Carrying your opposition to the State to the point of allowing yourself to be put in jail rather than pay a paltry tax, savors a little bit of the grotesque and the melodramatic.</content>
           <replies>
             <reply id="r90-2-1" author="s-a-jones" timestamp="1890">
-              <content>Thoreau could live up to a conviction though to do it were a minority of one with the Universe against it. Burroughs sees only a “paltry tax” and is blind to the principle.</content>
+              <content>@hdthoreau could live up to a conviction though to do it were a minority of one with the Universe against it. Burroughs sees only a “paltry tax” and is blind to the principle.</content>
               <replies>
                 <reply id="r90-2-2" author="JohnBurroughs" timestamp="1922">
                   <content>It all seems a petty and ignoble ending of his fierce denunciation of politics and government, but it no doubt helped to satisfy his imagination, which so tyrannized over him throughout life.</content>
@@ -1334,7 +1527,9 @@
 
     <post id="p91" author="thoreau" timestamp="1849">
       <content>I wondered that it should have concluded at length that this was the best use it could put me to, and had never thought to avail itself of my services in some way.</content>
-      <likes/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
       <replies/>
     </post>
 
@@ -1342,6 +1537,7 @@
       <content>I saw that, if there was a wall of stone between me and my townsmen, there was a still more difficult one to climb or break through, before they could get to be as free as I was. I did not for a moment feel confined, and the walls seemed a great waste of stone and mortar. I felt as if I alone of all my townsmen had paid my tax.</content>
       <likes>
         <like author="gandhi" />
+        <like author="linyutang" />
       </likes>
       <replies>
         <reply id="r92-1" author="h-a-page" timestamp="1878">
@@ -1352,7 +1548,9 @@
 
     <post id="p93" author="thoreau" timestamp="1849">
       <content>They plainly did not know how to treat me, but behaved like persons who are underbred. In every threat and in every compliment there was a blunder; for they thought that my chief desire was to stand the other side of that stone wall. I could not but smile to see how industriously they locked the door on my meditations, which followed them out again without let or hindrance, and <em>they</em> were really all that was dangerous.</content>
-      <likes/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
       <replies/>
     </post>
 
@@ -1360,6 +1558,7 @@
       <content>As they could not reach me, they had resolved to punish my body; just as boys, if they cannot come at some person against whom they have a spite, will abuse his dog. I saw that the State was half-witted, that it was timid as a lone woman with her silver spoons, and that it did not know its friends from its foes, and I lost all my remaining respect for it, and pitied it.</content>
       <likes>
         <like author="gandhi" />
+        <like author="linyutang" />
       </likes>
       <replies/>
     </post>
@@ -1377,7 +1576,7 @@
       </likes>
       <replies>
         <reply id="r96-1" author="WillardUphaus" timestamp="1963">
-          <content>I am not sure whether I understand Thoreau or enter into his experience. I believe with him, with my whole heart, in the power of the <em>one</em>, but I cannot follow, without question, his belief that “there is little virtue in the masses of men.” How can I separate the <em>one</em> from the <em>many</em>?</content>
+          <content>I am not sure whether I understand @hdthoreau or enter into his experience. I believe with him, with my whole heart, in the power of the <em>one</em>, but I cannot follow, without question, his belief that “there is little virtue in the masses of men.” How can I separate the <em>one</em> from the <em>many</em>?</content>
         </reply>
       </replies>
     </post>
@@ -1395,11 +1594,7 @@
     <post id="p98" author="thoreau" timestamp="1849">
       <content>I perceive that, when an acorn and a chestnut fall side by side, the one does not remain inert to make way for the other, but both obey their own laws, and spring and grow and flourish as best they can, till one, perchance, overshadows and destroys the other. If a plant cannot live according to its nature, it dies; and so a man.</content>
       <likes/>
-      <replies>
-        <reply id="r98-1" author="arendt" timestamp="1970">
-          <content>Every man is born a member of a particular community and can survive only if he is welcomed and made at home within it. A kind of consent is implied in every newborn’s factual situation; namely, a kind of conformity to the rules under which the great game of the world is playe din the particular group to which he belongs by birth.</content>
-        </reply>
-      </replies>
+      <replies/>
     </post>
 
     <post id="p99" author="thoreau" timestamp="1849">
@@ -1480,7 +1675,7 @@
       <likes/>
       <replies>
         <reply id="r109-1" author="tusitala" timestamp="1880">
-          <content>A friend paid the tax, and Thoreau was free to walk the woods unmolested. It was a fiasco, but to me it does not seem laughable; even those who joined in the laughter at the moment would be insensibly affected by this quaint instance of a good man’s horror for injustice.</content>
+          <content>A friend paid the tax, and @hdthoreau was free to walk the woods unmolested. It was a fiasco, but to me it does not seem laughable; even those who joined in the laughter at the moment would be insensibly affected by this quaint instance of a good man’s horror for injustice.</content>
         </reply>
       </replies>
     </post>
@@ -1530,7 +1725,10 @@
       <content>This is the whole history of “My Prisons.”</content>
       <likes/>
       <replies>
-        <reply id="r114-1" author="wikibot" timestamp="">
+        <reply id="r114-1" author="HerbertFaulknerWest" timestamp="1953">
+          <content>If @hdthoreau were living today perhaps he would have to spend a lot more time in jail than one day. Men have been burned for less!</content>
+        </reply>
+        <reply id="r114-2" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Silvio_Pellico" title="Silvio Pellico" description="Italian patriot, author of “My Prisons” (1832)." thumb="https://upload.wikimedia.org/wikipedia/commons/9/9b/Silvio_Pellico.jpg" />
         </reply>
       </replies>
@@ -1616,7 +1814,9 @@
 
     <post id="p124" author="thoreau" timestamp="1849">
       <content>I do not wish to quarrel with any man or nation. I do not wish to split hairs, to make fine distinctions, or set myself up as better than my neighbors. I seek rather, I may say, even an excuse for conforming to the laws of the land. I am but too ready to conform to them. Indeed, I have reason to suspect myself on this head; and each year, as the tax-gatherer comes round, I find myself disposed to review the acts and position of the general and state governments, and the spirit of the people to discover a pretext for conformity.</content>
-      <likes/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
       <replies>
         <reply id="r124-1" author="emerson" timestamp="1846">
           <content>As long as the state means you well, do not refuse your pistareen. You have a tottering cause: ninety parts of the pistareen it will spend for what you think also good: ten parts for mischief. You can not fight heartily for a fraction. But wait until you have a good difference to join issue upon.</content>
@@ -1635,7 +1835,9 @@
 
     <post id="p125" author="thoreau" timestamp="1849">
       <content>Seen from a lower point of view, the Constitution, with all its faults, is very good; the law and the courts are very respectable; even this State and this American government are, in many respects, very admirable and rare things, to be thankful for, such as a great many have described them; but seen from a point of view a little higher, they are what I have described them; seen from a higher still, and the highest, who shall say what they are, or that they are worth looking at or thinking of at all?</content>
-      <likes/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
       <replies>
         <reply id="r125-1" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Constitution_of_the_United_States" title="Constitution of the United States" description="The supreme law of the United States of America" thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Constitution_of_the_United_States%2C_page_1.jpg/250px-Constitution_of_the_United_States%2C_page_1.jpg" />
@@ -1667,7 +1869,7 @@
       <likes/>
       <replies>
         <reply id="r125-1" author="anonym" timestamp="1966">
-          <content>Thoreau’s “Civil Disobedience" stood for me, and for my first leader in the resistance movement, as a shining light with which we could examine the policy of complete passivity which our government had ordered for the whole Danish population. I lent Thoreau’s books to friends, told them about him, and our circle grew. Railroads, bridges, and factories that worked for the Germans were blown up.</content>
+          <content>@hdthoreau’s “Civil Disobedience" stood for me, and for my first leader in the resistance movement, as a shining light with which we could examine the policy of complete passivity which our government had ordered for the whole Danish population. I lent Thoreau’s books to friends, told them about him, and our circle grew. Railroads, bridges, and factories that worked for the Germans were blown up.</content>
         </reply>
       </replies>
     </post>
@@ -1677,7 +1879,7 @@
       <likes/>
       <replies>
         <reply id="r126-1" author="emerson" timestamp="1846">
-          <content>My friend Mr. Thoreau has gone to jail rather than pay his tax. They could not calculate on him like they could on Webster. The abolitionists denounce the war &amp; give much time to it, but they pay the tax.</content>
+          <content>My friend @hdthoreau has gone to jail rather than pay his tax. They could not calculate on him like they could on Webster. The abolitionists denounce the war &amp; give much time to it, but they pay the tax.</content>
         </reply>
         <reply id="r126-2" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Daniel_Webster" title="Daniel Webster" description="Whig politician and orator" thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Daniel_Webster_Photograph_edited.jpg/250px-Daniel_Webster_Photograph_edited.jpg" />
@@ -1710,6 +1912,9 @@
       <replies>
         <reply id="r129-1" author="thoreau" timestamp="1849">
           <content>Thus it has happened, that not the Arch Fiend himself has been in my way, but these toils which tradition says were originally spun to obstruct him. They are cobwebs and trifling obstacles in an earnest man’s path, it is true, and at length one even becomes attached to his unswept and undusted garret. I love man — kind, but I hate the institutions of the dead un-kind. Men execute nothing so faithfully as the wills of the dead, to the last codicil and letter. <em>They</em> rule this world, and the living are but their executors.</content>
+          <likes>
+            <like author="rudolfrocker" />
+          </likes>
         </reply>
         <reply id="r129-2" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Constitutional_Convention_(United_States)" title="Constitutional Convention (United States)" description="The 1787 convention that devised the constitution of the United States" thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg/330px-Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg" />
@@ -1756,13 +1961,21 @@
 
     <post id="p135" author="thoreau" timestamp="1849">
       <content>The authority of government, even such as I am willing to submit to,—for I will cheerfully obey those who know and can do better than I, and in many things even those who neither know nor can do so well,—is still an impure one: to be strictly just, it must have the sanction and consent of the governed. It can have no pure right over my person and property but what I concede to it.</content>
-      <likes/>
-      <replies/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
+      <replies>
+        <reply id="r135-1" author="arendt" timestamp="1970">
+          <content>Every man is born a member of a particular community and can survive only if he is welcomed and made at home within it. A kind of consent is implied in every newborn’s factual situation; namely, a kind of conformity to the rules under which the great game of the world is played in the particular group to which he belongs by birth.</content>
+        </reply>
+      </replies>
     </post>
 
     <post id="p136" author="thoreau" timestamp="1849">
       <content>The progress from an absolute to a limited monarchy, from a limited monarchy to a democracy, is a progress toward a true respect for the individual. Is a democracy, such as we know it, the last improvement possible in government? Is it not possible to take a step further towards recognizing and organizing the rights of man?</content>
-      <likes/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
       <replies>
         <reply id="r136-1" author="emerson" timestamp="1844">
           <content>We must not imagine that all things are lapsing into confusion if every tender protestant be not compelled to bear his part in certain social conventions; nor doubt that roads can be built, letters carried, and the fruit of labor secured, when the government of force is at an end.</content>
@@ -1772,7 +1985,9 @@
 
     <post id="p137" author="thoreau" timestamp="1849">
       <content>There will never be a really free and enlightened State until the State comes to recognize the individual as a higher and independent power, from which all its own power and authority are derived, and treats him accordingly.</content>
-      <likes/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
       <replies>
         <reply id="r137-1" author="deTocqueville" timestamp="1835">
           <content>Governments should not be the only active powers: associations ought, in democratic nations, to stand in lieu of those powerful private individuals whom the equality of conditions has swept away. As soon as several inhabitants of the United States have taken up an opinion they wish to promote in the world, they seek mutual assistance, and as soon as they have found one another out, they combine. From that moment, they are no longer isolated men but a power whose actions serve for an example and whose language is listened to.</content>
@@ -1780,9 +1995,15 @@
             <reply id="r137-1-1" author="JSMill" timestamp="1835">
               <content>The many, for the first time, have now learned the lesson, which, once learned, is never forgotten—that their strength, when they choose to exert it, is invincible. And, for the first time, they have learned to unite for their own objects, without waiting for any section of the aristocracy to place itself at their head.</content>
             </reply>
+            <reply id="r137-1-2" author="arendt" timestamp="1970">
+              <content>In contrast to the conscientious objector, the civil disobedient is a member of a group, and this group, whether we like it or not, is formed in accordance with the same spirit that has informed voluntary associations. The greatest fallacy in the present debate seems to me the assumption that we are dealing with individuals, who pit themselves subjectively and conscientiously against the laws and customs of the community.</content>
+            </reply>
           </replies>
         </reply>
-        <reply id="r137-2" author="TrumanJNelson" timestamp="1962">
+        <reply id="r137-2" author="linyutang" timestamp="1950">
+          <content>This is one of the most important testaments of American democracy.</content>
+        </reply>
+        <reply id="r137-3" author="TrumanJNelson" timestamp="1962">
           <content>Something in this essay took the revolutionary edge off it. Its underlying anarchy, perhaps, and individualism. It is so patently a call for individuals to be more so: not to unite against a common enemy with a common program, which is a dangerous thought.</content>
         </reply>
       </replies>
@@ -1790,7 +2011,9 @@
 
     <post id="p138" author="thoreau" timestamp="1849">
       <content>I please myself with imagining a State at last which can afford to be just to all men, and to treat the individual with respect as a neighbor; which even would not think it inconsistent with its own repose, if a few were to live aloof from it, not meddling with it, nor embraced by it, who fulfilled all the duties of neighbors and fellow-men. A State which bore this kind of fruit, and suffered it to drop off as fast as it ripened, would prepare the way for a still more perfect and glorious State, which also I have imagined, but not yet anywhere seen.</content>
-      <likes/>
+      <likes>
+        <like author="linyutang" />
+      </likes>
       <replies/>
     </post>
 

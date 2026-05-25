@@ -233,6 +233,13 @@ body {
   line-height: 1;
 }
 
+/* @mention */
+.mention {
+  color: var(--accent);
+  cursor: pointer;
+}
+.mention:hover { text-decoration: underline; }
+
 /* Like button */
 .like-btn { position: relative; }
 .like-btn:hover { color: var(--like-active); }

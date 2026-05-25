@@ -156,6 +156,60 @@ SUBJECTS = [
      "open-collar shirt, direct thoughtful gaze, "
      "study with books, 1960s setting, " + STYLE),
 
+    ("aestheticpeabody", 1041,
+     "Elizabeth Palmer Peabody aged 45, 1849 Boston Massachusetts, American educator and transcendentalist publisher, "
+     "dark hair parted in the middle, earnest open face, "
+     "plain dark Victorian dress with white collar, "
+     "warm intelligent expression, bookshop interior, " + STYLE),
+
+    ("benjamintucker", 1042,
+     "Benjamin Tucker aged 35, 1889 Boston Massachusetts, American individualist anarchist and editor, "
+     "dark hair and full beard, sharp determined eyes, "
+     "plain dark suit, direct uncompromising gaze, "
+     "study with papers and books, " + STYLE),
+
+    ("sagitta", 1043,
+     "John Henry Mackay aged 35, 1899 Berlin Germany, Scottish-born German individualist anarchist and writer, "
+     "dark wavy hair, neat mustache, intense literary expression, "
+     "dark late-Victorian suit and cravat, "
+     "urban study interior, " + STYLE),
+
+    ("twparsons", 1044,
+     "Thomas William Parsons aged 35, 1854 Boston Massachusetts, American poet and dentist, "
+     "dark hair, clean-shaven, thoughtful skeptical expression, "
+     "plain dark frock coat and white collar, "
+     "modest Victorian study, " + STYLE),
+
+    ("WalterHarding", 1045,
+     "Walter Harding aged 45, 1962, American scholar and professor, "
+     "mild-mannered academic, dark hair going gray, wire-rimmed glasses, "
+     "tweed jacket, warm earnest expression, "
+     "university office lined with books, " + STYLE),
+
+    ("linyutang", 1046,
+     "Lin Yutang aged 45, 1940 New York City, Chinese-American writer and philosopher, "
+     "distinguished Chinese man, dark hair, round tortoiseshell glasses, "
+     "gentle humorous expression, dark suit, "
+     "comfortable study with East-meets-West decor, warm light, " + STYLE),
+
+    ("rudolfrocker", 1047,
+     "Rudolf Rocker aged 50, 1923, German anarcho-syndicalist organizer and writer, "
+     "strong face, full dark beard streaked with gray, "
+     "plain working-class jacket, earnest resolute expression, "
+     "simple indoor setting, " + STYLE),
+
+    ("JSMill", 1039,
+     "John Stuart Mill aged 45, 1851 London England, British philosopher and political economist, "
+     "high forehead, receding dark hair, clean-shaven, "
+     "dark Victorian frock coat and white cravat, "
+     "serious intellectual expression, study with books, " + STYLE),
+
+    ("deTocqueville", 1040,
+     "Alexis de Tocqueville aged 30, 1835 Paris France, French aristocrat and political thinker, "
+     "slender refined face, dark wavy hair, clean-shaven, "
+     "aristocratic bearing, dark coat and white cravat, "
+     "thoughtful observant expression, elegant study, " + STYLE),
+
     ("leon-bazalgette", 1036,
      "Léon Bazalgette aged 40, 1913 Paris France, French literary critic and translator, "
      "dark mustache, dark wavy hair, pince-nez spectacles, "
