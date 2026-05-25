@@ -1,0 +1,11 @@
+# Backup files
+data.backup
+data.bak2
+*.bak
+*.backup
+
+# Old versions
+rtcg.html
+
+# Claude working files
+.claude/
