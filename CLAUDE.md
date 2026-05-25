@@ -4,7 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-A static web page displaying Thoreau's "Resistance to Civil Government" as a Twitter/X-style social media thread, interleaved with responses from historical figures (Tolstoy, Gandhi, MLK, Arendt, etc.) who engaged with his arguments. All participants are treated as contemporaries on the same fictional platform. The full essay (posts p0–p142) is in place, with replies, likes, reposts, and quote-tweets woven in.
+A static web page displaying Thoreau's "Resistance to Civil Government" as a social media thread, interleaved with responses from historical figures (Tolstoy, Gandhi, MLK, Arendt, etc.) who engaged with his arguments. All participants are treated as contemporaries on the same fictional platform. The full essay (posts p0–p142) is in place, with replies, likes, reposts, and quote posts woven in.
+
+**Avoid brand-specific language** ("Twitter," "tweet," "quote-tweet") in code, comments, commits, and documentation — use "social media thread," "repost," "quote post," etc.
 
 ## Architecture
 
@@ -42,7 +44,7 @@ python3 -m http.server 8000
     <initials>HDT</initials>        <!-- shown when no avatar -->
     <color>#3d6b4f</color>          <!-- avatar background color -->
     <years>1817–1862</years>
-    <bio>Short in-character bio.</bio>
+    <bio>Short in-character bio — present-tense, as if the author is a contemporary on the platform.</bio>
     <avatar>avatars/thoreau.jpg</avatar>   <!-- optional -->
   </author>
 </authors>
@@ -55,7 +57,7 @@ python3 -m http.server 8000
   <post id="p1" author="thoreau" timestamp="1849">
     <content>Essay text, may contain <em>emphasis</em> or <strong>bold</strong>.</content>
 
-    <!-- Optional quote-tweet box (rendered below content) -->
+    <!-- Optional quote post box (rendered below content) -->
     <quote author="senatorwebster" timestamp="1850" source="Speech in the Senate">
       <content>Quoted text, also supports <em>em</em>/<strong>strong</strong>/<br/>.</content>
     </quote>

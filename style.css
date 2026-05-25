@@ -410,8 +410,9 @@ body {
    Quote box  (quote-tweet)
    ============================================================ */
 .quote-box {
-  border: 1px solid var(--border);
+  border: 1px solid var(--thread-line);
   border-radius: 12px;
+  background: var(--bg-hover);
   padding: 10px 12px;
   margin-top: 8px;
   margin-bottom: 4px;

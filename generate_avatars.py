@@ -156,6 +156,60 @@ SUBJECTS = [
      "open-collar shirt, direct thoughtful gaze, "
      "study with books, 1960s setting, " + STYLE),
 
+    ("HerbertFaulknerWest", 1055,
+     "Herbert Faulkner West aged 50, 1948, American literary critic and Dartmouth professor, "
+     "thoughtful patrician face, graying hair, wire-rimmed glasses, "
+     "tweed jacket and tie, measured earnest expression, "
+     "faculty office with books, " + STYLE),
+
+    ("richardgroff", 1056,
+     "Richard Groff aged 45, 1961 Pennsylvania, American war tax resister and writer, "
+     "plain principled face, close-cropped graying hair, clean-shaven, "
+     "plain working shirt, quiet determined expression, "
+     "simple domestic interior, " + STYLE),
+
+    ("sophiadobsoncollet", 1048,
+     "Sophia Dobson Collet aged 35, 1857 London England, English radical journalist and freethinker, "
+     "dark hair neatly parted, plain Victorian dress, "
+     "earnest intellectual expression, "
+     "simple study with books and papers, " + STYLE),
+
+    ("RevJamesRobinson", 1049,
+     "Reverend James Herman Robinson aged 45, 1952 New York City, African American minister and civil rights leader, "
+     "dignified man, short hair, clean-shaven, "
+     "clerical collar and dark jacket, warm determined expression, "
+     "church interior, " + STYLE),
+
+    ("williamrobertmiller", 1050,
+     "William Robert Miller aged 35, 1962, American pacifist writer and editor, "
+     "earnest young man, dark hair, clean-shaven, "
+     "plain open-collar shirt, thoughtful principled expression, "
+     "modest study, " + STYLE),
+
+    ("JohnHarlandHicks", 1051,
+     "John H. Hicks aged 45, 1966, American literary scholar and professor, "
+     "mild academic face, graying hair, wire-rimmed glasses, "
+     "tweed jacket, careful analytical expression, "
+     "university office with books, " + STYLE),
+
+    ("georgewoodcock", 1052,
+     "George Woodcock aged 50, 1962 Vancouver Canada, Canadian anarchist writer and literary critic, "
+     "lean face, dark hair going gray, thoughtful intense eyes, "
+     "plain dark jacket, "
+     "study with books and manuscripts, " + STYLE),
+
+    ("samstaples", 1053,
+     "Sam Staples aged 40, 1855 Concord Massachusetts, New England town constable, "
+     "plain sturdy Yankee face, clean-shaven, "
+     "practical working-man's coat and hat, "
+     "direct no-nonsense expression, village street or store interior, " + STYLE),
+
+    ("nicholaswalter", 1054,
+     "Nicholas Walter aged 35, 1969 London England, British anarchist journalist and writer, "
+     "lean young man, dark hair, earnest principled expression, "
+     "plain open-collar shirt, "
+     "urban London setting, " + STYLE),
+
     ("aestheticpeabody", 1041,
      "Elizabeth Palmer Peabody aged 45, 1849 Boston Massachusetts, American educator and transcendentalist publisher, "
      "dark hair parted in the middle, earnest open face, "
