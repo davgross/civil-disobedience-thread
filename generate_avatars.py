@@ -343,6 +343,120 @@ SUBJECTS = [
      "Charles Wolfe aged 25, 1816 Ireland, Irish curate and poet, "
      "pale thoughtful young man, dark hair, clerical collar and coat, "
      "gentle melancholy expression, soft diffuse overcast light, " + STYLE),
+
+    ("brahkumarnehru", 1057,
+     "B.K. Nehru aged 50, 1960 Washington DC, Indian diplomat and Ambassador to United States, "
+     "distinguished South Asian man, dark short hair, clean-shaven, "
+     "formal suit and tie, composed authoritative expression, "
+     "diplomatic office setting, warm indoor light, " + STYLE),
+
+    ("brooksatkinson", 1058,
+     "Brooks Atkinson aged 55, 1949 New York City, American theater critic and naturalist, "
+     "lean thoughtful man, round wire-rimmed glasses, dark suit, "
+     "slightly serious reflective expression, "
+     "theater or study background, " + STYLE),
+
+    ("brucewatson", 1059,
+     "Bruce Watson aged 35, 1965 United States, American journalist and civil rights commentator, "
+     "earnest face, dark hair, plain mid-century suit, "
+     "engaged determined expression, "
+     "simple office setting, " + STYLE),
+
+    ("carrollhollis", 1060,
+     "Carroll Hollis aged 45, 1949 United States, American literary scholar and Thoreau specialist, "
+     "academic man, glasses, conservative suit, "
+     "thoughtful bookish expression, "
+     "university office with books, " + STYLE),
+
+    ("charlesmadison", 1061,
+     "Charles A. Madison aged 50, 1947 United States, American literary historian and editor, "
+     "older man with round face, wire-rimmed glasses, conservative suit, "
+     "warm thoughtful expression, "
+     "book-lined study, " + STYLE),
+
+    ("edwarddahlberg", 1062,
+     "Edward Dahlberg aged 45, 1945 New York, American novelist and essayist, "
+     "gaunt angular face, intense dark eyes, dark hair slicked back, "
+     "open-collar shirt, uncompromising fierce expression, "
+     "sparse literary apartment, harsh light, " + STYLE),
+
+    ("garrywills", 1063,
+     "Garry Wills aged 40, 1975 United States, American journalist and historian, "
+     "lean man with dark hair, wire-rimmed glasses, "
+     "casual academic jacket, incisive intelligent expression, "
+     "study with books and papers, " + STYLE),
+
+    ("GilbertSeldes", 1064,
+     "Gilbert Seldes aged 40, 1933 New York City, American journalist and cultural critic, "
+     "sharp-featured man, dark hair, suit with pocket square, "
+     "sardonic worldly expression, "
+     "urban New York setting, " + STYLE),
+
+    ("HarryVJaffa", 1065,
+     "Harry V. Jaffa aged 55, 1973 Claremont California, American political philosopher, "
+     "round earnest face, gray hair, thick-framed glasses, "
+     "dark academic suit, serious intense expression, "
+     "academic office with American historical books, " + STYLE),
+
+    ("heinzeulau", 1066,
+     "Heinz Eulau aged 45, 1960 Stanford California, American political scientist, "
+     "lean intelligent face, gray-tinged dark hair, wire-rimmed glasses, "
+     "academic tweed jacket, analytical expression, "
+     "university office setting, " + STYLE),
+
+    ("HenryMiller", 1067,
+     "Henry Miller aged 55, 1946 Big Sur California, American novelist, "
+     "tanned bald head, bright knowing eyes, open-collar shirt, "
+     "relaxed earthy expression with slight irreverence, "
+     "California coastal setting, natural light, " + STYLE),
+
+    ("HerbertJStoring", 1068,
+     "Herbert J. Storing aged 40, 1968 Chicago, American political scientist, "
+     "dark-haired scholarly man, clean-shaven, dark-framed glasses, "
+     "trim suit, serious engaged expression, "
+     "University of Chicago office, " + STYLE),
+
+    ("hugobedau", 1069,
+     "Hugo Adam Bedau aged 45, 1971 Boston Massachusetts, American philosopher, "
+     "trim professorial man, short dark hair, wire-rimmed glasses, "
+     "academic jacket, thoughtful principled expression, "
+     "Tufts University office with philosophy books, " + STYLE),
+
+    ("JohnAlbertMacy", 1070,
+     "John Albert Macy aged 35, 1913 New York City, American literary critic and socialist, "
+     "lean thoughtful man, dark hair and mustache, period suit, "
+     "earnest intellectual expression, "
+     "study with books and periodicals, " + STYLE),
+
+    ("mariosavio", 1071,
+     "Mario Savio aged 22, 1964 Berkeley California, American student activist and Free Speech Movement leader, "
+     "young intense man, dark curly hair, open-collar shirt and jacket, "
+     "passionate impassioned expression, mouth open in speech, "
+     "Berkeley campus steps, outdoor light, " + STYLE),
+
+    ("odellshepard", 1072,
+     "Odell Shepard aged 55, 1939 Connecticut, American author and Lieutenant Governor, "
+     "distinguished man, gray hair, clean-shaven, "
+     "formal suit, cultured genial expression, "
+     "New England study or statehouse interior, " + STYLE),
+
+    ("richardboardman", 1073,
+     "Richard Boardman aged 45, 1967 United States, American pacifist writer, "
+     "plain sincere face, short dark hair, "
+     "plain shirt or jacket, quiet reflective expression, "
+     "simple domestic or meeting-house interior, " + STYLE),
+
+    ("StanleyEdgarHyman", 1074,
+     "Stanley Edgar Hyman aged 40, 1959 New York, American literary critic and New Yorker staff writer, "
+     "round face with short dark hair and beard, thick glasses, "
+     "rumpled academic jacket, witty sharp expression, "
+     "cluttered study with stacked books, " + STYLE),
+
+    ("vernonlouisparrington", 1075,
+     "Vernon Louis Parrington aged 55, 1926 Seattle Washington, American historian and literary critic, "
+     "lean distinguished man, gray hair, wire-rimmed glasses, "
+     "dark academic suit, serious contemplative expression, "
+     "University of Washington study with American history books, " + STYLE),
 ]
 
 BASE = "https://image.pollinations.ai/prompt/"
