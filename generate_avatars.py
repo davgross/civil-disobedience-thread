@@ -457,6 +457,72 @@ SUBJECTS = [
      "lean distinguished man, gray hair, wire-rimmed glasses, "
      "dark academic suit, serious contemplative expression, "
      "University of Washington study with American history books, " + STYLE),
+
+    ("AbeFortas", 1076,
+     "Abe Fortas aged 58, 1968 Washington DC, Associate Justice of the United States Supreme Court, "
+     "trim authoritative man, dark graying hair, clean-shaven, "
+     "judicial robes or dark suit, composed confident expression, "
+     "Supreme Court chamber, formal setting, " + STYLE),
+
+    ("AlfredKazin", 1077,
+     "Alfred Kazin aged 45, 1960 New York City, American literary critic and essayist, "
+     "lean intense man, dark hair, wire-rimmed glasses, "
+     "dark turtleneck or academic jacket, sharp intellectual expression, "
+     "book-lined New York study, " + STYLE),
+
+    ("BostonCourier", 1078,
+     "Boston Courier newspaper office 1849, historic New England press room, "
+     "large wooden printing press with type cases, stacks of broadsheets, "
+     "inkstained workers in period aprons, gas lamps, "
+     "busy nineteenth-century newspaper composing room, detailed period scene, " + STYLE),
+
+    ("DonaldKaufman", 1079,
+     "Donald D. Kaufman aged 40, 1973 Newton Kansas, American Mennonite pastor and peace advocate, "
+     "earnest plain-featured man, short dark hair, clean-shaven, "
+     "simple dark suit or minister's collar, quiet principled expression, "
+     "modest church office or plain interior, soft light, " + STYLE),
+
+    ("GregorySJay", 1080,
+     "Gregory Jay aged 38, 1990 Milwaukee Wisconsin, American literary scholar and cultural critic, "
+     "dark-haired professorial man, glasses, "
+     "casual academic jacket, engaged critical expression, "
+     "university office, " + STYLE),
+
+    ("JohnBrown", 1081,
+     "John Brown aged 58, 1858 Kansas, American abolitionist, "
+     "gaunt intense old man with long white beard, deep-set burning eyes, "
+     "plain dark coat, fierce prophetic expression, "
+     "dramatic chiaroscuro lighting, stark background, " + STYLE),
+
+    ("RaymondAdams", 1082,
+     "Raymond Adams aged 45, 1944 United States, American literary scholar, "
+     "earnest academic man, short dark hair, "
+     "conservative suit, thoughtful careful expression, "
+     "university library setting, " + STYLE),
+
+    ("sadi", 1083,
+     "Saadi Shirazi aged 60, 1258 Shiraz Persia, Persian Sufi poet, "
+     "elder Persian man with white beard and mustache, "
+     "white turban and flowing robes, serene wise expression, "
+     "Persian garden or courtyard with tiles and roses, soft warm light, " + STYLE),
+
+    ("TaylorStoehr", 1084,
+     "Taylor Stoehr aged 48, 1979 United States, American literary scholar, "
+     "trim intellectual man, short gray-streaked hair, "
+     "academic jacket, reflective analytical expression, "
+     "study with Thoreau and Emerson books, " + STYLE),
+
+    ("WendellGlick", 1085,
+     "Wendell Glick aged 36, 1952 United States, American literary scholar and Thoreau editor, "
+     "earnest academic man, short dark hair, "
+     "conservative suit, careful scholarly expression, "
+     "library with manuscript papers and Thoreau texts, " + STYLE),
+
+    ("WilliamJWolf", 1086,
+     "William J. Wolf aged 55, 1973 United States, American Episcopal priest and theologian, "
+     "distinguished man with graying temples, clerical collar or dark suit, "
+     "warm serious expression, "
+     "church office with theological books, " + STYLE),
 ]
 
 BASE = "https://image.pollinations.ai/prompt/"

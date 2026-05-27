@@ -105,7 +105,7 @@ All six child element types (`content`, `quote`, `link`, `likes`, `replies`, `re
 
 ### Inline markup inside `<content>`
 
-`<em>`, `<strong>`, and `<br/>` are supported and rendered faithfully. Plain `&amp;`, `&lt;` etc. for literal characters. Use straight ASCII double-quotes for all XML attribute values — curly/smart quotes in attributes break the parser.
+`<em>`, `<strong>`, and `<br/>` are supported and rendered faithfully. Plain `&amp;`, `&lt;` etc. for literal characters. Use straight ASCII double-quotes for all XML attribute values — curly/smart quotes in attributes break the parser. Also avoid plain ASCII apostrophes (`'`) inside attribute values (e.g. in `description=`): use `&apos;` or a curly apostrophe (`’`) instead, as a bare `'` can confuse the browser's XML parser.
 
 ---
 

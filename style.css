@@ -521,6 +521,22 @@ body {
 }
 
 /* ============================================================
+   Legend / editorial footer
+   ============================================================ */
+#legend {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 20px var(--gutter) 36px;
+  border-top: 1px solid var(--border);
+}
+
+#legend p {
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--text-muted);
+}
+
+/* ============================================================
    Responsive
    ============================================================ */
 @media (max-width: 480px) {
