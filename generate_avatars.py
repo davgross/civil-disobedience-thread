@@ -523,6 +523,90 @@ SUBJECTS = [
      "distinguished man with graying temples, clerical collar or dark suit, "
      "warm serious expression, "
      "church office with theological books, " + STYLE),
+
+    ("AJMuste", 1087,
+     "A.J. Muste aged 60, 1945 New York City, American pacifist and labor organizer, "
+     "lean earnest man, wire-rimmed glasses, thinning gray hair, "
+     "plain dark suit or minister's collar, serious principled expression, "
+     "union hall or peace organization office, " + STYLE),
+
+    ("BarbaraDeming", 1088,
+     "Barbara Deming aged 45, 1962 United States, American feminist writer and pacifist activist, "
+     "strong-featured woman, short hair, plain blouse or jacket, "
+     "calm determined expression, steady direct gaze, "
+     "simple domestic or outdoor setting, natural light, " + STYLE),
+
+    ("BobPeppermanTaylor", 1089,
+     "Bob Pepperman Taylor aged 40, 1996 Burlington Vermont, American political theorist and professor, "
+     "earnest professorial man, short dark hair, wire-rimmed glasses, "
+     "academic jacket, thoughtful engaged expression, "
+     "university office with political theory books, " + STYLE),
+
+    ("BostonDailyTraveller", 1090,
+     "Boston Daily Traveller newspaper office 1849, historic New England press room, "
+     "wooden printing press with type cases, broadsheets on composing table, "
+     "period workers in aprons, gas lamps casting warm light, "
+     "busy nineteenth-century newspaper composing room, " + STYLE),
+
+    ("BryanCaplan", 1091,
+     "Bryan Caplan aged 35, 2006 Fairfax Virginia, American economist and libertarian blogger, "
+     "boyish intellectual face, dark hair, wire-rimmed glasses, "
+     "casual dress shirt, skeptical ironic expression, "
+     "George Mason University office with economics books, " + STYLE),
+
+    ("DailyChronotype", 1092,
+     "Daily Chronotype newspaper office 1849, small Wisconsin Free Soil press room, "
+     "hand-operated press with type cases, abolitionist broadsheets, "
+     "two period compositors in aprons, simple frontier newspaper office, "
+     "midwest pioneer interior, natural light from window, " + STYLE),
+
+    ("DavidWelshRamparts", 1093,
+     "David Welsh aged 28, 1966 San Francisco California, American New Left journalist and editor, "
+     "young earnest man, dark hair, open-collar shirt, "
+     "engaged activist expression, "
+     "Ramparts magazine office with protest posters, " + STYLE),
+
+    ("FBSanborn", 1094,
+     "Franklin Benjamin Sanborn aged 50, 1882 Concord Massachusetts, American journalist and abolitionist, "
+     "lean sharp-featured man with beard and mustache, dark eyes, "
+     "period dark suit, intense earnest expression, "
+     "Concord Massachusetts study with books and manuscripts, " + STYLE),
+
+    ("JohnDear", 1095,
+     "John Dear aged 40, 1999 United States, American Jesuit priest and peace activist, "
+     "thin serious face, dark hair, clerical collar, "
+     "quiet compassionate expression, "
+     "simple church office or outdoor peace vigil, soft light, " + STYLE),
+
+    ("KennettLove", 1096,
+     "Kennett Love aged 38, 1962 New York City, American foreign correspondent and journalist, "
+     "lean weathered face, short dark hair, correspondent's jacket, "
+     "alert observant expression, "
+     "newspaper office or foreign bureau setting, " + STYLE),
+
+    ("NicholasMurrayButler", 1097,
+     "Nicholas Murray Butler aged 62, 1924 New York City, American university president and Nobel laureate, "
+     "portly distinguished man, gray hair, clean-shaven, "
+     "dark formal suit with watch chain, authoritative self-assured expression, "
+     "Columbia University presidential office, formal setting, " + STYLE),
+
+    ("NormanThomas", 1098,
+     "Norman Thomas aged 60, 1944 New York City, American socialist leader and presidential candidate, "
+     "tall lean man, gray hair, clean-shaven, dark suit, "
+     "earnest principled expression, "
+     "campaign or meeting hall setting, " + STYLE),
+
+    ("SusanSontag", 1099,
+     "Susan Sontag aged 40, 1973 New York City, American essayist and cultural critic, "
+     "striking woman with dark hair streaked with white, strong features, "
+     "dark turtleneck, intense intellectual expression, "
+     "book-lined New York apartment, warm light, " + STYLE),
+
+    ("VictorHBalke", 1100,
+     "Victor H. Balke aged 45, 1965 United States, American scholar and civil disobedience commentator, "
+     "earnest academic man, short dark hair, wire-rimmed glasses, "
+     "conservative suit, careful analytical expression, "
+     "university office setting, " + STYLE),
 ]
 
 BASE = "https://image.pollinations.ai/prompt/"

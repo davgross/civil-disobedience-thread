@@ -42,9 +42,12 @@
     };
   });
 
-  // ── Handle map (handle string → author object, for @mention lookup) ──
+  // ── Handle map (handle string OR author id → author object, for @mention lookup) ──
   const handleMap = {};
-  Object.values(authors).forEach(a => { if (a.handle) handleMap[a.handle] = a; });
+  Object.entries(authors).forEach(([id, a]) => {
+    if (a.handle) handleMap[a.handle] = a;
+    handleMap[id] = a;  // also index by id so @emerson works alongside @rwemerson
+  });
 
   // ── Render main posts ──────────────────────────────────────────────
   const posts = [...doc.querySelectorAll('thread > posts > post')];
