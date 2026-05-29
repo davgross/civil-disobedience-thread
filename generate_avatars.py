@@ -607,6 +607,30 @@ SUBJECTS = [
      "earnest academic man, short dark hair, wire-rimmed glasses, "
      "conservative suit, careful analytical expression, "
      "university office setting, " + STYLE),
+
+    ("WaltWhitman", 1101,
+     "Walt Whitman aged 50, 1869 Washington DC, American poet and journalist, "
+     "full flowing white beard, broad-brimmed felt hat, open-collar shirt, "
+     "expansive warm expression, relaxed democratic bearing, "
+     "outdoor urban or pastoral setting, dappled light, " + STYLE),
+
+    ("EricSevareid", 1102,
+     "Eric Sevareid aged 55, 1967 Washington DC, American CBS News television correspondent and commentator, "
+     "distinguished man with silver-gray hair, clean-shaven, serious broadcast-ready expression, "
+     "dark suit and tie, television studio or press room background, "
+     "professional composed demeanor, warm studio light, " + STYLE),
+
+    ("TheNewEnglander", 1103,
+     "The New Englander journal 1849, Victorian theological quarterly from New Haven Connecticut, "
+     "leather-bound volume with gold-stamped cover on a reading desk, "
+     "Puritan austerity, dark green binding, brass candlestick holder beside it, "
+     "New England study interior, warm candlelight, engraving style"),
+
+    ("SCOTUS", 1104,
+     "United States Supreme Court chamber 1857, Washington DC, "
+     "red velvet curtains, American eagle seal, nine empty mahogany chairs, "
+     "white marble columns, solemnly lit formal chamber, "
+     "period engraving aesthetic, dramatic chiaroscuro lighting"),
 ]
 
 BASE = "https://image.pollinations.ai/prompt/"

@@ -284,6 +284,7 @@
       <color>#7a6a5a</color>
       <years>1843–1892</years>
       <bio>A journal of theology, literature, and New England affairs, published in New Haven. Not uncritical of enthusiasm, but capable of recognizing genuine article when it breathes.</bio>
+      <avatar>avatars/TheNewEnglander.jpg</avatar>
     </author>
 
     <author id="TheodoreBaird">
@@ -453,6 +454,7 @@
       <color>#3a3a2a</color>
       <years>est. 1789</years>
       <bio>The highest court in the land. Has found, over the years, that the Constitution means many things. Washington, D.C.</bio>
+      <avatar>avatars/SCOTUS.jpg</avatar>
     </author>
 
     <author id="aestheticpeabody">
@@ -1056,6 +1058,26 @@
       <avatar>avatars/VictorHBalke.jpg</avatar>
     </author>
 
+    <author id="WaltWhitman">
+      <name>Walt Whitman</name>
+      <handle>waltwhitman</handle>
+      <initials>WW</initials>
+      <color>#4a6a8a</color>
+      <years>1819–1892</years>
+      <bio>Poet, journalist, wound dresser. I contain multitudes. Author of Leaves of Grass. Brooklyn → Washington → Camden, NJ.</bio>
+      <avatar>avatars/WaltWhitman.jpg</avatar>
+    </author>
+
+    <author id="EricSevareid">
+      <name>Eric Sevareid</name>
+      <handle>ericsevareid</handle>
+      <initials>ES</initials>
+      <color>#3a5a6a</color>
+      <years>1912–1992</years>
+      <bio>Correspondent and commentator, CBS News. Reported from wartime Europe, covered five presidents. Civil disobedience has its complications. Washington, D.C.</bio>
+      <avatar>avatars/EricSevareid.jpg</avatar>
+    </author>
+
   </authors>
 
   <!-- ================================================================
@@ -1131,57 +1153,60 @@
         <reply id="r0-6" author="thoreau" timestamp="1851">
           <content>How vain it is to sit down to write when you have not stood up to live!</content>
         </reply>
-        <reply id="r0-7" author="JohnAlbertMacy" timestamp="1908">
+        <reply id="r0-7" author="WaltWhitman" timestamp="1888">
+          <content>One thing about @hdthoreau keeps him very near to me: I refer to his lawlessness—his dissent—his going his absolute own road let hell blaze all it chooses.</content>
+        </reply>
+        <reply id="r0-8" author="JohnAlbertMacy" timestamp="1908">
           <content>The entire thread should be read by us timorous moderns to renerve us in time of abuse.</content>
         </reply>
-        <reply id="r0-7" author="redemma" timestamp="1917">
+        <reply id="r0-9" author="redemma" timestamp="1917">
           <content>I honor that great American @hdthoreau, and we are following him and his doctrines. We believe the time will come when the highest conscience of humanity will be shown in civil disobedience to unrighteous requirements of the powerful few.</content>
         </reply>
-        <reply id="r0-8" author="NicholasMurrayButler" timestamp="1924">
+        <reply id="r0-10" author="NicholasMurrayButler" timestamp="1924">
           <content>If the American of today were to read @hdthoreau’s thread on Civil Disobedience he might be startled, but he certainly would be enlightened.</content>
         </reply>
-        <reply id="r0-9" author="brooksatkinson" timestamp="1929">
+        <reply id="r0-11" author="brooksatkinson" timestamp="1929">
           <content>“What is once well done is done forever,” he once said. @hdthoreau did this thread so well that it is done forever and begins on its own merits as great literature and idealistic thiking.</content>
         </reply>
-        <reply id="r0-10" author="vernonlouisparrington" timestamp="1930">
+        <reply id="r0-12" author="vernonlouisparrington" timestamp="1930">
           <content>This Yankee transcendentalist quite evidently has turned philosophical anarchist. This is transcendental individualism translated into politics, with all comfortable compromises swept away.</content>
         </reply>
-        <reply id="r0-11" author="edwarddahlberg" timestamp="1941">
+        <reply id="r0-13" author="edwarddahlberg" timestamp="1941">
           <content>Little wonder that “Civil Disobedience” lies dormant and half-forgotten. What society of men so beautifully groomed in submission could countenance “Civil Disobedience”?</content>
         </reply>
-        <reply id="r0-12" author="WalterHarding" timestamp="1946">
+        <reply id="r0-14" author="WalterHarding" timestamp="1946">
           <content>“Civil Disobedience” has suffered an unofficial ban since its first appearance. In New York City only ten years ago a complete issue of a small-circulation newspaper was seized and destroyed by the police as seditious because it reprinted this thread.</content>
           <replies>
-            <reply id="r0-12-1" author="WalterHarding" timestamp="1967">
+            <reply id="r0-14-1" author="WalterHarding" timestamp="1967">
               <content>Upton Sinclair, @normanrthomas, and @redemma have each been arrested at different times for reading @hdthoreau’s thread from the public platform. Senator Joseph McCarthy succeeded in having a textbook on American literature removed from U.S. Information Service libraries specifically because of the Thoreau thread in it.</content>
             </reply>
-            <reply id="r0-12-2" author="WalterHarding" timestamp="1967">
+            <reply id="r0-14-2" author="WalterHarding" timestamp="1967">
               <content>I understand that there is a small group of pacifists who even now each year file a copy of “Civil Disobedience” in lieu of an income tax report, implying by the action that they refuse to underwrite our military budget.</content>
             </reply>
           </replies>
         </reply>
-        <reply id="r0-13" author="AJMuste" timestamp="1947">
+        <reply id="r0-15" author="AJMuste" timestamp="1947">
           <content>This is a great American document and should be taught in all the schools. There might well be a requirement that every holder of office in the country read it once a year. Certainly all pacifists should be thoroughly familiar with it and return at frequent intervals to meditate on its profound teaching.</content>
         </reply>
-        <reply id="r0-14" author="RevJamesRobinson" timestamp="1962">
+        <reply id="r0-16" author="RevJamesRobinson" timestamp="1962">
           <content>As one reads this thread, it is impossible not to notice that almost every sentence is loaded with meaning for us today.</content>
         </reply>
-        <reply id="r0-15" author="TheodoreBaird" timestamp="1962">
+        <reply id="r0-17" author="TheodoreBaird" timestamp="1962">
           <content>There are those for whom this thread on “Civil Disobedience” serves as the classic document for signing a separate peace treaty and resigning from society. Every now and then someone deciding he will no longer pay his income tax sends a copy of this thread to the nearest Collector of Internal Revenue as an intelligible explanation.</content>
         </reply>
-        <reply id="r0-16" author="TrumanJNelson" timestamp="1962">
+        <reply id="r0-18" author="TrumanJNelson" timestamp="1962">
           <content>I could never understand how writing as full of revolutionary incitements as “Civil Disobedience” can be fed like pap to students without, until recently, causing any noticeable upheavals. It clearly teaches the overthrow of the government. It is subversive under all the present definitions of that very elastic impugnment.</content>
         </reply>
-        <reply id="r0-17" author="HenryMiller" timestamp="1962">
+        <reply id="r0-19" author="HenryMiller" timestamp="1962">
           <content>In our country a man who dared to imitate @hdthoreau’s behavior with regard to any crucial issue of the day would undoubtedly be sent to prison for life.</content>
         </reply>
-        <reply id="r0-18" author="StanleyEdgarHyman" timestamp="1963">
+        <reply id="r0-20" author="StanleyEdgarHyman" timestamp="1963">
           <content>@hdthoreau has fused the soft coal of his night in jail into solid diamond. This thread has all the power and dignity that his largely ridiculous political act so signally lacked. In the relative futility of his act and the real importance of his essay based on it, we have an allegory for our time on the artist as politician.</content>
         </reply>
-        <reply id="r0-19" author="AbeFortas" timestamp="1968">
+        <reply id="r0-21" author="AbeFortas" timestamp="1968">
           <content>@hdthoreau is an inspiring figure and a great writer, but this thread should not be read as a handbook on political science. A citizen cannot substitute his own judgment or passion, however noble, for the rules of law.</content>
           <replies>
-            <reply id="r0-19-1" author="thoreau" timestamp="1859">
+            <reply id="r0-21-1" author="thoreau" timestamp="1859">
               <content>Are laws to be enforced simply because they were made, &amp; declared by any number of men to be good, when they are not good? Is there any necessity for a man’s being a tool to perform a deed of which he his higher nature disapproves?</content>
             </reply>
           </replies>
@@ -1190,7 +1215,7 @@
     </post>
 
     <post id="p1" author="thoreau" timestamp="1849">
-      <content>I heartily accept the motto,—"That government is best which governs least"; and I should like to see it acted up to more rapidly and systematically. Carried out, it finally amounts to this, which also I believe,—"That government is best which governs not at all"; and when men are prepared for it, that will be the kind of government which they will have.</content>
+      <content>I heartily accept the motto,—“That government is best which governs least”; and I should like to see it acted up to more rapidly and systematically. Carried out, it finally amounts to this, which also I believe,—“That government is best which governs not at all”; and when men are prepared for it, that will be the kind of government which they will have.</content>
       <likes>
         <like author="redemma" />
         <like author="gandhi" />
@@ -1877,7 +1902,7 @@
       </likes>
       <replies>
         <reply id="r52-1" author="AJMuste" timestamp="1943">
-          <content>The very fact that you are ordinarily a law-abiding and conscientious person actually make your influence for perpetuating this evil greater.</content>
+          <content>The very fact that you are ordinarily a law-abiding and conscientious person actually makes your influence for perpetuating this evil greater.</content>
         </reply>
       </replies>
     </post>
@@ -2264,13 +2289,13 @@
         <like author="AJMuste" />
       </likes>
       <replies>
-        <reply id="r74-1" author="thoreau" timestam="1854">
+        <reply id="r74-1" author="thoreau" timestamp="1854">
           <content>The fate of the country does not depend on how you vote at the polls — the worst man is as strong as the best at that game; it does not depend on what kind of paper you drop into the ballot-box once a year, but on what kind of man you drop from your chamber into the street every morning.</content>
         </reply>
-        <reply id="r74-1" author="AJMuste" timestam="1947">
+        <reply id="r74-2" author="AJMuste" timestamp="1947">
           <content>As the citizen of a modern state, one finds it very difficult to extricate oneself from the wrong it is doing. It is indeed impossible to free oneself completely; and endless discusssions will arise as to where to draw the line. But precisely for that reason it is of the utmost importance to draw a line.</content>
         </reply>
-        <reply id="r74-2" author="arendt" timestamp="1970">
+        <reply id="r74-3" author="arendt" timestamp="1970">
           <content>Organized minorities stand against assumed inarticulate, though hardly “silent,” majorities, which have changed in mood and opinion to an astounding degree under the pressure of the minorities.</content>
         </reply>
       </replies>
@@ -2550,6 +2575,9 @@
       <replies>
         <reply id="r96-1" author="WillardUphaus" timestamp="1963">
           <content>I am not sure whether I understand @hdthoreau or enter into his experience. I believe with him, with my whole heart, in the power of the <em>one</em>, but I cannot follow, without question, his belief that “there is little virtue in the masses of men.” How can I separate the <em>one</em> from the <em>many</em>?</content>
+        </reply>
+        <reply id="r96-2" author="EricSevareid" timestamp="1974">
+          <content>The trouble with “higher laws” is that they aren’t passed; they’re selected, and any number can play.</content>
         </reply>
       </replies>
     </post>
@@ -2998,7 +3026,7 @@
         <reply id="r138-1" author="thoreau" timestamp="1849">
           <content>It is remarkable that, notwithstanding the universal favor with which the New Testament is outwardly received, and even the bigotry with which it is defended, there is no hospitality shown to, there is no appreciation of, the order of truth with which it deals. I know of no book that has so few readers. There is not so truly strange, and heretical, and unpopular.</content>
         </reply>
-        <reply id="r138-1" author="thoreau" timestamp="1849">
+        <reply id="r138-2" author="thoreau" timestamp="1849">
           <content>There are, indeed, severe things in it which no man should read aloud more than once.—“Seek first the kingdom of heaven.”—“Lay not up for yourselves treasures on earth.”—“If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven.”—“For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?”—Think of this, Yankees!—“Verily, I say unto you, if ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.”—Think of repeating these things to a New England audience!</content>
         </reply>
       </replies>
