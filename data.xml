@@ -378,7 +378,7 @@
     </author>
 
     <author id="h-a-page">
-      <name>H.A. Page</name>
+      <name>Alexander Hay Japp</name>
       <handle>hapage</handle>
       <initials>HAP</initials>
       <color>#5a4a6a</color>
@@ -558,11 +558,11 @@
     </author>
 
     <author id="JohnHarlandHicks">
-      <name>John H. Hicks</name>
+      <name>John Harland Hicks</name>
       <handle>johnhhicks</handle>
       <initials>JHH</initials>
       <color>#5a4a3a</color>
-      <years>fl. 1960s</years>
+      <years>1919–2010</years>
       <bio>American literary scholar. Editing "Thoreau in Our Season," gathering a generation of writers on civil disobedience for this moment.</bio>
       <avatar>avatars/JohnHarlandHicks.jpg</avatar>
     </author>
@@ -1078,6 +1078,46 @@
       <avatar>avatars/EricSevareid.jpg</avatar>
     </author>
 
+    <author id="TerenceBall">
+      <name>Terence Ball</name>
+      <handle>terenceball</handle>
+      <initials>TB</initials>
+      <color>#4a5a7a</color>
+      <years>1944–</years>
+      <bio>Political theorist. Writing on conceptual history and American political thought. @hdthoreau is the bad conscience of liberalism—which is precisely why liberalism keeps returning to him. Arizona State University.</bio>
+      <avatar>avatars/TerenceBall.jpg</avatar>
+    </author>
+
+    <author id="JamesFChildress">
+      <name>James F. Childress</name>
+      <handle>jfchildress</handle>
+      <initials>JFC</initials>
+      <color>#5a4a6a</color>
+      <years>1940–</years>
+      <bio>Moral philosopher and ethicist at the University of Virginia. Thinking carefully about civil disobedience, conscientious objection, and what we owe each other under unjust laws. Charlottesville, Virginia.</bio>
+      <avatar>avatars/JamesFChildress.jpg</avatar>
+    </author>
+
+    <author id="CurtisCrawford">
+      <name>Curtis Crawford</name>
+      <handle>curtiscrawford</handle>
+      <initials>CC</initials>
+      <color>#6a5a4a</color>
+      <years>fl. 1969–1973</years>
+      <bio>Political philosopher and editor of "Civil Disobedience: A Casebook." Pressing hard on the logic of conscientious resistance—admiring the impulse while scrutinizing the argument.</bio>
+      <avatar>avatars/CurtisCrawford.jpg</avatar>
+    </author>
+
+    <author id="NormanJacobson">
+      <name>Norman Jacobson</name>
+      <handle>normanjacobson</handle>
+      <initials>NJ</initials>
+      <color>#3a6a5a</color>
+      <years>1924–2005</years>
+      <bio>Political theorist at UC Berkeley. Reading American political thought as a tradition of moral address—@hdthoreau as a citizen instructing his fellow citizens, not merely a solitary conscience refusing the world.</bio>
+      <avatar>avatars/NormanJacobson.jpg</avatar>
+    </author>
+
   </authors>
 
   <!-- ================================================================
@@ -1324,6 +1364,9 @@
         <like author="larosenwa" />
       </likes>
       <replies>
+        <reply id="r9-0" author="thoreau" timestamp="1851">
+          <content>Cut the leather only where the shoe pinches. Let us not have a rabid virtue that will be revenged on society—that falls on it, not like the morning dew, but like the fervid noonday sun, to wither it.</content>
+        </reply>
         <reply id="r9-1" author="JamesMacKaye" timestamp="1930">
           <content>Such a formula as “the less government the better," and hence none at all is the best, is valueless, for everything depends upon the <em>kind</em> of government.</content>
         </reply>
@@ -1723,7 +1766,11 @@
         <like author="nicholaswalter" />
         <like author="AJMuste" />
       </likes>
-      <replies/>
+      <replies>
+        <reply id="r38-1" author="TerenceBall" timestamp="1973">
+          <content>It may not be too far-fetched to suggest that Thoreau represents the bad conscience of American liberalism, and that is why liberals hardly know what to do with him. He is a skeleton in the closet of their collective conscience.</content>
+        </reply>
+      </replies>
     </post>
 
     <post id="p39" author="thoreau" timestamp="1849">
@@ -1743,10 +1790,13 @@
             <reply id="r39-2-1" author="thoreau" timestamp="1847">
               <content>Men talk much of cooperation nowadays, of working together to some worthy end; but what little cooperation there is, is as if it were not, being a simple result of which the means are hidden, a harmony inaudible to men. If a man has faith, he will cooperate with equal faith everywhere. If he has not faith he will continue to live like the rest of the world, whatever company he is joined to.</content>
             </reply>
-            <reply id="r39-2-2" author="thoreau" timestamp="1858">
+            <reply id="r39-2-2" author="emerson" timestamp="1856">
+              <content>If I knew only Thoreau, I should think cooperation of good men impossible. Must we always talk for victory, &amp; never once for truth, for comfort, &amp; joy?</content>
+            </reply>
+            <reply id="r39-2-3" author="thoreau" timestamp="1858">
               <content>If you aspire to anything better than politics expect no cooperation from men. You must prevail of your own force, as a plant springs &amp; grows by its own vitality.</content>
             </reply>
-            <reply id="r39-2-3" author="BobPeppermanTaylor" timestamp="1996">
+            <reply id="r39-2-4" author="BobPeppermanTaylor" timestamp="1996">
               <content>Thoreau rightly refuses to recognize that there is a moral debate to be had on the issue of slavery. From any perspective that is even remotely respectful of the American commitment to human liberty, slavery is nothing short of an abomination. There is nothing whatsoever to be said in its favor. It is the most obvious of crimes, and simply must end.</content>
             </reply>
           </replies>
@@ -2169,6 +2219,11 @@
         </reply>
         <reply id="r68-2" author="hugobedau" timestamp="1969">
           <content>Nonpayment of taxes is a revolutionary act in the sense that, if it is widely practiced, it will bring any government to its knees. Refusing to pay one’s taxes is not merely another case of disobeying the law. It is performing an act the nature of which is to deny to government its capacity to govern, to administer and enforce <em>any</em> of its laws.</content>
+          <replies>
+            <reply id="r68-2-1" author="JamesFChildress" timestamp="1971">
+              <content>Many forms of civil disobedience, if widely practiced, might have equally deleterious effects on the government or society. Perhaps all of them are revolutionary but not, I think, because to the generalization test. I do not think one can argue that tax resistance is revolutionary without considering its other elements in a total context; it is too much to say that it would not be justified unless revolution were justified.</content>
+            </reply>
+          </replies>
         </reply>
       </replies>
     </post>
@@ -2194,10 +2249,13 @@
         <reply id="r69-3" author="hugobedau" timestamp="1969">
           <content>@hdthoreau thinks the effect of arresting, prosecuting, and imprisoning civil disobedients will jolt the government into awareness of the immorality of its position, then shame the authorities into refusing to perform these duties, and thereby alter the attitude of society as a whole. No doubt this is unrealistic, and Thoreau is not as explicit as one could wish in developing this argument. Certainly from his own jailing there seem to have been few social or political consequences whatever.</content>
         </reply>
-        <reply id="r69-4" author="larosenwa" timestamp="1991">
+        <reply id="r69-4" author="CurtisCrawford" timestamp="1969">
+          <content>And certain men went to jail, and behold! Negro slavery was indeed abolished. But did the one truly assure the other? Many have gone to jail out of conscientious objection to war, but they have not thereby abolished it. Going to jail may be a good beginning, but what is once well begun is only begun; it is scarcely “done,” not to speak of “forever.”</content>
+        </reply>
+        <reply id="r69-5" author="larosenwa" timestamp="1991">
           <content>It is simply not true now, if it ever was, that “one honest man… locked up in the county jail… would be the abolition of slavery [or state violence] in America." Against @hdthoreau’s serene evening in the Concord jail, and his certainty that his truth would prevail, I have had to set the fretting, unsettling experience of resisting repeatedly, being levied repeatedly, and not bringing about the millennium.</content>
         </reply>
-        <reply id="r69-5" author="SusanSontag" timestamp="2003">
+        <reply id="r69-6" author="SusanSontag" timestamp="2003">
           <content>@hdthoreau’s going to prison for refusing to pay the poll tax in protest against the American war on Mexico hardly stopped the war. But the resonance of that most unpunishing and briefest spell of imprisonment (famously, a single night in jail) has not ceased to inspire principled resistance to injustice through the second half of the twentieth century and into our new era.</content>
         </reply>
       </replies>
@@ -2226,6 +2284,7 @@
         <like author="linyutang" />
         <like author="nicholaswalter" />
         <like author="DonaldKaufman" />
+        <like author="JohnDear" />
       </likes>
       <replies>
         <reply id="r71-1" author="tusitala" timestamp="1880">
@@ -2257,7 +2316,10 @@
             </reply>
           </replies>
         </reply>
-        <reply id="r72-3" author="wikibot" timestamp="">
+        <reply id="r72-3" author="CurtisCrawford" timestamp="1969">
+          <content>For moral excitement, @hdthoreau’s language is hard to match. But carefully weighed, how substantial is it? By the same logic, under a government which kills any unjustly, the true place for a just man is in the grave—because injustice exists, it is better not to live. Is this the voice of god, or of a demon?</content>
+        </reply>
+        <reply id="r72-4" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States" title="American Indians" description="The Indigenous peoples of the United States" thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Eight_Crow_prisoners_under_guard_at_Crow_agency%2C_Montana%2C_1887_-_NARA_-_531126.jpg/330px-Eight_Crow_prisoners_under_guard_at_Crow_agency%2C_Montana%2C_1887_-_NARA_-_531126.jpg" />
         </reply>
       </replies>
@@ -2576,7 +2638,10 @@
         <reply id="r96-1" author="WillardUphaus" timestamp="1963">
           <content>I am not sure whether I understand @hdthoreau or enter into his experience. I believe with him, with my whole heart, in the power of the <em>one</em>, but I cannot follow, without question, his belief that “there is little virtue in the masses of men.” How can I separate the <em>one</em> from the <em>many</em>?</content>
         </reply>
-        <reply id="r96-2" author="EricSevareid" timestamp="1974">
+        <reply id="r96-2" author="TerenceBall" timestamp="1973">
+          <content>@hdthoreau always speaks of natural law or “higher law” in a mordant, ironic way. To take a statement like this as a literal endorsement of the natural law thesis is to mistake his meaning, and to become mired in inconsistency and contradiction. For this would posit a law that is “higher” than individual conscience, which Thoreau takes for his guide.</content>
+        </reply>
+        <reply id="r96-3" author="EricSevareid" timestamp="1974">
           <content>The trouble with “higher laws” is that they aren’t passed; they’re selected, and any number can play.</content>
         </reply>
       </replies>
@@ -2760,11 +2825,14 @@
         <like author="AJMuste" />
       </likes>
       <replies>
-        <reply id="r115-1" author="thoreau" timestamp="1849">
+        <reply id="r115-1" author="thoreau" timestamp="1851">
           <content>It is not for a man to put himself in opposition to society, but to maintain himself in whatever attitude he finds himself through obedience to the laws of his own being, which will never be one of opposition to a just government.</content>
         </reply>
         <reply id="r115-2" author="odellshepard" timestamp="1920">
           <content>It is worthy of note that when he went to jail rather than pay a small tax to the national government which he thought was supporting slavery, he cheerfully paid a larger one for the maintenance of town roads.</content>
+        </reply>
+        <reply id="r115-3" author="NormanJacobson" timestamp="1964">
+          <content>@hdthoreau shaped both his act <em>and</em> the words explaining and justifying that act to the instruction of his fellow citizens. To me that is the true, in political terms, the only spirit in which an act of civil disobedience assumes grandeur.</content>
         </reply>
       </replies>
     </post>

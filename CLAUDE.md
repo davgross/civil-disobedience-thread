@@ -140,6 +140,10 @@ Authors currently in data.xml (id → display name):
 | `anonym` | Anon. (Danish resistance) |
 | `biblebot` | BibleBot |
 | `wikibot` | WikipediaBot |
+| `TerenceBall` | Terence Ball |
+| `JamesFChildress` | James F. Childress |
+| `CurtisCrawford` | Curtis Crawford |
+| `NormanJacobson` | Norman Jacobson |
 
 `wikibot` has no avatar (initials only); all others have JPEGs in `avatars/`.
 

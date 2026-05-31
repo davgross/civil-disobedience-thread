@@ -631,6 +631,30 @@ SUBJECTS = [
      "red velvet curtains, American eagle seal, nine empty mahogany chairs, "
      "white marble columns, solemnly lit formal chamber, "
      "period engraving aesthetic, dramatic chiaroscuro lighting"),
+
+    ("TerenceBall", 1105,
+     "Terence Ball aged 35, 1979 American academic, political theorist, "
+     "thoughtful professorial man with dark hair, slight smile, "
+     "book-lined office background, tweed or corduroy jacket, "
+     "scholarly composed demeanor, warm office light, " + STYLE),
+
+    ("JamesFChildress", 1106,
+     "James F. Childress aged 35, 1975 American moral philosopher and ethicist, "
+     "serious thoughtful man with brown hair and glasses, "
+     "University of Virginia faculty office background, dark jacket, "
+     "careful attentive expression, warm academic light, " + STYLE),
+
+    ("CurtisCrawford", 1107,
+     "Curtis Crawford aged 40, 1969 American political philosopher, "
+     "earnest scholarly man in late middle age, dark hair, "
+     "study or library background, conservative suit, "
+     "analytical composed expression, warm office light, " + STYLE),
+
+    ("NormanJacobson", 1108,
+     "Norman Jacobson aged 45, 1969 UC Berkeley political theorist, "
+     "intellectual American professor with salt-and-pepper hair, "
+     "Berkeley campus office background, rumpled tweed jacket, "
+     "warm searching expression, natural light through window, " + STYLE),
 ]
 
 BASE = "https://image.pollinations.ai/prompt/"
