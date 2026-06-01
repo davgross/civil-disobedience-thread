@@ -1118,6 +1118,36 @@
       <avatar>avatars/NormanJacobson.jpg</avatar>
     </author>
 
+    <author id="FrederickDouglass">
+      <name>Frederick Douglass</name>
+      <handle>freddouglass</handle>
+      <initials>FD</initials>
+      <color>#5a3020</color>
+      <years>1818–1895</years>
+      <bio>Escaped enslaved person, abolitionist, orator, autobiographer. I didn't know I was a slave until I found out I couldn't do the things I wanted. Proving that freedom of the mind precedes all other freedoms. Rochester, NY.</bio>
+      <avatar>avatars/FrederickDouglass.jpg</avatar>
+    </author>
+
+    <author id="JohnRawls">
+      <name>John Rawls</name>
+      <handle>johnrawls</handle>
+      <initials>JR</initials>
+      <color>#2d4060</color>
+      <years>1921–2002</years>
+      <bio>Political philosopher. A Theory of Justice. Justice is fairness; the principles of a just society are ones rational persons would choose behind a veil of ignorance. Cambridge, MA.</bio>
+      <avatar>avatars/JohnRawls.jpg</avatar>
+    </author>
+
+    <author id="FOMatthiessen">
+      <name>F.O. Matthiessen</name>
+      <handle>fomatthiessen</handle>
+      <initials>FOM</initials>
+      <color>#4a3a5a</color>
+      <years>1902–1950</years>
+      <bio>Literary critic, Harvard. American Renaissance: Art and Expression in the Age of Emerson and Whitman. Reading @hdthoreau and his contemporaries as the conscience of a democratic culture.</bio>
+      <avatar>avatars/FOMatthiessen.jpg</avatar>
+    </author>
+
   </authors>
 
   <!-- ================================================================
@@ -1248,6 +1278,9 @@
           <replies>
             <reply id="r0-21-1" author="thoreau" timestamp="1859">
               <content>Are laws to be enforced simply because they were made, &amp; declared by any number of men to be good, when they are not good? Is there any necessity for a man’s being a tool to perform a deed of which he his higher nature disapproves?</content>
+            </reply>
+            <reply id="r0-21-2" author="JohnRawls" timestamp="1971">
+              <content>The reply to this is that each person must indeed make his own decision. Even though men normally seek advice and counsel, and accept the injunctions of those in authority when these seem reasonable to them, they are always accountable for their deeds. We cannot divest ourselves of our responsibility and transfer the burden of blame to others.</content>
             </reply>
           </replies>
         </reply>
@@ -1391,7 +1424,10 @@
         <reply id="r10-1" author="HarryVJaffa" timestamp="1969">
           <content>No: That would be necessarily true only if all men were equal in physical strength, which they are not. It is the equality of natural <em>right</em> which supplies the moral ground of the majority principle.</content>
         </reply>
-        <reply id="r10-2" author="wikibot" timestamp="">
+        <reply id="r10-2" author="JohnRawls" timestamp="1971">
+          <content>There is nothing to the view that what the majority wills is right. In fact, none of the traditional conceptions of justice have held this doctrine, maintaining always that the outcome of the voting is subject to political principles.</content>
+        </reply>
+        <reply id="r10-3" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Majority_rule" title="Majority rule" description="Decision rule that selects alternatives which have a majority" thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Jos%C3%A9_Clemente_Orozco_-_The_Demagogue_-_Google_Art_Project.jpg/250px-Jos%C3%A9_Clemente_Orozco_-_The_Demagogue_-_Google_Art_Project.jpg" />
         </reply>
       </replies>
@@ -1406,6 +1442,9 @@
       <replies>
         <reply id="r11-1" author="WendellGlick" timestamp="1952">
           <content>What can be said, @hdthoreau is asking, of the increasingly insistent claims of the utilitarians in a world which is governed by inflexible moral absolutes?</content>
+        </reply>
+        <reply id="r11-2" author="JohnRawls" timestamp="1971">
+          <content>There is a temptation to say that the law must always respect the dictates of conscience, but this cannot be right. In general, the degree of tolerance accorded opposing moral conceptions depends upon the extent to which they can be allowed an equal place within a just system of liberty.</content>
         </reply>
       </replies>
     </post>
@@ -1428,6 +1467,9 @@
         </reply>
         <reply id="r12-2" author="JSMill" timestamp="1835">
           <content>In democratic states like the American republics, where the majority possesses an empire so absolute and so irresistible, whoever quits the path it has traced out must in a manner renounce the rights of citizenship, and almost those of humanity.</content>
+        </reply>
+        <reply id="r12-3" author="JohnRawls" timestamp="1971">
+          <content>It suffices to note that while citizens normally submit their conduct to democratic authority, that is, recognize the outcome of a vote as establishing a binding rule, other things equal, they do not submit their judgment to it.</content>
         </reply>
       </replies>
     </post>
@@ -1452,7 +1494,10 @@
             </reply>
           </replies>
         </reply>
-        <reply id="r13-3" author="BobPeppermanTaylor" timestamp="1996">
+        <reply id="r13-3" author="JohnRawls" timestamp="1971">
+          <content>The injustice of a law is not, in general, a sufficient reason for not adhering to it any more than the legal validity of legislation (as defined by the existing constitution) is a sufficient reason for going along with it. When the basic structure of society is reasonably just, as estimated by what the current state of things allows, we are to recognize unjust laws as binding provided that they do not exceed certain limits of injustice.</content>
+        </reply>
+        <reply id="r13-4" author="BobPeppermanTaylor" timestamp="1996">
           <content>To the degree that we behave as subjects, rather than citizens, we are degraded and robbed not only of our independence but of our very humanity.</content>
         </reply>
       </replies>
@@ -1554,6 +1599,9 @@
         <reply id="r21-1" author="thoreau" timestamp="1849">
           <content>However the conscience really does not, and ought not to monopolize the whole of our lives, any more than the heart or the head. It is as liable to disease as any other part. I have seen some whose consciences, owing undoubtedly to former indulgence, had grown to be as irritable as spoilt children, and at length gave them no peace.</content>
         </reply>
+        <reply id="r21-2" author="JohnRawls" timestamp="1971">
+          <content>Given the often predatory aims of state power, and the tendency of men to defer to their government’s decision to wage war, a general willingness to resist the state’s claims is all the more necessary.</content>
+        </reply>
       </replies>
     </post>
 
@@ -1586,7 +1634,13 @@
         <like author="KennettLove" />
       </likes>
       <replies>
-        <reply id="r24-1" author="wikibot" timestamp="">
+        <reply id="r24-1" author="FrederickDouglass" timestamp="1852">
+          <content>Whether we turn to the declarations of the past, or to the professions of the present, the conduct of the nation seems equally hideous and revolting. America is false to the past, false to the present, and solemnly binds herself to be false to the future.</content>
+        </reply>
+        <reply id="r24-2" author="JohnRawls" timestamp="1971">
+          <content>Certainly we are not required to acquiesce in the denial of our own and others’ basic liberties. Instead, we submit our conduct to democratic authority only to the extent necessary to share equitably in the inevitable imperfections of a constitutional system.</content>
+        </reply>
+        <reply id="r24-3" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Slavery_in_the_United_States" title="Slavery in the United States" description="Human chattel slavery, the enslavement primarily of Africans and African Americans, was prevalent in the USA from its founding in 1776 until 1865." thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Scourged_back_by_McPherson_%26_Oliver%2C_1863%2C_retouched.jpg/250px-Scourged_back_by_McPherson_%26_Oliver%2C_1863%2C_retouched.jpg" />
         </reply>
       </replies>
@@ -1613,7 +1667,11 @@
         <like author="gandhi" />
         <like author="leo-stoller" />
       </likes>
-      <replies/>
+      <replies>
+        <reply id="r26-1" author="JohnRawls" timestamp="1971">
+          <content>Whether noncompliance is justified depends on the extent to which laws and institutions are unjust. Unjust laws do not all stand on a par, and the same is true of policies and institutions.</content>
+        </reply>
+      </replies>
     </post>
 
     <post id="p27" author="thoreau" timestamp="1849">
@@ -1790,13 +1848,16 @@
             <reply id="r39-2-1" author="thoreau" timestamp="1847">
               <content>Men talk much of cooperation nowadays, of working together to some worthy end; but what little cooperation there is, is as if it were not, being a simple result of which the means are hidden, a harmony inaudible to men. If a man has faith, he will cooperate with equal faith everywhere. If he has not faith he will continue to live like the rest of the world, whatever company he is joined to.</content>
             </reply>
-            <reply id="r39-2-2" author="emerson" timestamp="1856">
+            <reply id="r39-2-2" author="FrederickDouglass" timestamp="1852">
+              <content>Would you have me argue that man is entitled to liberty? that he is the rightful owner of his own body? Must I argue the wrongfulness of slavery? Is that a question for Republicans? Is it to be settled by the rules of logic and argumentation, as a matter beset with great difficulty, involving a doubtful application of the principle of justice, hard to be understood?</content>
+            </reply>
+            <reply id="r39-2-3" author="emerson" timestamp="1856">
               <content>If I knew only Thoreau, I should think cooperation of good men impossible. Must we always talk for victory, &amp; never once for truth, for comfort, &amp; joy?</content>
             </reply>
-            <reply id="r39-2-3" author="thoreau" timestamp="1858">
+            <reply id="r39-2-4" author="thoreau" timestamp="1858">
               <content>If you aspire to anything better than politics expect no cooperation from men. You must prevail of your own force, as a plant springs &amp; grows by its own vitality.</content>
             </reply>
-            <reply id="r39-2-4" author="BobPeppermanTaylor" timestamp="1996">
+            <reply id="r39-2-5" author="BobPeppermanTaylor" timestamp="1996">
               <content>Thoreau rightly refuses to recognize that there is a moral debate to be had on the issue of slavery. From any perspective that is even remotely respectful of the American commitment to human liberty, slavery is nothing short of an abomination. There is nothing whatsoever to be said in its favor. It is the most obvious of crimes, and simply must end.</content>
             </reply>
           </replies>
@@ -2015,7 +2076,11 @@
       <likes>
         <like author="rudolfrocker" />
       </likes>
-      <replies/>
+      <replies>
+        <reply id="r57-1" author="JohnRawls" timestamp="1971">
+          <content>If justified civil disobedience seems to threaten civic concord, the responsibility falls not upon those who protest but upon those whose abuse of authority and power justifies such opposition. For to employ the coercive apparatus of the state in order to maintain manifestly unjust institutions is itself a form of illegitimate force that men in due course have a right to resist.</content>
+        </reply>
+      </replies>
     </post>
 
     <post id="p58" author="thoreau" timestamp="1849">
@@ -2312,7 +2377,7 @@
           <content>Morally invigorating as this is, it would perhaps not have helped the fugitive slave, and the Mexican prisoner on parole, and the Indian come to plead the wrongs of his race. You estimate the power of individual example beyond any other device in politics, but you don’t explain how the usefulness of example could communicate itself to people who were in fact slaves and not free.</content>
           <replies>
             <reply id="r72-2-1" author="FBSanborn" timestamp="1882">
-                      <content>This sounded hollow then, but when that embodiment of American justice and mercy, John Brown, lay bleeding in a Virginia prison, a dozen years later, the significance of @hdthoreau’s words began to be seen; and when a few years after our countrymen were dying by hundreds of thousands to complete what Brown, with his single life, had begun, the whole truth, as Thoreau had seen it, flashed in the eyes of the nation.</content>
+              <content>This sounded hollow then, but when that embodiment of American justice and mercy, John Brown, lay bleeding in a Virginia prison, a dozen years later, the significance of @hdthoreau’s words began to be seen; and when a few years after our countrymen were dying by hundreds of thousands to complete what Brown, with his single life, had begun, the whole truth, as Thoreau had seen it, flashed in the eyes of the nation.</content>
             </reply>
           </replies>
         </reply>
@@ -2333,7 +2398,7 @@
       </likes>
       <replies>
         <reply id="r73-1" author="WalterHarding" timestamp="1946">
-          <content>The potency of civil disobedience is accentuated by the opponent’s fear of creating a martyrdom. An honest citizen martyred can do more to topple the throne of tyranny than ten thousand armed legions. Ten good men in prison can create a revolution, or one @gandhi shake an empire to its foundations!</content>
+          <content>The potency of civil disobedience is accentuated by the opponent’s fear of creating a martyrdom. An honest citizen martyred can do more to topple the throne of tyranny than ten thousand armed legions. Ten good men in prison can create a revolution, or one @mahatma shake an empire to its foundations!</content>
         </reply>
       </replies>
     </post>
@@ -2359,6 +2424,9 @@
         </reply>
         <reply id="r74-3" author="arendt" timestamp="1970">
           <content>Organized minorities stand against assumed inarticulate, though hardly “silent,” majorities, which have changed in mood and opinion to an astounding degree under the pressure of the minorities.</content>
+        </reply>
+        <reply id="r74-4" author="JohnRawls" timestamp="1971">
+          <content>A community’s sense of justice is revealed in the fact that the majority cannot bring itself to take the steps necessary to suppress the minority and to punish acts of civil disobedience as the law allows. In spite of its superior power, the majority may abandon its position and acquiesce in the proposals of the dissenters; its desire to give justice weakens its capacity to defend its unjust advantages. The sentiment of justice will be seen as a more vital political force once the subtle forms in which it exerts its influence are recognized, and in particular its role in rendering certain social positions indefensible.</content>
         </reply>
       </replies>
     </post>
@@ -2426,7 +2494,10 @@
       <content>But the rich man—not to make any invidious comparison—is always sold to the institution which makes him rich. Absolutely speaking, the more money, the less virtue; for money comes between a man and his objects, and obtains them for him; it was certainly no great virtue to obtain it. It puts to rest many questions which he would otherwise be taxed to answer; while the only new question which it puts is the hard but superfluous one, how to spend it. Thus his moral ground is taken from under his feet.</content>
       <likes/>
       <replies>
-        <reply id="r79-1" author="william_stuart_nelson" timestamp="1964">
+        <reply id="r79-1" author="FOMatthiessen" timestamp="1941">
+          <content>@hdthoreau’s radical value does not lie in his gestures of protest. His contribution to our social thought lies in his thoroughgoing criticism of the narrow materialism of his day.</content>
+        </reply>
+        <reply id="r79-2" author="william_stuart_nelson" timestamp="1964">
           <content>@hdthoreau recognizes with extraordinary prescience the nature of the weaknesses which immobilize a nation in the presence of mortal crisis. One weakness was that they permit money to come between them and the objects of their duty—not simply money, but the things which money could buy. And thus, he said, as did Jesus before him, men gain the whole world but lose their souls.</content>
         </reply>
       </replies>
@@ -2793,6 +2864,11 @@
         </reply>
         <reply id="r113-1" author="emerson" timestamp="1862">
           <content>I cannot help counting it a fault in you that you have no ambition. Wanting this, instead of engineering for all America, you are the captain of a huckleberry party.</content>
+          <replies>
+            <reply id="r113-1-1" author="FOMatthiessen" timestamp="1941">
+              <content>@emerson does @hdthoreau a disservice. He is not really concerned with what Thoreau writes but with what he does, and, in this note of disappointment, with what he fails to do. Emerson still visualizes him in the guise of his own scholar in action, and therefore regrets that he does not turn his rare powers of “energy and practical ability” to great enterprise and command.</content>
+            </reply>
+          </replies>
         </reply>
         <reply id="r113-2" author="leo-stoller" timestamp="1966">
           <content>Denying Massachusetts its tax and taking your night in jail made up a unified act of self-satisfied principle. America might still own slaves and knuckle under to government, you at least have shown yourself free and can therefore go berrying.</content>
@@ -2833,6 +2909,9 @@
         </reply>
         <reply id="r115-3" author="NormanJacobson" timestamp="1964">
           <content>@hdthoreau shaped both his act <em>and</em> the words explaining and justifying that act to the instruction of his fellow citizens. To me that is the true, in political terms, the only spirit in which an act of civil disobedience assumes grandeur.</content>
+        </reply>
+        <reply id="r115-4" author="JohnRawls" timestamp="1971">
+          <content>Since civil disobedience is a mode of address taking place in the public forum, care must be taken to see that it is understood.</content>
         </reply>
       </replies>
     </post>
