@@ -655,6 +655,24 @@ SUBJECTS = [
      "intellectual American professor with salt-and-pepper hair, "
      "Berkeley campus office background, rumpled tweed jacket, "
      "warm searching expression, natural light through window, " + STYLE),
+
+    ("HowardZinn", 1109,
+     "Howard Zinn aged 45, 1967 American historian and activist, "
+     "dark-haired energetic man with intense eyes and slight smile, "
+     "Boston University campus or protest backdrop, open-collar shirt, "
+     "passionate principled expression, natural daylight, " + STYLE),
+
+    ("StaughtonLynd", 1110,
+     "Staughton Lynd aged 37, 1966 American historian and civil rights activist, "
+     "lean earnest man with dark-rimmed glasses and dark hair, "
+     "study or protest meeting backdrop, plain jacket, "
+     "serious committed expression, warm indoor light, " + STYLE),
+
+    ("VaclavHavel", 1111,
+     "Václav Havel aged 42, 1978 Czech playwright and dissident, "
+     "pale blue-eyed man with sandy hair and mustache, "
+     "Prague apartment or theater backdrop, turtleneck sweater, "
+     "quietly determined expression, soft ambient light, " + STYLE),
 ]
 
 BASE = "https://image.pollinations.ai/prompt/"

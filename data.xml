@@ -1124,7 +1124,7 @@
       <initials>FD</initials>
       <color>#5a3020</color>
       <years>1818–1895</years>
-      <bio>Escaped enslaved person, abolitionist, orator, autobiographer. I didn't know I was a slave until I found out I couldn't do the things I wanted. Proving that freedom of the mind precedes all other freedoms. Rochester, NY.</bio>
+      <bio>Escaped enslaved person, abolitionist, orator, autobiographer. Proving that freedom of the mind precedes all other freedoms. Rochester, NY.</bio>
       <avatar>avatars/FrederickDouglass.jpg</avatar>
     </author>
 
@@ -1146,6 +1146,36 @@
       <years>1902–1950</years>
       <bio>Literary critic, Harvard. American Renaissance: Art and Expression in the Age of Emerson and Whitman. Reading @hdthoreau and his contemporaries as the conscience of a democratic culture.</bio>
       <avatar>avatars/FOMatthiessen.jpg</avatar>
+    </author>
+
+    <author id="HowardZinn">
+      <name>Howard Zinn</name>
+      <handle>howardzinn</handle>
+      <initials>HZ</initials>
+      <color>#6a2a2a</color>
+      <years>1922–2010</years>
+      <bio>Historian, playwright, pacifist. Author of "A People's History of the United States." Former WWII bombardier turned lifelong anti-war activist. @hdthoreau's conscience runs through everything I write. Boston University.</bio>
+      <avatar>avatars/HowardZinn.jpg</avatar>
+    </author>
+
+    <author id="StaughtonLynd">
+      <name>Staughton Lynd</name>
+      <handle>staughtonlynd</handle>
+      <initials>SL</initials>
+      <color>#4a5c3a</color>
+      <years>1929–2022</years>
+      <bio>Historian, labor lawyer, civil rights and anti-war activist. Directed Freedom Schools during Mississippi Summer 1964. Blacklisted from academia for going to Hanoi. Youngstown, Ohio.</bio>
+      <avatar>avatars/StaughtonLynd.jpg</avatar>
+    </author>
+
+    <author id="VaclavHavel">
+      <name>Václav Havel</name>
+      <handle>vaclavhavel</handle>
+      <initials>VH</initials>
+      <color>#3a4a6a</color>
+      <years>1936–2011</years>
+      <bio>Czech playwright, essayist, and dissident. Author of "The Power of the Powerless." Living in truth as a form of resistance to a system that demands complicity. Charter 77. Prague.</bio>
+      <avatar>avatars/VaclavHavel.jpg</avatar>
     </author>
 
   </authors>
@@ -1281,6 +1311,9 @@
             </reply>
             <reply id="r0-21-2" author="JohnRawls" timestamp="1971">
               <content>The reply to this is that each person must indeed make his own decision. Even though men normally seek advice and counsel, and accept the injunctions of those in authority when these seem reasonable to them, they are always accountable for their deeds. We cannot divest ourselves of our responsibility and transfer the burden of blame to others.</content>
+            </reply>
+            <reply id="r0-21-3" author="HowardZinn" timestamp="2017">
+              <content>@abefortas’s notion of “political science” clearly does not include moral philosophy, but makes the former a register of whatever regulations the politicians of the time might order.</content>
             </reply>
           </replies>
         </reply>
@@ -1516,7 +1549,10 @@
         <reply id="r14-2" author="richardboardman" timestamp="1967">
           <content>Men who live their lives according to principle believe they can most fully lend their support to the development of freedom and love by setting a living example of those qualities for their fellows. And this they must do whether the laws permit it or not.</content>
         </reply>
-        <reply id="r14-3" author="wikibot" timestamp="">
+        <reply id="r14-3" author="HowardZinn" timestamp="2017">
+          <content>@hdthoreau’s great insight is that there is a moral emptiness in government unless it is filled by the actions of citizens on behalf of justice.</content>
+        </reply>
+        <reply id="r14-4" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Case_of_Sutton%27s_Hospital" title="Case of Sutton’s Hospital" description="A Corporation aggregate of many may not commit treason, nor be outlawed, nor excommunicate, for they have no souls." thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Charterhouse%2C_EC1_-_geograph.org.uk_-_27285.jpg/330px-Charterhouse%2C_EC1_-_geograph.org.uk_-_27285.jpg" />
         </reply>
       </replies>
@@ -1695,10 +1731,10 @@
             <reply id="r28-1-1" author="SCOTUS" timestamp="1857">
               <content>Negroes are not and cannot be citizens in the meaning of the federal Constitution</content>
               <replies>
-                <reply id="28-1-1-1" author="thoreau" timestamp="1854">
+                <reply id="r28-1-1-1" author="thoreau" timestamp="1854">
                   <content>The judge may decide this way or that; it is a kind of accident, at best. It is evident that he is not a competent authority in so important a case. Such judges as these are merely the inspectors of a pick-lock and murderer’s tools, to tell him whether they are in working order or not, and there they think that their responsibility ends. The law will never make men free; it is men who have got to make the law free.</content>
                 </reply>
-                <reply id="28-1-1-2" author="thoreau" timestamp="1854">
+                <reply id="r28-1-1-2" author="thoreau" timestamp="1854">
                   <content>Whoever can discern truth has received his commission from a higher source than the chiefest justice in the world who can discern only law. He finds himself constituted judge of the judge. Strange that it should be necessary to state such simple truths!</content>
                 </reply>
               </replies>
@@ -1707,6 +1743,9 @@
         </reply>
         <reply id="r28-2" author="TrumanJNelson" timestamp="1962">
           <content>What would happen if @hdthoreau said this today at a Vietnam teach-in?</content>
+        </reply>
+        <reply id="r28-3" author="StaughtonLynd" timestamp="1966">
+          <content>Conscious of writing near Concord Bridge, Thoreau asks, in effect: If violence was justified against a tax on tea, how much more would it be justified to emancipate the slaves?</content>
         </reply>
       </replies>
     </post>
@@ -2058,6 +2097,9 @@
             </reply>
           </replies>
         </reply>
+        <reply id="r55-2" author="VaclavHavel" timestamp="1978">
+          <content>The conflict between the aims of life and the aims of the system is not a conflict between the rulers and the ruled. This line runs de facto through each person, for everyone in his own way is both a victim and a supporter of the system. It is not a social order imposed by one group upon another, but rather something which permeates the entire society and is a factor in shaping it, something which may seem impossible to grasp or define, but which is expressed by the entire society as an important feature of its life.</content>
+        </reply>
       </replies>
     </post>
 
@@ -2095,10 +2137,10 @@
         <reply id="r58-2" author="HarryVJaffa" timestamp="1969">
           <content>To cherish a wise minority is, in substance, what representative government is supposed to do. But why should a self-appointed wise minority, outside of government, be entitled to an obedience denied by @hdthoreau to the minority chosen constitutionally by the majority? Thoreau’s strictures against law and constitutional majority rule can only lead not to rule by a “wise minority” but to lawless tyranny.</content>
           <replies>
-            <reply id="r-58-2-1" author="thoreau" timestamp="1854">
+            <reply id="r58-2-1" author="thoreau" timestamp="1854">
               <content>Pray, is virtue constitutional, or vice? Is equity constitutional, or iniquity? It is as impertinent, in important moral and vital questions like this, to ask whether a law is constitutional or not, as to ask whether it is profitable or not. Sir, the question is not whether you or your grandfather, seventy years ago, entered into an agreement to serve the devil, and that service is not accordingly now due; but whether you will not now, for once and last, serve God—in spite of your own past recreancy or that of your ancestors—and obey that eternal and only just Constitution which he, and not any Jefferson or Adams, has written in your being.</content>
             </reply>
-            <reply id="r-58-2-2" author="thoreau" timestamp="1859">
+            <reply id="r58-2-2" author="thoreau" timestamp="1859">
               <content>We talk about a <em>representative</em> government, but what a monster of a government is that where the noblest faculties of the mind, &amp; the whole heart, are not represented. A semi-human tiger or ox stalking over the earth, with its heart taken out &amp; the top of its brain shot away.</content>
             </reply>
           </replies>
@@ -2317,10 +2359,13 @@
         <reply id="r69-4" author="CurtisCrawford" timestamp="1969">
           <content>And certain men went to jail, and behold! Negro slavery was indeed abolished. But did the one truly assure the other? Many have gone to jail out of conscientious objection to war, but they have not thereby abolished it. Going to jail may be a good beginning, but what is once well begun is only begun; it is scarcely “done,” not to speak of “forever.”</content>
         </reply>
-        <reply id="r69-5" author="larosenwa" timestamp="1991">
+        <reply id="r69-5" author="VaclavHavel" timestamp="1978">
+          <content>Living within the lie can constitute the system only if it is universal. The principle must embrace and permeate everything. There are no terms whatsoever on which it can co-exist with living within the truth, and therefore everyone who steps out of line denies it in principle and threatens it in its entirety.</content>
+        </reply>
+        <reply id="r69-6" author="larosenwa" timestamp="1991">
           <content>It is simply not true now, if it ever was, that “one honest man… locked up in the county jail… would be the abolition of slavery [or state violence] in America." Against @hdthoreau’s serene evening in the Concord jail, and his certainty that his truth would prevail, I have had to set the fretting, unsettling experience of resisting repeatedly, being levied repeatedly, and not bringing about the millennium.</content>
         </reply>
-        <reply id="r69-6" author="SusanSontag" timestamp="2003">
+        <reply id="r69-7" author="SusanSontag" timestamp="2003">
           <content>@hdthoreau’s going to prison for refusing to pay the poll tax in protest against the American war on Mexico hardly stopped the war. But the resonance of that most unpunishing and briefest spell of imprisonment (famously, a single night in jail) has not ceased to inspire principled resistance to injustice through the second half of the twentieth century and into our new era.</content>
         </reply>
       </replies>
@@ -2443,7 +2488,10 @@
         <like author="KennettLove" />
       </likes>
       <replies>
-        <reply id="r75-1" author="wikibot" timestamp="">
+        <reply id="r75-1" author="StaughtonLynd" timestamp="1966">
+          <content>@hdthoreau defines individual civil disobedience as the method of peaceable revolution, if such a revolution were possible. The Civil War came, seeming to disprove this possibility; but a generation later @mahatma discovered in South Africa how masses of people—without which no genuine revolution can occur—could use nonviolent action.</content>
+        </reply>
+        <reply id="r75-2" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Tax_resistance_in_the_United_States" title="Tax resistance in the United States" description="Tax resistance has been practiced at least since colonial times, and has played important parts in American history." thumb="rhttps://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Boston_Tea_Party_Currier_colored.jpg/330px-Boston_Tea_Party_Currier_colored.jpg" />
         </reply>
       </replies>
