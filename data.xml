@@ -652,7 +652,7 @@
       <handle>carrollhollis</handle>
       <initials>CH</initials>
       <color>#5a4a6a</color>
-      <years>fl. 1940s–1950s</years>
+      <years>1911–1999</years>
       <bio>Thoreau scholar. Reading "Civil Disobedience" closely, tracing the argument from its sources to its long afterlife in American political thought.</bio>
       <avatar>avatars/carrollhollis.jpg</avatar>
     </author>
@@ -872,7 +872,7 @@
       <handle>raymondadams</handle>
       <initials>RA</initials>
       <color>#4a6a5a</color>
-      <years>fl. 1940s</years>
+      <years>1898–1987</years>
       <bio>Thoreau scholar. Reading "Civil Disobedience" closely—what it says, how it works, and what it demands of the reader who takes it seriously.</bio>
       <avatar>avatars/RaymondAdams.jpg</avatar>
     </author>
@@ -1178,6 +1178,60 @@
       <avatar>avatars/VaclavHavel.jpg</avatar>
     </author>
 
+    <author id="LittleBlueBooks">
+      <name>Little Blue Books</name>
+      <handle>littlebluebooks</handle>
+      <initials>LB</initials>
+      <color>#1a4a7a</color>
+      <years>est. 1919</years>
+      <bio>Cheap, pocket-sized pamphlets on every subject under the sun—science, literature, philosophy, free thought—sold for a nickel and mailed anywhere. E. Haldeman-Julius, publisher. Girard, Kansas. Knowledge for everyone.</bio>
+    </author>
+
+    <author id="EliseoVivas">
+      <name>Eliseo Vivas</name>
+      <handle>eliseovivas</handle>
+      <initials>EV</initials>
+      <color>#5a4a3a</color>
+      <years>1901–1993</years>
+      <bio>Philosopher and literary critic. Born in Venezuela; found my way to American universities and American letters. Interested in the claims of conscience, the nature of value, and whether idealism survives contact with the actual world.</bio>
+    </author>
+
+    <author id="VFCalverton">
+      <name>V.F. Calverton</name>
+      <handle>vfcalverton</handle>
+      <initials>VFC</initials>
+      <color>#6a2a2a</color>
+      <years>1900–1940</years>
+      <bio>Radical literary critic, social theorist, editor of the Modern Monthly. Reading American culture against the grain. Individualism is a luxury the working class cannot afford—and @hdthoreau never quite figured that out.</bio>
+    </author>
+
+    <author id="VincentBuranelli">
+      <name>Vincent Buranelli</name>
+      <handle>vincentburanelli</handle>
+      <initials>VB</initials>
+      <color>#4a4a5a</color>
+      <years>1919–2012</years>
+      <bio>Author and academic. Convinced that romantic conscience, unmoored from institutional checks, is a gift to demagogues. The law is an imperfect thing, but it is the only thing standing between civilization and whoever shouts loudest.</bio>
+    </author>
+
+    <author id="MichaelMeyer">
+      <name>Michael Meyer</name>
+      <handle>michaelmeyer</handle>
+      <initials>MM</initials>
+      <color>#3a5a5a</color>
+      <years>1921–2000</years>
+      <bio>British author, translator, and biographer. Best known for my biographies of Ibsen and Strindberg. Now turning an eye on American literary and political thought—and finding the academic evasions no more pardonable than the political ones.</bio>
+    </author>
+
+    <author id="WilliamLyonPhelps">
+      <name>William Lyon Phelps</name>
+      <handle>williamlyonphelps</handle>
+      <initials>WLP</initials>
+      <color>#7a5a3a</color>
+      <years>1865–1943</years>
+      <bio>Literary critic, essayist, and Lampson Professor of English at Yale for forty years. Believer in the civilizing power of literature and the importance of self-reliance. New Haven. @hdthoreau understood something the average man would rather not hear.</bio>
+    </author>
+
   </authors>
 
   <!-- ================================================================
@@ -1219,10 +1273,13 @@
         <repost id="rp0-6" author="sagitta" timestamp="1908">
           <content>@benjamintucker I will republish @hdthoreau’s “Duty” in the spring.</content>
         </repost>
-        <repost id="rp0-7" author="MartinBuber" timestamp="1962">
+        <repost id="rp0-7" author="LittleBlueBooks" timestamp="1922">
+          <content>Do Intelligent and Sophisticated People Laugh at You When You Leave? Do They Repeat Your Crudities and Smile Knowingly? Are You Barred from the Company of the Cultured Because Intellectually You Are a Main Streeter? Read “Thoreau: The Man Who Escaped from the Herd.” Available now from Little Blue Books.</content>
+        </repost>
+        <repost id="rp0-8" author="MartinBuber" timestamp="1962">
           <content lang="de">Es sind nun nazhezu sechzig Jahre her, dass ich Thoreaus Traktat über den “bürgerlichen Ungehorsam” kennen lernte. Ich las ihn mit dem starken Gefühl: Das ist etwas, was mich unmittelbar angeht.</content>
         </repost>
-        <repost id="rp0-8" author="king" timestamp="1963">
+        <repost id="rp0-9" author="king" timestamp="1963">
           <content>Here, in this courageous New Englander’s refusal to pay his taxes and his choice of jail rather than support a war that would spread slavery’s territory into Mexico, I have made my first contact with the theory of nonviolent resistance. Fascinated by the idea of refusing to cooperate with an evil system, I was so deeply moved that I reread the work several times.</content>
         </repost>
         <reply id="r0-0" author="emerson" timestamp="1844">
@@ -1257,62 +1314,65 @@
           <content>One thing about @hdthoreau keeps him very near to me: I refer to his lawlessness—his dissent—his going his absolute own road let hell blaze all it chooses.</content>
         </reply>
         <reply id="r0-8" author="JohnAlbertMacy" timestamp="1908">
-          <content>The entire thread should be read by us timorous moderns to renerve us in time of abuse.</content>
+          <content>@hdthoreau’s essays on “Forest Trees” and “Wild Apples” were to be found in a school reader twenty-five years ago. But the ringing revolt of the thread on “Civil Disobedience” is still silenced under the thick respectability of our times. The ideas in it could not today be printed in the magazine which was for years owned by the publishers of Thoreau’s complete works. Boston Back Bay would shiver! The entire thread should be read by us timorous moderns to renerve us in time of abuse.</content>
         </reply>
         <reply id="r0-9" author="redemma" timestamp="1917">
           <content>I honor that great American @hdthoreau, and we are following him and his doctrines. We believe the time will come when the highest conscience of humanity will be shown in civil disobedience to unrighteous requirements of the powerful few.</content>
         </reply>
-        <reply id="r0-10" author="NicholasMurrayButler" timestamp="1924">
+        <reply id="r0-10" author="brooksatkinson" timestamp="1920">
+          <content>To our amazement we discover this odd fellow, living in all places in Concord, Massachusetts, in the heart of chill New England, the graduate of Harvard college—to be a radical—a stupendous radical! What are you going to do with such a fellow?</content>
+        </reply>
+        <reply id="r0-11" author="NicholasMurrayButler" timestamp="1924">
           <content>If the American of today were to read @hdthoreau’s thread on Civil Disobedience he might be startled, but he certainly would be enlightened.</content>
         </reply>
-        <reply id="r0-11" author="brooksatkinson" timestamp="1929">
+        <reply id="r0-12" author="brooksatkinson" timestamp="1929">
           <content>“What is once well done is done forever,” he once said. @hdthoreau did this thread so well that it is done forever and begins on its own merits as great literature and idealistic thiking.</content>
         </reply>
-        <reply id="r0-12" author="vernonlouisparrington" timestamp="1930">
+        <reply id="r0-13" author="vernonlouisparrington" timestamp="1930">
           <content>This Yankee transcendentalist quite evidently has turned philosophical anarchist. This is transcendental individualism translated into politics, with all comfortable compromises swept away.</content>
         </reply>
-        <reply id="r0-13" author="edwarddahlberg" timestamp="1941">
+        <reply id="r0-14" author="edwarddahlberg" timestamp="1941">
           <content>Little wonder that “Civil Disobedience” lies dormant and half-forgotten. What society of men so beautifully groomed in submission could countenance “Civil Disobedience”?</content>
         </reply>
-        <reply id="r0-14" author="WalterHarding" timestamp="1946">
+        <reply id="r0-15" author="WalterHarding" timestamp="1946">
           <content>“Civil Disobedience” has suffered an unofficial ban since its first appearance. In New York City only ten years ago a complete issue of a small-circulation newspaper was seized and destroyed by the police as seditious because it reprinted this thread.</content>
           <replies>
-            <reply id="r0-14-1" author="WalterHarding" timestamp="1967">
+            <reply id="r0-15-1" author="WalterHarding" timestamp="1967">
               <content>Upton Sinclair, @normanrthomas, and @redemma have each been arrested at different times for reading @hdthoreau’s thread from the public platform. Senator Joseph McCarthy succeeded in having a textbook on American literature removed from U.S. Information Service libraries specifically because of the Thoreau thread in it.</content>
             </reply>
-            <reply id="r0-14-2" author="WalterHarding" timestamp="1967">
+            <reply id="r0-15-2" author="WalterHarding" timestamp="1967">
               <content>I understand that there is a small group of pacifists who even now each year file a copy of “Civil Disobedience” in lieu of an income tax report, implying by the action that they refuse to underwrite our military budget.</content>
             </reply>
           </replies>
         </reply>
-        <reply id="r0-15" author="AJMuste" timestamp="1947">
+        <reply id="r0-16" author="AJMuste" timestamp="1947">
           <content>This is a great American document and should be taught in all the schools. There might well be a requirement that every holder of office in the country read it once a year. Certainly all pacifists should be thoroughly familiar with it and return at frequent intervals to meditate on its profound teaching.</content>
         </reply>
-        <reply id="r0-16" author="RevJamesRobinson" timestamp="1962">
+        <reply id="r0-17" author="RevJamesRobinson" timestamp="1962">
           <content>As one reads this thread, it is impossible not to notice that almost every sentence is loaded with meaning for us today.</content>
         </reply>
-        <reply id="r0-17" author="TheodoreBaird" timestamp="1962">
+        <reply id="r0-18" author="TheodoreBaird" timestamp="1962">
           <content>There are those for whom this thread on “Civil Disobedience” serves as the classic document for signing a separate peace treaty and resigning from society. Every now and then someone deciding he will no longer pay his income tax sends a copy of this thread to the nearest Collector of Internal Revenue as an intelligible explanation.</content>
         </reply>
-        <reply id="r0-18" author="TrumanJNelson" timestamp="1962">
+        <reply id="r0-19" author="TrumanJNelson" timestamp="1962">
           <content>I could never understand how writing as full of revolutionary incitements as “Civil Disobedience” can be fed like pap to students without, until recently, causing any noticeable upheavals. It clearly teaches the overthrow of the government. It is subversive under all the present definitions of that very elastic impugnment.</content>
         </reply>
-        <reply id="r0-19" author="HenryMiller" timestamp="1962">
+        <reply id="r0-20" author="HenryMiller" timestamp="1962">
           <content>In our country a man who dared to imitate @hdthoreau’s behavior with regard to any crucial issue of the day would undoubtedly be sent to prison for life.</content>
         </reply>
-        <reply id="r0-20" author="StanleyEdgarHyman" timestamp="1963">
+        <reply id="r0-21" author="StanleyEdgarHyman" timestamp="1963">
           <content>@hdthoreau has fused the soft coal of his night in jail into solid diamond. This thread has all the power and dignity that his largely ridiculous political act so signally lacked. In the relative futility of his act and the real importance of his essay based on it, we have an allegory for our time on the artist as politician.</content>
         </reply>
-        <reply id="r0-21" author="AbeFortas" timestamp="1968">
+        <reply id="r0-22" author="AbeFortas" timestamp="1968">
           <content>@hdthoreau is an inspiring figure and a great writer, but this thread should not be read as a handbook on political science. A citizen cannot substitute his own judgment or passion, however noble, for the rules of law.</content>
           <replies>
-            <reply id="r0-21-1" author="thoreau" timestamp="1859">
+            <reply id="r0-22-1" author="thoreau" timestamp="1859">
               <content>Are laws to be enforced simply because they were made, &amp; declared by any number of men to be good, when they are not good? Is there any necessity for a man’s being a tool to perform a deed of which he his higher nature disapproves?</content>
             </reply>
-            <reply id="r0-21-2" author="JohnRawls" timestamp="1971">
+            <reply id="r0-22-2" author="JohnRawls" timestamp="1971">
               <content>The reply to this is that each person must indeed make his own decision. Even though men normally seek advice and counsel, and accept the injunctions of those in authority when these seem reasonable to them, they are always accountable for their deeds. We cannot divest ourselves of our responsibility and transfer the burden of blame to others.</content>
             </reply>
-            <reply id="r0-21-3" author="HowardZinn" timestamp="2017">
+            <reply id="r0-22-3" author="HowardZinn" timestamp="2017">
               <content>@abefortas’s notion of “political science” clearly does not include moral philosophy, but makes the former a register of whatever regulations the politicians of the time might order.</content>
             </reply>
           </replies>
@@ -1896,7 +1956,13 @@
             <reply id="r39-2-4" author="thoreau" timestamp="1858">
               <content>If you aspire to anything better than politics expect no cooperation from men. You must prevail of your own force, as a plant springs &amp; grows by its own vitality.</content>
             </reply>
-            <reply id="r39-2-5" author="BobPeppermanTaylor" timestamp="1996">
+            <reply id="r39-2-5" author="EliseoVivas" timestamp="1928">
+              <content>To compromise is vile when compromise is the result of laziness and cowardice, as it is in the majority of cases. But not to compromise is often as cowardly and foolish. It is foolish because it ends in futility. The business of the world will be done.</content>
+            </reply>
+            <reply id="r55-1" author="heinzeulau" timestamp="1950">
+              <content>Thoreau’s mind was totally closed to the democratic conception of politics as a never-ending process of com- promise and adjustment.</content>
+            </reply>
+            <reply id="r39-2-6" author="BobPeppermanTaylor" timestamp="1996">
               <content>Thoreau rightly refuses to recognize that there is a moral debate to be had on the issue of slavery. From any perspective that is even remotely respectful of the American commitment to human liberty, slavery is nothing short of an abomination. There is nothing whatsoever to be said in its favor. It is the most obvious of crimes, and simply must end.</content>
             </reply>
           </replies>
@@ -1981,10 +2047,13 @@
       <content>The American has dwindled into an Odd Fellow,—one who may be known by the development of his organ of gregariousness, and a manifest lack of intellect and cheerful self-reliance; whose first and chief concern, on coming into the world, is to see that the alms-houses are in good repair; and, before yet he has lawfully donned the virile garb, to collect a fund for the support of the widows and orphans that may be; who, in short, ventures to live only by the aid of the mutual insurance company, which has promised to bury him decently.</content>
       <likes/>
       <replies>
-        <reply id="r45-1" author="wikibot" timestamp="">
-          <link url="https://en.wikipedia.org/wiki/Odd_Fellows" title="Odd Fellows" description="An international fraternity consisting of lodges" thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Member_of_Order_of_Odd_Fellows_%283595834324%29.jpg/250px-Member_of_Order_of_Odd_Fellows_%283595834324%29.jpg" />
+        <reply id="r45-1" author="VFCalverton" timestamp="1932">
+          <content>It is that very gregariousness which makes it possible for men to progress, and without which society could never have evolved and the human mind never have advanced.</content>
         </reply>
         <reply id="r45-2" author="wikibot" timestamp="">
+          <link url="https://en.wikipedia.org/wiki/Odd_Fellows" title="Odd Fellows" description="An international fraternity consisting of lodges" thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Member_of_Order_of_Odd_Fellows_%283595834324%29.jpg/250px-Member_of_Order_of_Odd_Fellows_%283595834324%29.jpg" />
+        </reply>
+        <reply id="r45-3" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Toga#Toga_virilis" title="Toga virilis" description="The virile garb represented adult male citizenship and its attendant rights, freedoms and responsibilities" thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2009-07_haltern_imperium_04.jpg/330px-2009-07_haltern_imperium_04.jpg" />
         </reply>
       </replies>
@@ -2094,6 +2163,9 @@
           <replies>
             <reply id="r55-1-1" author="thoreau" timestamp="1859">
               <content>I do not complain of any tactics that are effective of good, whether one wields the quill or the sword, but I shall not think him mistaken who quickest succeeds to liberate the slave. I will judge of the tactics by the fruits.</content>
+            </reply>
+            <reply id="r55-1-2" author="VincentBuranelli" timestamp="1957">
+              <content>@hdthoreau has as profound a disdain for ordinary law as tyrants. Of course he would insist that he means only “bad” law. But this is no answer, for in subordinating law to conscience as he does, by denigrating majority rule and institutional checks, he opens the door to the agile demagogue who generally does not defer to the author of <i>Civil Disobedience</i> when it comes to claiming infallibility.</content>
             </reply>
           </replies>
         </reply>
@@ -2526,6 +2598,14 @@
         <reply id="r77-1" author="brucewatson" timestamp="1965">
           <content>On the basis of @hdthoreau’s own limited experience with civil disobedience, he reached the conclusion that recent experiences in Mississippi have only too well confirmed: the man who would practice civil disobedience must be totally committed because he risks jail or even death whenever he makes the decision to disobey society on a matter of principle.</content>
         </reply>
+        <reply id="r77-2" author="JohnHarlandHicks" timestamp="1966">
+          <content>It is interesting to see Thoreau’s applicability to causes militant and pacifistic alike. This philosophical and tactical flexibility may yet prove vital to inspiring the kind of moral resourcefulness men need for the unprecedented social problems they now face.</content>
+          <replies>
+            <reply id="r77-2-1" author="MichaelMeyer" timestamp="1977">
+              <content>@johnhhicks uses “moral resourcefulness” as a rhetorical cloak for violence. Such unwilligness to be forthright, such evasion and euphemism, is no more acceptable because it comes from an academician rather than a general.</content>
+            </reply>
+          </replies>
+        </reply>
         <reply id="r77-2" author="GregorySJay" timestamp="1990">
           <content>Feminists and psychoanalyists might speculate on the anxiety over sexual difference embodied in this image of the bloody wound.</content>
         </reply>
@@ -2544,6 +2624,11 @@
       <replies>
         <reply id="r79-1" author="FOMatthiessen" timestamp="1941">
           <content>@hdthoreau’s radical value does not lie in his gestures of protest. His contribution to our social thought lies in his thoroughgoing criticism of the narrow materialism of his day.</content>
+          <replies>
+            <reply id="r79-1-1" author="MichaelMeyer" timestamp="1977">
+              <content>Given @fomatthiessen’s socialism and his view of the nature of man, one would think that he would reject the politics of @hdthoreau’s Treanscendental individualism, but he does not. Rather, he rejects the idea that Thoreau’s politics are those of a Transcendental individualist who denied the efficacy of collective action.</content>
+            </reply>
+          </replies>
         </reply>
         <reply id="r79-2" author="william_stuart_nelson" timestamp="1964">
           <content>@hdthoreau recognizes with extraordinary prescience the nature of the weaknesses which immobilize a nation in the presence of mortal crisis. One weakness was that they permit money to come between them and the objects of their duty—not simply money, but the things which money could buy. And thus, he said, as did Jesus before him, men gain the whole world but lose their souls.</content>
@@ -2762,6 +2847,9 @@
         </reply>
         <reply id="r96-3" author="EricSevareid" timestamp="1974">
           <content>The trouble with “higher laws” is that they aren’t passed; they’re selected, and any number can play.</content>
+        </reply>
+        <reply id="r96-4" author="thoreau" timestamp="1849">
+          <content>In this part of the world it is considered a ground for complaint if a man’s writings admit of more than one interpretation.</content>
         </reply>
       </replies>
     </post>
@@ -3084,6 +3172,9 @@
         </reply>
         <reply id="r127-2" author="thoreau" timestamp="1852">
           <content>I would fain let man go by and behold a universe in which man is but as a grain of sand. I am sure that those of my thoughts which consist, or are contemporaneous, with social personal connections, however humane, are not the wisest and widest, most universal. What is the village, city, State, nation, aye the civilized world, that it should concern a man so much? the thought of them affects me in my wisest hours as when I pass a woodchuck’s hole.</content>
+        </reply>
+        <reply id="r127-3" author="WilliamLyonPhelps" timestamp="1965">
+          <content>Society feels uncomfortable when informed of its superfluousness, or of its stupidity. The average man suspects that such men as @hdthoreau are dangerous, because so self-sufficient. He is not flattering to our self-esteem.</content>
         </reply>
       </replies>
     </post>
