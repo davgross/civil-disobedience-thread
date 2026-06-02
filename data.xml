@@ -1185,6 +1185,7 @@
       <color>#1a4a7a</color>
       <years>est. 1919</years>
       <bio>Cheap, pocket-sized pamphlets on every subject under the sun—science, literature, philosophy, free thought—sold for a nickel and mailed anywhere. E. Haldeman-Julius, publisher. Girard, Kansas. Knowledge for everyone.</bio>
+      <avatar>avatars/lbb.jpg</avatar>
     </author>
 
     <author id="EliseoVivas">
@@ -1194,6 +1195,7 @@
       <color>#5a4a3a</color>
       <years>1901–1993</years>
       <bio>Philosopher and literary critic. Born in Venezuela; found my way to American universities and American letters. Interested in the claims of conscience, the nature of value, and whether idealism survives contact with the actual world.</bio>
+      <avatar>avatars/EliseoVivas.jpg</avatar>
     </author>
 
     <author id="VFCalverton">
@@ -1212,6 +1214,7 @@
       <color>#4a4a5a</color>
       <years>1919–2012</years>
       <bio>Author and academic. Convinced that romantic conscience, unmoored from institutional checks, is a gift to demagogues. The law is an imperfect thing, but it is the only thing standing between civilization and whoever shouts loudest.</bio>
+      <avatar>avatars/VincentBuranelli.jpg</avatar>
     </author>
 
     <author id="MichaelMeyer">
@@ -1230,6 +1233,17 @@
       <color>#7a5a3a</color>
       <years>1865–1943</years>
       <bio>Literary critic, essayist, and Lampson Professor of English at Yale for forty years. Believer in the civilizing power of literature and the importance of self-reliance. New Haven. @hdthoreau understood something the average man would rather not hear.</bio>
+      <avatar>avatars/WLPhelps.jpg</avatar>
+    </author>
+
+    <author id="StephenRAlton">
+      <name>Stephen R. Alton</name>
+      <handle>stephenralton</handle>
+      <initials>SRA</initials>
+      <color>#4a5a7a</color>
+      <years>fl. 1990s</years>
+      <bio>Legal scholar and political theorist. Interested in the tension between principled dissent and the practical demands of governance in a complex society. Skeptical that nineteenth-century moral individualism translates cleanly into modern institutional life.</bio>
+      <avatar>avatars/StephenAlton.jpg</avatar>
     </author>
 
   </authors>
@@ -1413,6 +1427,9 @@
         </reply>
         <reply id="r1-5" author="HarryVJaffa" timestamp="1969">
           <content>There is a similarity between @hdthoreau’s attitude toward government and St. Paul’s toward marriage: both institutions are seen as lesser evils necessitated by the blind strength of the human passions. One might address a similar question to Paul and Thoreau: is the Kingdom of Heaven—or the best government which governs not at all—only within each man, as a higher standard by which the superior are to govern themselves? Or is it something objectively to be fulfilled here, in a Messianic era yet to come?</content>
+        </reply>
+        <reply id="r1-6" author="StephenRAlton" timestamp="1992">
+          <content>However appealing they might seem in theory, @hdthoreau’s libertarian calls for the least quantum of government are simply impractical in today’s complex society.</content>
         </reply>
       </replies>
     </post>

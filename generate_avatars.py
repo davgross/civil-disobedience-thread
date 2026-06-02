@@ -673,6 +673,12 @@ SUBJECTS = [
      "pale blue-eyed man with sandy hair and mustache, "
      "Prague apartment or theater backdrop, turtleneck sweater, "
      "quietly determined expression, soft ambient light, " + STYLE),
+
+    ("StephenRAlton", 1112,
+     "Stephen R. Alton aged 40, 1992 American legal scholar and political theorist, "
+     "composed professional man with neatly groomed dark hair, "
+     "law school office or library background, dark suit and tie, "
+     "measured skeptical expression, warm academic light, " + STYLE),
 ]
 
 BASE = "https://image.pollinations.ai/prompt/"
