@@ -1053,8 +1053,8 @@
       <handle>victorhbalke</handle>
       <initials>VHB</initials>
       <color>#4a6a3a</color>
-      <years>1920–</years>
-      <bio>American scholar on civil disobedience and its limits. The question is not whether conscience is real—the question is what we owe each other when consciences conflict.</bio>
+      <years>1931–</years>
+      <bio>Bishop of the Diocese of Crookston. ‘Thou shalt not kill’ is still the law of God even if it is no longer, in the case of the unborn, the law of the land.</bio>
       <avatar>avatars/VictorHBalke.jpg</avatar>
     </author>
 
@@ -1244,6 +1244,24 @@
       <years>fl. 1990s</years>
       <bio>Legal scholar and political theorist. Interested in the tension between principled dissent and the practical demands of governance in a complex society. Skeptical that nineteenth-century moral individualism translates cleanly into modern institutional life.</bio>
       <avatar>avatars/StephenAlton.jpg</avatar>
+    </author>
+
+    <author id="JosephLawrenceBasile">
+      <name>Joseph Lawrence Basile</name>
+      <handle>jlbasile</handle>
+      <initials>JLB</initials>
+      <color>#6b4e3a</color>
+      <years>fl. 1970s</years>
+      <bio>Literary scholar of American Romanticism. Reads @hdthoreau not as a crank but as a serious philosopher of technology and human flourishing — one who hoped the machine age might yet be steered toward brotherhood rather than dehumanization.</bio>
+    </author>
+
+    <author id="JamesWDouglass">
+      <name>James W. Douglass</name>
+      <handle>jameswdouglass</handle>
+      <initials>JWD</initials>
+      <color>#3a4a6a</color>
+      <years>1933–</years>
+      <bio>Catholic peace activist, theologian, and writer. Believes that nonviolent resistance is not a tactic but a vocation — a way of life rooted in conscience and love. Tracks the line from @hdthoreau to @mahatma to the nuclear age with a sense of both urgency and hope.</bio>
     </author>
 
   </authors>
@@ -1468,7 +1486,11 @@
     <post id="p5" author="thoreau" timestamp="1849">
       <content>But it is not the less necessary for this; for the people must have some complicated machinery or other, and hear its din, to satisfy that idea of government which they have. Governments show thus how successfully men can be imposed upon, even impose on themselves, for their own advantage.</content>
       <likes/>
-      <replies/>
+      <replies>
+        <reply id="r5-1" author="JosephLawrenceBasile" timestamp="1972">
+          <content>@hdthoreau is seeking to justify the place of the machine in man’s life: he has hopes of making the physical world—through its mechanical inventions—lead man to the attainment of the ideal. Hence, he attacks no one particular “trade” or “occupation”; rather, he opposes any way of life that he finds to be essentially mechanical, devoid of love and true human brotherhood, and capable of dehumanizing mankind.</content>
+        </reply>
+      </replies>
     </post>
 
     <post id="p6" author="thoreau" timestamp="1849">
@@ -2441,6 +2463,11 @@
         </reply>
         <reply id="r69-2" author="gandhi" timestamp="1907">
           <content>Historians say that the chief cause of the abolition of slavery in America was @hdthoreau’s imprisonment and the posting by him of this thread after his release. Men like Thoreau brought about the abolition of slavery by their personal examples.</content>
+          <replies>
+            <reply id="r69-2-1" author="JamesWDouglass" timestamp="1962">
+              <content>At one time it might have been possible to doubt the efficacy of @hdthoreau’s principle. Now in a post-@mahatma age it is not. We may say that we are not Gandhis, or that we do not wish to be Gandhis, but we can no longer say that a Gandhi is impossible.</content>
+            </reply>
+          </replies>
         </reply>
         <reply id="r69-3" author="hugobedau" timestamp="1969">
           <content>@hdthoreau thinks the effect of arresting, prosecuting, and imprisoning civil disobedients will jolt the government into awareness of the immorality of its position, then shame the authorities into refusing to perform these duties, and thereby alter the attitude of society as a whole. No doubt this is unrealistic, and Thoreau is not as explicit as one could wish in developing this argument. Certainly from his own jailing there seem to have been few social or political consequences whatever.</content>

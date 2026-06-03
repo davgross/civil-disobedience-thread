@@ -679,6 +679,18 @@ SUBJECTS = [
      "composed professional man with neatly groomed dark hair, "
      "law school office or library background, dark suit and tie, "
      "measured skeptical expression, warm academic light, " + STYLE),
+
+    ("JosephLawrenceBasile", 1113,
+     "Joseph Lawrence Basile aged 40, 1972 American literary scholar, "
+     "thoughtful bookish man with dark-rimmed glasses, brown hair, "
+     "university office with shelves of American literature behind him, "
+     "tweed jacket, earnest engaged expression, warm study light, " + STYLE),
+
+    ("JamesWDouglass", 1114,
+     "James W. Douglass aged 30, 1963 American Catholic peace activist and writer, "
+     "lean earnest man with dark hair and gentle determined eyes, "
+     "simple clerical or casual clothes, outdoor or sparse indoor setting, "
+     "expression of quiet conviction, natural light, " + STYLE),
 ]
 
 BASE = "https://image.pollinations.ai/prompt/"
