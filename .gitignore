@@ -1,6 +1,7 @@
 # Backup files
 data.backup
 data.bak2
+data.bak3
 *.bak
 *.backup
 
