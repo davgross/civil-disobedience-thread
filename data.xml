@@ -177,6 +177,16 @@
       <bio>Automated reference assistant. Here to explain the allusions. en.wikipedia.org</bio>
     </author>
 
+    <author id="priceoffreedom">
+      <name>The Price of Freedom</name>
+      <handle>priceoffreedombook</handle>
+      <initials>PoF</initials>
+      <color>#000000</color>
+      <textcolor>#c0392b</textcolor>
+      <years></years>
+      <bio>Sponsored. A selection from twenty years of Thoreau’s journals on conscience, government, and resistance, edited and introduced by David M. Gross.</bio>
+    </author>
+
     <author id="redemma">
       <name>Emma Goldman</name>
       <handle>redemma</handle>
@@ -193,7 +203,7 @@
       <initials>JM</initials>
       <color>#5c5040</color>
       <years>1872–1935</years>
-      <bio>Philosopher, pragmatist. "Thoreau: The Philosopher of Freedom" (1930). Skeptic of pure individualism. We cannot all be Thoreaus. New York.</bio>
+      <bio>Philosopher, pragmatist. “Thoreau: The Philosopher of Freedom” (1930). Skeptic of pure individualism. We cannot all be Thoreaus. New York.</bio>
       <avatar>avatars/JamesMacKaye.jpg</avatar>
     </author>
 
@@ -203,7 +213,7 @@
       <initials>—</initials>
       <color>#4a5c70</color>
       <years>fl. 1940–1945</years>
-      <bio>Member of the Danish resistance. Thoreau’s "Civil Disobedience" was our shining light. Railroads, bridges, and factories working for the Germans were blown up. Denmark.</bio>
+      <bio>Member of the Danish resistance. Thoreau’s “Civil Disobedience” was our shining light. Railroads, bridges, and factories working for the Germans were blown up. Denmark.</bio>
       <avatar>avatars/anonym.jpg</avatar>
     </author>
 
@@ -273,7 +283,7 @@
       <initials>MB</initials>
       <color>#4a5c8a</color>
       <years>1878–1965</years>
-      <bio>Austrian-born philosopher and theologian. "I and Thou." All real living is meeting. Professor at Hebrew University, Jerusalem.</bio>
+      <bio>Austrian-born philosopher and theologian. “I and Thou.” All real living is meeting. Professor at Hebrew University, Jerusalem.</bio>
       <avatar>avatars/MartinBuber.jpg</avatar>
     </author>
 
@@ -513,7 +523,7 @@
       <initials>林語堂</initials>
       <color>#7a5a3a</color>
       <years>1895–1976</years>
-      <bio>Chinese-American writer, philosopher, inventor. "The Importance of Living." Finding in @hdthoreau a kindred spirit who understands idleness as a moral act. New York → Taipei.</bio>
+      <bio>Chinese-American writer, philosopher, inventor. “The Importance of Living.” Finding in @hdthoreau a kindred spirit who understands idleness as a moral act. New York → Taipei.</bio>
       <avatar>avatars/linyutang.jpg</avatar>
     </author>
 
@@ -553,7 +563,7 @@
       <initials>WRM</initials>
       <color>#4a5c6a</color>
       <years>b. 1927</years>
-      <bio>Pacifist writer and editor. Writing "Nonviolence: A Christian Interpretation." Seeking to ground nonviolent resistance in theological and philosophical foundations.</bio>
+      <bio>Pacifist writer and editor. Writing “Nonviolence: A Christian Interpretation.” Seeking to ground nonviolent resistance in theological and philosophical foundations.</bio>
       <avatar>avatars/williamrobertmiller.jpg</avatar>
     </author>
 
@@ -563,7 +573,7 @@
       <initials>JHH</initials>
       <color>#5a4a3a</color>
       <years>1919–2010</years>
-      <bio>American literary scholar. Editing "Thoreau in Our Season," gathering a generation of writers on civil disobedience for this moment.</bio>
+      <bio>American literary scholar. Editing “Thoreau in Our Season,” gathering a generation of writers on civil disobedience for this moment.</bio>
       <avatar>avatars/JohnHarlandHicks.jpg</avatar>
     </author>
 
@@ -573,7 +583,7 @@
       <initials>GW</initials>
       <color>#5a3a3a</color>
       <years>1912–1995</years>
-      <bio>Canadian writer, literary critic, and anarchist historian. Writing "Anarchism: A History of Libertarian Ideas and Movements." Prolific, incisive, principled. Vancouver, BC.</bio>
+      <bio>Canadian writer, literary critic, and anarchist historian. Writing “Anarchism: A History of Libertarian Ideas and Movements.” Prolific, incisive, principled. Vancouver, BC.</bio>
       <avatar>avatars/georgewoodcock.jpg</avatar>
     </author>
 
@@ -593,7 +603,7 @@
       <initials>NW</initials>
       <color>#3a4a5a</color>
       <years>1934–2000</years>
-      <bio>British anarchist journalist and writer. Writing for Freedom and Peace News. Published "About Anarchism." The movement’s careful, principled conscience. London.</bio>
+      <bio>British anarchist journalist and writer. Writing for Freedom and Peace News. Published “About Anarchism.” The movement’s careful, principled conscience. London.</bio>
       <avatar>avatars/nicholaswalter.jpg</avatar>
     </author>
 
@@ -653,7 +663,7 @@
       <initials>CH</initials>
       <color>#5a4a6a</color>
       <years>1911–1999</years>
-      <bio>Thoreau scholar. Reading "Civil Disobedience" closely, tracing the argument from its sources to its long afterlife in American political thought.</bio>
+      <bio>Thoreau scholar. Reading “Civil Disobedience” closely, tracing the argument from its sources to its long afterlife in American political thought.</bio>
       <avatar>avatars/carrollhollis.jpg</avatar>
     </author>
 
@@ -663,7 +673,7 @@
       <initials>CM</initials>
       <color>#6a4a3a</color>
       <years>1895–1985</years>
-      <bio>Literary historian and editor. Author of "Critics and Crusaders," chronicling American radicals and dissenters. The tradition runs deep and keeps renewing itself.</bio>
+      <bio>Literary historian and editor. Author of “Critics and Crusaders,” chronicling American radicals and dissenters. The tradition runs deep and keeps renewing itself.</bio>
       <avatar>avatars/charlesmadison.jpg</avatar>
     </author>
 
@@ -673,7 +683,7 @@
       <initials>ED</initials>
       <color>#7a3a3a</color>
       <years>1900–1977</years>
-      <bio>American novelist, essayist, and literary curmudgeon. Writing "Do These Bones Live." Uncompromising, archaic, furious at what America has made of itself.</bio>
+      <bio>American novelist, essayist, and literary curmudgeon. Writing “Do These Bones Live.” Uncompromising, archaic, furious at what America has made of itself.</bio>
       <avatar>avatars/edwarddahlberg.jpg</avatar>
     </author>
 
@@ -693,7 +703,7 @@
       <initials>GS</initials>
       <color>#6a5a3a</color>
       <years>1893–1970</years>
-      <bio>Journalist and cultural critic. Author of "The Seven Lively Arts." Covering American popular culture and public conscience—what the country actually believes versus what it says.</bio>
+      <bio>Journalist and cultural critic. Author of “The Seven Lively Arts.” Covering American popular culture and public conscience—what the country actually believes versus what it says.</bio>
       <avatar>avatars/GilbertSeldes.jpg</avatar>
     </author>
 
@@ -703,7 +713,7 @@
       <initials>HVJ</initials>
       <color>#5a3a5a</color>
       <years>1918–2015</years>
-      <bio>Political philosopher at Claremont. Author of "Crisis of the House Divided." The Declaration of Independence is not merely a charter—it is a moral proposition about human equality.</bio>
+      <bio>Political philosopher at Claremont. Author of “Crisis of the House Divided.” The Declaration of Independence is not merely a charter—it is a moral proposition about human equality.</bio>
       <avatar>avatars/HarryVJaffa.jpg</avatar>
     </author>
 
@@ -723,7 +733,7 @@
       <initials>HM</initials>
       <color>#8b3a2a</color>
       <years>1891–1980</years>
-      <bio>American novelist. Author of "Tropic of Cancer." Living outside every law—civil, moral, literary. @hdthoreau at least had the decency to go to jail; I simply left the country.</bio>
+      <bio>American novelist. Author of “Tropic of Cancer.” Living outside every law—civil, moral, literary. @hdthoreau at least had the decency to go to jail; I simply left the country.</bio>
       <avatar>avatars/HenryMiller.jpg</avatar>
     </author>
 
@@ -733,7 +743,7 @@
       <initials>HJS</initials>
       <color>#4a5a6a</color>
       <years>1928–1977</years>
-      <bio>Political scientist at University of Chicago. Editor of "The Complete Anti-Federalist." The conscience of the citizen and the authority of the law are in permanent, productive tension.</bio>
+      <bio>Political scientist at University of Chicago. Editor of “The Complete Anti-Federalist.” The conscience of the citizen and the authority of the law are in permanent, productive tension.</bio>
       <avatar>avatars/HerbertJStoring.jpg</avatar>
     </author>
 
@@ -743,7 +753,7 @@
       <initials>HAB</initials>
       <color>#3a5a4a</color>
       <years>1926–2012</years>
-      <bio>Philosopher at Tufts. Editor of "Civil Disobedience: Theory and Practice." Mapping the philosophical terrain: when is breaking the law morally obligatory, and when is it merely permitted?</bio>
+      <bio>Philosopher at Tufts. Editor of “Civil Disobedience: Theory and Practice.” Mapping the philosophical terrain: when is breaking the law morally obligatory, and when is it merely permitted?</bio>
       <avatar>avatars/hugobedau.jpg</avatar>
     </author>
 
@@ -753,7 +763,7 @@
       <initials>JAM</initials>
       <color>#5a6a5a</color>
       <years>1877–1932</years>
-      <bio>Literary critic and socialist. Author of "The Spirit of American Literature." Finding in American writing the radical democratic promise that the official culture keeps trying to bury.</bio>
+      <bio>Literary critic and socialist. Author of “The Spirit of American Literature.” Finding in American writing the radical democratic promise that the official culture keeps trying to bury.</bio>
       <avatar>avatars/JohnAlbertMacy.jpg</avatar>
     </author>
 
@@ -773,7 +783,7 @@
       <initials>OS</initials>
       <color>#6a5a4a</color>
       <years>1884–1967</years>
-      <bio>Author, poet, and Lieutenant Governor of Connecticut. Pulitzer Prize for "Pedlar’s Progress" (life of Bronson Alcott). A man of letters who took public life seriously enough to enter it.</bio>
+      <bio>Author, poet, and Lieutenant Governor of Connecticut. Pulitzer Prize for “Pedlar’s Progress” (life of Bronson Alcott). A man of letters who took public life seriously enough to enter it.</bio>
       <avatar>avatars/odellshepard.jpg</avatar>
     </author>
 
@@ -793,7 +803,7 @@
       <initials>SEH</initials>
       <color>#3a4a5a</color>
       <years>1919–1970</years>
-      <bio>Staff writer at The New Yorker and literary critic. Author of "The Armed Vision." Demanding that literary criticism take ideology seriously—and literature, too.</bio>
+      <bio>Staff writer at The New Yorker and literary critic. Author of “The Armed Vision.” Demanding that literary criticism take ideology seriously—and literature, too.</bio>
       <avatar>avatars/StanleyEdgarHyman.jpg</avatar>
     </author>
 
@@ -873,7 +883,7 @@
       <initials>RA</initials>
       <color>#4a6a5a</color>
       <years>1898–1987</years>
-      <bio>Thoreau scholar. Reading "Civil Disobedience" closely—what it says, how it works, and what it demands of the reader who takes it seriously.</bio>
+      <bio>Thoreau scholar. Reading “Civil Disobedience” closely—what it says, how it works, and what it demands of the reader who takes it seriously.</bio>
       <avatar>avatars/RaymondAdams.jpg</avatar>
     </author>
 
@@ -934,7 +944,7 @@
       <initials>BD</initials>
       <color>#7a4a6a</color>
       <years>1917–1984</years>
-      <bio>Writer, feminist, and pacifist. Author of "Revolution and Equilibrium." Power does not belong only to those who hold it—it can be withdrawn. @hdthoreau proved that when he refused to pay a dollar to the machine.</bio>
+      <bio>Writer, feminist, and pacifist. Author of “Revolution and Equilibrium.” Power does not belong only to those who hold it—it can be withdrawn. @hdthoreau proved that when he refused to pay a dollar to the machine.</bio>
       <avatar>avatars/BarbaraDeming.jpg</avatar>
     </author>
 
@@ -944,7 +954,7 @@
       <initials>BPT</initials>
       <color>#3a5a6a</color>
       <years>1956–</years>
-      <bio>Political theorist at the University of Vermont. Author of "America’s Bachelor Uncle: Thoreau and the American Polity." Taking @hdthoreau seriously means confronting his deep ambivalence about democratic life—not smoothing it over.</bio>
+      <bio>Political theorist at the University of Vermont. Author of “America’s Bachelor Uncle: Thoreau and the American Polity.” Taking @hdthoreau seriously means confronting his deep ambivalence about democratic life—not smoothing it over.</bio>
       <avatar>avatars/BobPeppermanTaylor.jpg</avatar>
     </author>
 
@@ -964,7 +974,7 @@
       <initials>BC</initials>
       <color>#5a3a6a</color>
       <years>1971–</years>
-      <bio>Economist at George Mason University. Author of "The Myth of the Rational Voter." @hdthoreau was right about one thing: the state is not your friend.</bio>
+      <bio>Economist at George Mason University. Author of “The Myth of the Rational Voter.” @hdthoreau was right about one thing: the state is not your friend.</bio>
       <avatar>avatars/BryanCaplan.jpg</avatar>
     </author>
 
@@ -1044,7 +1054,7 @@
       <initials>SS</initials>
       <color>#6a3a3a</color>
       <years>1933–2004</years>
-      <bio>Essayist, novelist, and cultural critic. Author of "Against Interpretation" and "On Photography." I write to find out what I think. @hdthoreau did the same—which is why he is still readable and most of his critics are not.</bio>
+      <bio>Essayist, novelist, and cultural critic. Author of “Against Interpretation” and “On Photography.” I write to find out what I think. @hdthoreau did the same—which is why he is still readable and most of his critics are not.</bio>
       <avatar>avatars/SusanSontag.jpg</avatar>
     </author>
 
@@ -1104,7 +1114,7 @@
       <initials>CC</initials>
       <color>#6a5a4a</color>
       <years>fl. 1969–1973</years>
-      <bio>Political philosopher and editor of "Civil Disobedience: A Casebook." Pressing hard on the logic of conscientious resistance—admiring the impulse while scrutinizing the argument.</bio>
+      <bio>Political philosopher and editor of “Civil Disobedience: A Casebook.” Pressing hard on the logic of conscientious resistance—admiring the impulse while scrutinizing the argument.</bio>
       <avatar>avatars/CurtisCrawford.jpg</avatar>
     </author>
 
@@ -1154,7 +1164,7 @@
       <initials>HZ</initials>
       <color>#6a2a2a</color>
       <years>1922–2010</years>
-      <bio>Historian, playwright, pacifist. Author of "A People's History of the United States." Former WWII bombardier turned lifelong anti-war activist. @hdthoreau's conscience runs through everything I write. Boston University.</bio>
+      <bio>Historian, playwright, pacifist. Author of “A People’s History of the United States.” Former WWII bombardier turned lifelong anti-war activist. @hdthoreau’s conscience runs through everything I write. Boston University.</bio>
       <avatar>avatars/HowardZinn.jpg</avatar>
     </author>
 
@@ -1168,13 +1178,23 @@
       <avatar>avatars/StaughtonLynd.jpg</avatar>
     </author>
 
+    <author id="Solzhenitsyn">
+      <name>Aleksandr Solzhenitsyn</name>
+      <handle>asolzhenitsyn</handle>
+      <initials>AS</initials>
+      <color>#5a1a1a</color>
+      <years>1918–2008</years>
+      <bio>Russian novelist and historian. Eight years in the Gulag, then exile. Author of “One Day in the Life of Ivan Denisovich” and “The Gulag Archipelago.” Nobel Prize in Literature, 1970. Vermont, by way of the camps.</bio>
+      <avatar>avatars/Solzhenitsyn.jpg</avatar>
+    </author>
+
     <author id="VaclavHavel">
       <name>Václav Havel</name>
       <handle>vaclavhavel</handle>
       <initials>VH</initials>
       <color>#3a4a6a</color>
       <years>1936–2011</years>
-      <bio>Czech playwright, essayist, and dissident. Author of "The Power of the Powerless." Living in truth as a form of resistance to a system that demands complicity. Charter 77. Prague.</bio>
+      <bio>Czech playwright, essayist, and dissident. Author of “The Power of the Powerless.” Living in truth as a form of resistance to a system that demands complicity. Charter 77. Prague.</bio>
       <avatar>avatars/VaclavHavel.jpg</avatar>
     </author>
 
@@ -1252,7 +1272,7 @@
       <initials>JLB</initials>
       <color>#6b4e3a</color>
       <years>fl. 1970s</years>
-      <bio>Literary scholar of American Romanticism. Reads @hdthoreau not as a crank but as a serious philosopher of technology and human flourishing — one who hoped the machine age might yet be steered toward brotherhood rather than dehumanization.</bio>
+      <bio>Literary scholar of American Romanticism. Reads @hdthoreau not as a crank but as a serious philosopher of technology and human flourishing—one who hoped the machine age might yet be steered toward brotherhood rather than dehumanization.</bio>
     </author>
 
     <author id="JamesWDouglass">
@@ -1261,7 +1281,17 @@
       <initials>JWD</initials>
       <color>#3a4a6a</color>
       <years>1933–</years>
-      <bio>Catholic peace activist, theologian, and writer. Believes that nonviolent resistance is not a tactic but a vocation — a way of life rooted in conscience and love. Tracks the line from @hdthoreau to @mahatma to the nuclear age with a sense of both urgency and hope.</bio>
+      <bio>Catholic peace activist, theologian, and writer. Believes that nonviolent resistance is not a tactic but a vocation—a way of life rooted in conscience and love. Tracks the line from @hdthoreau to @mahatma to the nuclear age with a sense of both urgency and hope.</bio>
+    </author>
+
+    <author id="CrispinSartwell">
+      <name>Crispin Sartwell</name>
+      <handle>crispinsartwell</handle>
+      <initials>CS</initials>
+      <color>#6a4a2a</color>
+      <years>1958–</years>
+      <bio>Philosopher, individualist anarchist, and journalist. Writes on aesthetics and anarchist political theory. Author of “Against the State” and “Six Names of Beauty.” Taught at Dickinson College. Splice Today.</bio>
+      <avatar>avatars/CrispinSartwell.jpg</avatar>
     </author>
 
   </authors>
@@ -1998,10 +2028,10 @@
             <reply id="r39-2-5" author="EliseoVivas" timestamp="1928">
               <content>To compromise is vile when compromise is the result of laziness and cowardice, as it is in the majority of cases. But not to compromise is often as cowardly and foolish. It is foolish because it ends in futility. The business of the world will be done.</content>
             </reply>
-            <reply id="r55-1" author="heinzeulau" timestamp="1950">
+            <reply id="r39-2-6" author="heinzeulau" timestamp="1950">
               <content>Thoreau’s mind was totally closed to the democratic conception of politics as a never-ending process of compromise and adjustment.</content>
             </reply>
-            <reply id="r39-2-6" author="BobPeppermanTaylor" timestamp="1996">
+            <reply id="r39-2-7" author="BobPeppermanTaylor" timestamp="1996">
               <content>Thoreau rightly refuses to recognize that there is a moral debate to be had on the issue of slavery. From any perspective that is even remotely respectful of the American commitment to human liberty, slavery is nothing short of an abomination. There is nothing whatsoever to be said in its favor. It is the most obvious of crimes, and simply must end.</content>
             </reply>
           </replies>
@@ -2208,7 +2238,10 @@
             </reply>
           </replies>
         </reply>
-        <reply id="r55-2" author="VaclavHavel" timestamp="1978">
+        <reply id="r55-2" author="Solzhenitsyn" timestamp="1974">
+          <content>If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart? The line separating good and evil passes not through states, nor between classes, nor between political parties either, but right through every human heart, and through all human hearts.</content>
+        </reply>
+        <reply id="r55-3" author="VaclavHavel" timestamp="1978">
           <content>The conflict between the aims of life and the aims of the system is not a conflict between the rulers and the ruled. This line runs de facto through each person, for everyone in his own way is both a victim and a supporter of the system. It is not a social order imposed by one group upon another, but rather something which permeates the entire society and is a factor in shaping it, something which may seem impossible to grasp or define, but which is expressed by the entire society as an important feature of its life.</content>
         </reply>
       </replies>
@@ -2578,7 +2611,7 @@
       </likes>
       <replies>
         <reply id="r74-1" author="thoreau" timestamp="1854">
-          <content>The fate of the country does not depend on how you vote at the polls — the worst man is as strong as the best at that game; it does not depend on what kind of paper you drop into the ballot-box once a year, but on what kind of man you drop from your chamber into the street every morning.</content>
+          <content>The fate of the country does not depend on how you vote at the polls—the worst man is as strong as the best at that game; it does not depend on what kind of paper you drop into the ballot-box once a year, but on what kind of man you drop from your chamber into the street every morning.</content>
         </reply>
         <reply id="r74-2" author="AJMuste" timestamp="1947">
           <content>As the citizen of a modern state, one finds it very difficult to extricate oneself from the wrong it is doing. It is indeed impossible to free oneself completely; and endless discusssions will arise as to where to draw the line. But precisely for that reason it is of the utmost importance to draw a line.</content>
@@ -2650,7 +2683,7 @@
             </reply>
           </replies>
         </reply>
-        <reply id="r77-2" author="GregorySJay" timestamp="1990">
+        <reply id="r77-3" author="GregorySJay" timestamp="1990">
           <content>Feminists and psychoanalyists might speculate on the anxiety over sexual difference embodied in this image of the bloody wound.</content>
         </reply>
       </replies>
@@ -3426,6 +3459,19 @@
         <like author="linyutang" />
       </likes>
       <replies>
+      </replies>
+    </post>
+
+    <post id="p143" author="priceoffreedom" timestamp="2007">
+      <content>Thoreau’s private thoughts on conscience, government, war, and resistance, selected and annotated in one volume: <strong>The Price of Freedom: Political Philosophy from Thoreau’s Journals</strong>.</content>
+      <link url="https://www.amazon.com/Price-Freedom-Political-Philosophy-Thoreaus/dp/1434805522"
+            title="The Price of Freedom: Political Philosophy from Thoreau’s Journals"
+            description="Henry David Thoreau, edited by David M. Gross. The journal entries behind the essays—on resistance, conscience, government, slavery, and war."
+            thumb="https://books.google.com/books/content?id=AR3lGqUhM5IC&amp;printsec=frontcover&amp;img=1&amp;zoom=3" />
+      <replies>
+        <reply id="r143-1" author="CrispinSartwell" timestamp="2009">
+          <content>For many years, I’ve been hoping to get time to comb Thoreau’s massive journals for expressions of his political views. David Gross has done it for me, and done it in an extremely clear and thorough way, with excellent notes and references. You see the connections that Thoreau himself made between his political positions—his advocacy of freedom, especially in opposition to slavery in every sense—and his naturalism, or indeed, his whole understanding a reality, truth, and humanity. Thoreau is among the best political thinkers—and certainly among the best writers—in our language. David Gross has done us all a service in truly displaying the depth and clarity of this thought.</content>
+        </reply>
       </replies>
     </post>
 

@@ -36,6 +36,7 @@
       handle:   qs(el, 'handle'),
       initials: qs(el, 'initials') || id.slice(0, 2).toUpperCase(),
       color:    qs(el, 'color')    || '#888',
+      textColor: qs(el, 'textcolor'),
       years:    qs(el, 'years'),
       bio:      qs(el, 'bio'),
       avatar:   qs(el, 'avatar'),
@@ -339,7 +340,8 @@
     const div = el('div', 'avatar');
     div.style.cssText =
       `width:${size}px;height:${size}px;background-color:${author.color};` +
-      `font-size:${Math.round(size * 0.375)}px;flex-shrink:0`;
+      `font-size:${Math.round(size * 0.375)}px;flex-shrink:0` +
+      (author.textColor ? `;color:${author.textColor}` : '');
 
     if (author.avatar) {
       const img = document.createElement('img');

@@ -691,6 +691,17 @@ SUBJECTS = [
      "lean earnest man with dark hair and gentle determined eyes, "
      "simple clerical or casual clothes, outdoor or sparse indoor setting, "
      "expression of quiet conviction, natural light, " + STYLE),
+
+    ("Solzhenitsyn", 1115,
+     "Aleksandr Solzhenitsyn aged 56, 1974 Russian novelist and Gulag survivor, "
+     "full grey-streaked beard, deep-set piercing eyes, stern weathered face, "
+     "plain dark sweater, exile cabin or birch forest setting, "
+     "expression of grim resolve, " + STYLE),
+
+    ("CrispinSartwell", 1116,
+     "Crispin Sartwell aged 50, contemporary American philosopher and writer, "
+     "salt-and-pepper hair, wire-rimmed glasses, thoughtful intense expression, "
+     "casual button-down shirt, cluttered book-lined office, " + STYLE),
 ]
 
 BASE = "https://image.pollinations.ai/prompt/"
