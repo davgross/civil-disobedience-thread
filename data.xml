@@ -243,7 +243,7 @@
       <initials>WP</initials>
       <color>#3a5070</color>
       <years>1743–1805</years>
-      <bio>Archdeacon of Carlisle. Natural theologian. “Principles of Moral and Political Philosophy." The universe is a watch; I rest my case. Carlisle, England.</bio>
+      <bio>Archdeacon of Carlisle. Natural theologian. “Principles of Moral and Political Philosophy.” The universe is a watch; I rest my case. Carlisle, England.</bio>
       <avatar>avatars/williampaley.jpg</avatar>
     </author>
 
@@ -1282,6 +1282,7 @@
       <color>#3a4a6a</color>
       <years>1933–</years>
       <bio>Catholic peace activist, theologian, and writer. Believes that nonviolent resistance is not a tactic but a vocation—a way of life rooted in conscience and love. Tracks the line from @hdthoreau to @mahatma to the nuclear age with a sense of both urgency and hope.</bio>
+      <avatar>avatars/JamesWDouglass.jpg</avatar>
     </author>
 
     <author id="CrispinSartwell">
@@ -1302,6 +1303,35 @@
       <years>1965–</years>
       <bio>French philosopher, professor at Sciences Po Paris. Author of “A Philosophy of Walking” and “Disobey! A Philosophy of Resistance.” Foucault is my map; disobedience is the territory. Paris.</bio>
       <avatar>avatars/FrédéricGros.jpg</avatar>
+    </author>
+
+    <author id="GEMAnscombe">
+      <name>G.E.M. Anscombe</name>
+      <handle>gemanscombe</handle>
+      <initials>GEMA</initials>
+      <color>#5a2a5a</color>
+      <years>1919–2001</years>
+      <bio>Philosopher, Wittgenstein’s student and literary executor. “Modern Moral Philosophy” (1958). Catholic, Aristotelian, and unafraid to say so. Conscience is not a guarantee of virtue. Cambridge.</bio>
+      <avatar>avatars/GEMAnscombe.jpg</avatar>
+    </author>
+
+    <author id="RobertPaulWolff">
+      <name>Robert Paul Wolff</name>
+      <handle>rpwolff</handle>
+      <initials>RPW</initials>
+      <color>#3a4a6a</color>
+      <years>1933–</years>
+      <bio>Philosopher, Kant scholar, anarchist. “In Defense of Anarchism” (1970). The state’s claim to legitimate authority is logically irreconcilable with the individual’s moral autonomy. UMass Amherst.</bio>
+      <avatar>avatars/RPWolff.jpg</avatar>
+    </author>
+
+    <author id="ShermanPaul">
+      <name>Sherman Paul</name>
+      <handle>shermanpaul</handle>
+      <initials>SP</initials>
+      <color>#4a6a5a</color>
+      <years>1920–2000</years>
+      <bio>Literary critic and Thoreau scholar. “The Shores of America: Thoreau’s Inward Exploration” (1958). Reading @hdthoreau as an artist of self-culture, not merely a pamphleteer. University of Iowa.</bio>
     </author>
 
   </authors>
@@ -1643,7 +1673,13 @@
         <reply id="r12-2" author="JSMill" timestamp="1835">
           <content>In democratic states like the American republics, where the majority possesses an empire so absolute and so irresistible, whoever quits the path it has traced out must in a manner renounce the rights of citizenship, and almost those of humanity.</content>
         </reply>
-        <reply id="r12-3" author="JohnRawls" timestamp="1971">
+        <reply id="r12-3" author="GEMAnscombe" timestamp="1958">
+          <content>A man’s conscience may tell him to do the vilest things.</content>
+        </reply>
+        <reply id="r12-4" author="RobertPaulWolff" timestamp="1970">
+          <content>It is out of the question to give up the commitment to moral autonomy. Men are no better than children if they not only accept the rule of others from force of necessity, but embrace it willingly and forfeit their duty unceasingly to weigh the merits of the actions which they perform. When I place myself in the hands of another, and permit him to determine the principles by which I shall guide my behavior, I repudiate the freedom and reason which give me dignity.</content>
+        </reply>
+        <reply id="r12-5" author="JohnRawls" timestamp="1971">
           <content>It suffices to note that while citizens normally submit their conduct to democratic authority, that is, recognize the outcome of a vote as establishing a binding rule, other things equal, they do not submit their judgment to it.</content>
         </reply>
       </replies>
@@ -1725,7 +1761,7 @@
 
     <post id="p17" author="thoreau" timestamp="1849">
       <quote author="charleswolfe" timestamp="1817" source="The Burial of Sir John Moore at Corunna">
-        <content>Not a drum was heard, not a funeral note,<br />As his corse to the ramparts we hurried;<br />Not a soldier discharged his farewell shot<br />O’er the grave where our hero we buried.</content>
+        <content>Not a drum was heard, not a funeral note,<br />As his corse to the rampart we hurried;<br />Not a soldier discharged his farewell shot<br />O’er the grave where our hero we buried.</content>
       </quote>
       <content>Visit the Navy Yard, and behold a marine, such a man as an American government can make, or such as it can make a man with its black arts, a mere shadow and reminiscence of humanity, a man laid out alive and standing, and already, as one may say, buried under arms with funeral accompaniments, though it may be</content>
       <likes/>
@@ -1965,7 +2001,10 @@
         <like author="AJMuste" />
       </likes>
       <replies>
-        <reply id="r35-1" author="biblebot" timestamp="">
+        <reply id="r35-1" author="BobPeppermanTaylor" timestamp="2014">
+          <content>@hdthoreau assumes that the main problem with which to confront his audience is its unwillingness to do what is right, not its inability to understand what is right. Thoreau is actually quite optimistic about the ability of most individuals to be conscientious in the full sense of the word—to be both committed to the moral truth and to understand what this truth is and demands of us.</content>
+        </reply>
+        <reply id="r35-2" author="biblebot" timestamp="">
           <link url="https://www.biblegateway.com/passage/?search=1%20corinthians%205%3A6&amp;version=KJV" title="1&#xA0;Corinthians 5:6" description="“Do you not know that a little leaven leavens the whole lump?”" />
         </reply>
       </replies>
@@ -2074,6 +2113,11 @@
           <replies>
             <reply id="r40-2-1" author="thoreau" timestamp="1854">
               <content>When were the good and the brave ever in a majority?</content>
+              <replies>
+                <reply id="r40-2-1-1" author="BobPeppermanTaylor" timestamp="2014">
+                  <content>We might hold a commitment to democratic processes as a moral obligation growing not from moral skepticism (that is, skepticism about the existence of moral truths), but from the realistic expectation that imperfect citizens will inevitably disagree about the content of moral reality.</content>
+                </reply>
+              </replies>
             </reply>
           </replies>
         </reply>
@@ -2098,6 +2142,11 @@
       <replies>
         <reply id="r42-1" author="thoreau" timestamp="1851">
           <content>It appears to me that those things which most engage the attention of men, as politics, for instance, are vital functions of human society, it is true, but should be unconsciously performed, like the vital functions of the natural body. It is as if a thinker submitted himself to be rasped by the great gizzard of creation. Politics is, as it were, the gizzard of society, full of grit and gravel, and the two political parties are its two opposite halves, which grind on each other. Not only individuals but states have thus a confirmed dyspepsia, which expresses itself, you can imagine by what sort of eloquence.</content>
+          <replies>
+            <reply id="r42-1-1" author="ShermanPaul" timestamp="1958">
+              <content>@hdthoreau is aware of the danger of legislating one’s dyspepsia into law, and what saves Thoreau from this predicament is his refusal to use coercion in behalf of his ideals. He is not a reformer in this sense: persuasion and example are his only weapons.</content>
+            </reply>
+          </replies>
         </reply>
         <reply id="r42-2" author="thoreau" timestamp="1863">
           <content>What is called politics is something so superficial and inhuman, that practically I have never fairly recognized that it concerns me at all.</content>
@@ -2818,6 +2867,11 @@
       <replies>
         <reply id="r85-1" author="wikibot" timestamp="">
           <link url="https://en.wikipedia.org/wiki/Antigone_(Sophocles_play)" title="Antigone (Sophocles play)" description="To meet this doom of yours is precious little pain. But if I had allowed my own mother’s son to rot, an unburied corpse—that would have been an agony!" thumb="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lytras_nikiforos_antigone_polynices.jpeg/330px-Lytras_nikiforos_antigone_polynices.jpeg" />
+          <replies>
+            <reply id="r85-1-1" author="BobPeppermanTaylor" timestamp="2014">
+              <content>The tragedy of the play, in large part, grows directly from the kind of moral posture Antigone represents and has come to symbolize in Western culture. What makes Antigone so admirable is a set of traits that also make her blind to moral ambiguity and other people’s perspectives. Such blindness, the story suggests, can be very dangerous.</content>
+            </reply>
+          </replies>
         </reply>
       </replies>
     </post>
@@ -3336,6 +3390,9 @@
         <reply id="r129-1" author="anonym" timestamp="1966">
           <content>@hdthoreau’s “Civil Disobedience" stood for me, and for my first leader in the resistance movement, as a shining light with which we could examine the policy of complete passivity which our government had ordered for the whole Danish population. I lent Thoreau’s books to friends, told them about him, and our circle grew. Railroads, bridges, and factories that worked for the Germans were blown up.</content>
         </reply>
+        <reply id="r129-2" author="BobPeppermanTaylor" timestamp="2014">
+          <content>@hdthoreau’s thought is that serious moral reflection requires us to find a way to get outside our conventional ways of thinking, our common sense, beyond the traditions and habits that shape our daily lives. Without such independence, we have no way to evaluate the moral qualities of the status quo: what <em>is</em> comes to look like what <em>must be</em>.</content>
+        </reply>
       </replies>
     </post>
 
@@ -3399,7 +3456,7 @@
 
     <post id="p134" author="thoreau" timestamp="1849">
       <quote author="senatorwebster" timestamp="1848" source="U.S. Senate Debate">
-        <content>The manner in which the government of those States where slavery exists are to regulate it, is for their own consideration, under their responsibility to their constituents, to the general laws of propriety, humanity, and justice, and to God. Associations formed elsewhere, springing from a feeling of humanity, or any other cause, have nothing whatever to do with it. They have never received any encouragement from me, and they never will.</content>
+        <content>The manner in which the governments of those States where slavery exists are to regulate it, is for their own consideration, under their responsibility to their constituents, to the general laws of propriety, humanity, and justice, and to God. Associations formed elsewhere, springing from a feeling of humanity, or any other cause, have nothing whatever to do with it. They have never received any encouragement from me, and they never will.</content>
       </quote>
       <content>Notwithstanding his special acuteness and ability, he is unable to take a fact out of its merely political relations, and behold it as it lies absolutely to be disposed of by the intellect,—what, for instance, it behoves a man to do here in American to-day with regard to slavery, but ventures, or is driven, to make some such desperate answer as the following, while professing to speak absolutely, and as a private man,—from which what new and singular code of social duties might be inferred?—</content>
       <likes/>
