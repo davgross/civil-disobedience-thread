@@ -1421,6 +1421,45 @@
       <years>fl. 2021</years>
       <bio>Scholar of American political thought. Skeptical of “Civil Disobedience” as a title—“Resistance to Civil Government” (1849) better captures the rugged moralism of @hdthoreau’s thread. Also watching carefully what later editors did to the text.</bio>
     </author>
+
+    <author id="CarlCohen">
+      <name>Carl Cohen</name>
+      <handle>carlcohen</handle>
+      <initials>CC</initials>
+      <color>#4a5a3a</color>
+      <years>1931–</years>
+      <bio>Philosopher at the University of Michigan. "Civil Disobedience: Conscience, Tactics, and the Law" (1971). Pressing hard on the distinction between principled protest and outright rebellion. Ann Arbor, Michigan.</bio>
+      <avatar>avatars/CarlCohen.jpg</avatar>
+    </author>
+
+    <author id="RobertTHall">
+      <name>Robert T. Hall</name>
+      <handle>roberthall</handle>
+      <initials>RTH</initials>
+      <color>#5a4a3a</color>
+      <years>fl. 1971</years>
+      <bio>Philosopher. "The Morality of Civil Disobedience" (1971). Mapping the moral terrain between lawful protest and revolution—and asking where exactly @hdthoreau stands on it.</bio>
+    </author>
+
+    <author id="LawrenceBuell">
+      <name>Lawrence Buell</name>
+      <handle>lawrencebuell</handle>
+      <initials>LB</initials>
+      <color>#3a5a6a</color>
+      <years>1939–</years>
+      <bio>Literary scholar. "The Environmental Imagination: Thoreau, Nature Writing, and the Formation of American Culture" (1995). Of all @hdthoreau's heirs, American literature may be the most enduring. Powell M. Cabot Professor of American Literature, Harvard.</bio>
+      <avatar>avatars/LawrenceBuell.jpg</avatar>
+    </author>
+
+    <author id="JamesDIngram">
+      <name>James D. Ingram</name>
+      <handle>jamesingram</handle>
+      <initials>JDI</initials>
+      <color>#5a3a5a</color>
+      <years>fl. 2021</years>
+      <bio>Political theorist. Writing on radical democracy, direct action, and the limits of liberal civil disobedience. What @hdthoreau describes is not petition—it is disruption. McGill University, Montreal.</bio>
+      <avatar>avatars/JamesDIngram.jpg</avatar>
+    </author>
   </authors>
 
   <!-- ================================================================
@@ -1474,6 +1513,9 @@
           <replies>
             <reply id="r-rp0-2-1" author="RussellLHanson" timestamp="2021">
               <content>This new title, “Civil Disobedience,” badly serves the rugged moralism of @hdthoreau’s thread, and gives the false impression that the thread argues for the nonviolent, passive submission that was being advocated by the “non-resistants” in the abolitionist movement.</content>
+            </reply>
+            <reply id="r-rp0-2-2" author="JamesDIngram" timestamp="2021">
+              <content>What @hdthoreau proposes is not civil disobedience, but what anarchists term <i>direct action</i>: practices by which people, rather than petitioning the state, express their demands by disrupting social or official life.</content>
             </reply>
           </replies>
         </repost>
@@ -1596,6 +1638,9 @@
               <content>@abefortas’s notion of “political science” clearly does not include moral philosophy, but makes the former a register of whatever regulations the politicians of the time might order.</content>
             </reply>
           </replies>
+        </reply>
+        <reply id="r0-20" author="LawrenceBuell" timestamp="2024">
+          <content>Of all the words of political thought and advocacy inspired by the conflict over slavery, none except Lincoln’s have had a more lasting impact than @hdthoreau’s “Civil Disobedience.”</content>
         </reply>
       </replies>
     </post>
@@ -1810,7 +1855,7 @@
           <content>It suffices to note that while citizens normally submit their conduct to democratic authority, that is, recognize the outcome of a vote as establishing a binding rule, other things equal, they do not submit their judgment to it.</content>
         </reply>
         <reply id="r12-6" author="TonyMilligan" timestamp="2013">
-          <content>When @hdthoreau appeals to conscience, what he seems to have in mind comes close to what medievals such as Thomas Aquinas called <em>synderisis</em>, the infallible discernment of moral principles.</content>
+          <content>When @hdthoreau appeals to conscience, what he seems to have in mind comes close to what medievals such as Thomas Aquinas called <i>synderesis</i>, the infallible discernment of moral principles.</content>
           <replies>
             <reply id="r12-6-1" author="wikibot" timestamp="">
               <link url="https://en.wikipedia.org/wiki/Synderesis" title="Synderesis" description="Use of reason to intuitively discern truth." />
@@ -2472,7 +2517,7 @@
               </likes>
             </reply>
             <reply id="r55-1-2" author="VincentBuranelli" timestamp="1957">
-              <content>@hdthoreau has as profound a disdain for ordinary law as tyrants. Of course he would insist that he means only “bad” law. But this is no answer, for in subordinating law to conscience as he does, by denigrating majority rule and institutional checks, he opens the door to the agile demagogue who generally does not defer to the author of <em>Civil Disobedience</em> when it comes to claiming infallibility.</content>
+              <content>@hdthoreau has as profound a disdain for ordinary law as tyrants. Of course he would insist that he means only “bad” law. But this is no answer, for in subordinating law to conscience as he does, by denigrating majority rule and institutional checks, he opens the door to the agile demagogue who generally does not defer to the author of “Civil Disobedience” when it comes to claiming infallibility.</content>
             </reply>
             <reply id="r55-1-3" author="TerenceBall" timestamp="1973">
               <content>The cliché is confused: what else but the end <em>could</em> possibly justify the means?</content>
@@ -2771,7 +2816,10 @@
         <reply id="r69-6" author="larosenwa" timestamp="1991">
           <content>It is simply not true now, if it ever was, that “one honest man… locked up in the county jail… would be the abolition of slavery [or state violence] in America." Against @hdthoreau’s serene evening in the Concord jail, and his certainty that his truth would prevail, I have had to set the fretting, unsettling experience of resisting repeatedly, being levied repeatedly, and not bringing about the millennium.</content>
         </reply>
-        <reply id="r69-7" author="SusanSontag" timestamp="2003">
+        <reply id="r69-7" author="JohnDear" timestamp="1994">
+          <content>The practice of nonviolent direct action, @hdthoreau believes, spells the end of injustice. Yes, it will take time, he knows, but the demise of the injustice, the war, the violence, is guaranteed. Civil disobedience, Thoreau insists, is the beginning of the end of injustice. Thoreau understands the power of truth put into practice through active, nonviolent, civil disobedience to systemic injustice. Good fruit, as Jesus said, always comes forth from good actions.</content>
+        </reply>
+        <reply id="r69-8" author="SusanSontag" timestamp="2003">
           <content>@hdthoreau’s going to prison for refusing to pay the poll tax in protest against the American war on Mexico hardly stopped the war. But the resonance of that most unpunishing and briefest spell of imprisonment (famously, a single night in jail) has not ceased to inspire principled resistance to injustice through the second half of the twentieth century and into our new era.</content>
         </reply>
       </replies>
@@ -2884,6 +2932,9 @@
         </reply>
         <reply id="r74-4" author="JohnRawls" timestamp="1971">
           <content>A community’s sense of justice is revealed in the fact that the majority cannot bring itself to take the steps necessary to suppress the minority and to punish acts of civil disobedience as the law allows. In spite of its superior power, the majority may abandon its position and acquiesce in the proposals of the dissenters; its desire to give justice weakens its capacity to defend its unjust advantages. The sentiment of justice will be seen as a more vital political force once the subtle forms in which it exerts its influence are recognized, and in particular its role in rendering certain social positions indefensible.</content>
+        </reply>
+        <reply id="r74-5" author="RobertTHall" timestamp="1971">
+          <content>@hdthoreau the idealist was perhaps a little optimistic in presuming that the state would refuse to keep just men in prison.</content>
         </reply>
       </replies>
     </post>
@@ -3052,6 +3103,9 @@
             <reply id="r85-1-1" author="BobPeppermanTaylor" timestamp="2014">
               <content>The tragedy of the play, in large part, grows directly from the kind of moral posture Antigone represents and has come to symbolize in Western culture. What makes Antigone so admirable is a set of traits that also make her blind to moral ambiguity and other people’s perspectives. Such blindness, the story suggests, can be very dangerous.</content>
             </reply>
+            <reply id="r85-1-2" author="LawrenceBuell" timestamp="2024">
+              <content>The defining template for “Civil Disobedience” is of course the confrontation between the embattled person of conscience and state injustice, which dates back in Western imagination to Antigone versus Creon in Sophocles. The key to its staying power is its dramatization of the starkest imaginable kind of self-contradication of values for a nation founded on democratic principles: the antithesis between the claims of individual freedom and legalized chattel slavery.</content>
+            </reply>
           </replies>
         </reply>
       </replies>
@@ -3155,6 +3209,9 @@
       <replies>
         <reply id="r92-1" author="h-a-page" timestamp="1878">
           <content>Seldom has the Puritan idea of freedom of soul been better illustrated—unless perhaps by John Bunyan, in Bedford Jail.</content>
+        </reply>
+        <reply id="r92-2" author="JohnDear" timestamp="1994">
+          <content>@hdthoreau’s lone example and articulate reflection paves the way for generations of resisters to come. His sacramental insight into interior freedom felt while imprisoned for his conscience speaks to us today of the possibilities of the human soul to spark the transformation of the world. His witness is still bearing fruit..</content>
         </reply>
       </replies>
     </post>
@@ -3429,7 +3486,10 @@
         <reply id="r116-1" author="hugobedau" timestamp="1969">
           <content>Is this the flippant aside of one who judges the State so corrupt that there is no moral taint in gaining selfish advantage from it where and when he can? Or is it the somewhat embarrassed confession of a cheat, of one who cannot deny (but refuses to acknowledge) the indispensible benefits provided even by a government which tolerates slave-holding and sporadic outbursts of expansionist warfare?</content>
         </reply>
-        <reply id="r116-2" author="TonyMilligan" timestamp="2013">
+        <reply id="r116-2" author="CarlCohen" timestamp="1971">
+          <content>@hdthoreau’s conduct—deliberate violation of the law and submission to arrest without resistance—is typical of civil disobedients. His thread makes it very clear, however, that what he intended was not merely protest but the complete repudiation of governmental authority. His act may have been a noble one, but in placing himself above the law and denying its jurisdiction over him, he became a rebel. Although his thread probably introduced the expression into common speech, Thoreau himself did not, in the strict sense, defend civil disobedience.</content>
+        </reply>
+        <reply id="r116-3" author="TonyMilligan" timestamp="2013">
           <content>Such a quiet war does not sound like war at all. It may threaten too much for the respectable law-abiding citizen but it offers too little for the thoroughgoing insurrectionist and anarchist.</content>
         </reply>
       </replies>
